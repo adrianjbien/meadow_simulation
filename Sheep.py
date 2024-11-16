@@ -4,7 +4,9 @@ from Animal import Animal
 
 
 class Sheep(Animal):
-    def __init__(self, init_x, init_y, step_length):
+    def __init__(self, xy_limit, step_length):
+        init_x = random.uniform(-1 * xy_limit, xy_limit)
+        init_y = random.uniform(-1 * xy_limit, xy_limit)
         super().__init__(init_x, init_y, step_length)
         self.direction = 0  # zrobic kierunki swiata jako 0,1,2,3 ????
         self.alive = True
