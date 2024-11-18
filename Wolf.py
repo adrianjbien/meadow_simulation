@@ -1,3 +1,5 @@
+import math
+
 from Animal import Animal
 
 
@@ -19,14 +21,19 @@ class Wolf(Animal):
                 closest = sh
         return closest
 
-
-    def is_sheep_in_range(self, closest_sheep):
-        if self.sheep_to_wolf_distance(closest_sheep) <= self.step_length:
-            closest_sheep.set_alive = False
-            # dalej
+    def calculate_angle(self, sheep):
+        return math.atan2(self.get_y_cord() - sheep.get_y_cord(), self.get_x_cord() - sheep.get_x_cord())
 
 
     def move(self, sheep=None):  # dodanie parametru mimo ze nie ma go w metodzie klasy bazowej,
-        self.position.x = 2
-        self.position.y = 2
-        # implementacja kroku i sprawdzanie ktora owca jest najblizej i czy jest w zasiegu
+        closest_sheep = self.find_closest_sheep(sheep)
+
+        if self.sheep_to_wolf_distance(closest_sheep) <= self.step_length:
+            closest_sheep.set_alive = False
+            self.set_x_cord(closest_sheep.get_x_cord())
+            self.set_y_cord(closest_sheep.get_y_cord())
+        else:
+            angle = self.calculate_angle(closest_sheep)
+            self.set_x_cord(closest_sheep.get_x_cord() + (self.step_length * math.cos(angle)))
+            self.set_y_cord(closest_sheep.get_y_cord() + (self.step_length * math.sin(angle)))
+
