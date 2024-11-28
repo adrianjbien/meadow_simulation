@@ -19,6 +19,8 @@ class Wolf(Animal):
     def find_closest_sheep(self, sheep):
         closest = sheep[0]
         for sh in sheep:
+            if not closest.is_alive():
+                closest = sh
             if sh.is_alive() and self.sheep_to_wolf_distance(sh) < self.sheep_to_wolf_distance(closest):
                 closest = sh
         self.target = closest
@@ -31,7 +33,7 @@ class Wolf(Animal):
         self.find_closest_sheep(sheep)
 
         if self.sheep_to_wolf_distance(self.target) <= self.step_length:
-            self.target.set_alive = False
+            self.target.set_alive(False)
             self.set_x_cord(self.target.get_x_cord())
             self.set_y_cord(self.target.get_y_cord())
         else:

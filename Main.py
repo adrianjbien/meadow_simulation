@@ -3,8 +3,8 @@ from Wolf import Wolf
 
 if __name__ == '__main__':
     # parameters
-    num_of_sheep = 1
-    xy_limit = 10
+    num_of_sheep = 5
+    xy_limit = 1
     sheep_step_length = 0.5
     wolf_step_length = 1
     max_round_num = 50

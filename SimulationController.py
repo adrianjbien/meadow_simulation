@@ -45,12 +45,17 @@ class SimulationController: # klasa laczaca wszystko i rozpoczynajaca symulacje 
                 print("Wolf ate the sheep " + str(wolf.target.get_sequence_num()))
 
 
-
+            print("Sheep " + str(wolf.target.sequence_num) + " position:  (" + str(
+                round(wolf.target.get_x_cord(), 3)) + ", " + str(
+                round(wolf.target.get_y_cord(), 3)) + ")")
             print("Number of alive sheep: " + str(self.count_alive_sheep(sheep)))
             self.wolf_position_info(wolf)
-            print("Sheep " + str(wolf.target.sequence_num) + " position:  (" + str(round(wolf.target.get_x_cord(), 3)) + ", " + str(
-                round(wolf.target.get_y_cord(), 3)) + ")")
             self.increment_round_count()
+
+            if self.count_alive_sheep(sheep) == 0:
+                print("There is no sheep alive left")
+                exit(0)
+
             print('\n')
 
 
