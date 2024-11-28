@@ -11,13 +11,13 @@ class Wolf(Animal):
 
 
     def sheep_to_wolf_distance(self, sh):
-        return ((self.get_x_cord - sh.get_x_cord()) ** 2 + (self.get_y_cord - sh.get_y_cord()) ** 2) ** 0.5
+        return ((self.get_x_cord() - sh.get_x_cord()) ** 2 + (self.get_y_cord() - sh.get_y_cord()) ** 2) ** 0.5
 
 
     def find_closest_sheep(self, sheep):
         closest = sheep[0]
         for sh in sheep:
-            if self.sheep_to_wolf_distance(sh) < self.sheep_to_wolf_distance(closest):
+            if sh.is_alive() and self.sheep_to_wolf_distance(sh) < self.sheep_to_wolf_distance(closest):
                 closest = sh
         return closest
 
@@ -34,6 +34,10 @@ class Wolf(Animal):
             self.set_y_cord(closest_sheep.get_y_cord())
         else:
             angle = self.calculate_angle(closest_sheep)
-            self.set_x_cord(closest_sheep.get_x_cord() + (self.step_length * math.cos(angle)))
-            self.set_y_cord(closest_sheep.get_y_cord() + (self.step_length * math.sin(angle)))
+            new_x = self.get_x_cord() - (self.step_length * math.cos(angle))
+            new_y = self.get_y_cord() - (self.step_length * math.sin(angle))
+            self.set_x_cord(new_x)
+            self.set_y_cord(new_y)
+
+        print("x wilka (metoda): " + str(self.get_x_cord()) + "y wilka (metoda): " + str(self.get_y_cord()))
 

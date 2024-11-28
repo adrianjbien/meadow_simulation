@@ -15,17 +15,21 @@ class Sheep(Animal):
     def set_alive(self, condition):
         self.alive = condition
 
+    def is_alive(self):
+        return self.alive
+
     def set_random_direction(self):
         self.direction = random.randint(0, 3)
 
     def move(self):
         self.set_random_direction()
         if self.direction == 0: # jesli kierunek 0 (north) idzie do gory o dlugosc kroku itd.
-            self.position.set_y_cord(self.get_y_cord() + self.step_length)
+            self.set_y_cord(self.get_y_cord() + self.step_length)
         elif self.direction == 2:
-            self.position.set_y_cord(self.get_y_cord() - self.step_length)
+            self.set_y_cord(self.get_y_cord() - self.step_length)
         elif self.direction == 1:
-            self.position.set_x_cord(self.get_x_cord() + self.step_length)
+            self.set_x_cord(self.get_x_cord() + self.step_length)
         elif self.direction == 3:
-            self.position.set_x_cord(self.get_x_cord() - self.step_length)
+            self.set_x_cord(self.get_x_cord() - self.step_length)
+        print("x owcy (metoda): " + str(self.get_x_cord()) + ", y owcy (metoda): " + str(self.get_y_cord()))
 
