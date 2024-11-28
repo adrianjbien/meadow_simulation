@@ -2,21 +2,54 @@ from Sheep import Sheep
 from Wolf import Wolf
 
 
-class SimulationController: # klasa laczaca wszystko i rozpoczynajaca symulacje
-    def __init__(self, simulation):
-        self.simulation = simulation # do zmiany
+class SimulationController: # klasa laczaca wszystko i rozpoczynajaca symulacje # do zmiany
+
+    def __init__(self, max_round_num):
+        self.max_round_num = max_round_num
+        self.round_count = 1
+
+    def get_round_count(self):
+        return self.round_count
+
+    def increment_round_count(self):
+        self.round_count += 1
+
+    def init_sheep(self, number_of_sheep, xy_limit, step_length):
+        return [Sheep(xy_limit, step_length, x + 1) for x in range(number_of_sheep + 1)]
+
+    def wolf_position_info(self, wolf):
+        print("Wolf's position:  (" + str(round(wolf.get_x_cord(), 3)) + ", " + str(round(wolf.get_y_cord(), 3)) + ")")
+
+    def round_number_info(self):
+        print("Round number: " + str(self.round_count))
+
+    def count_alive_sheep(self, sheep_list):
+        count = 0
+        for sheep in sheep_list:
+            if sheep.alive:
+                count += 1
+        return count
+
+    def start_simulation(self, wolf, num_of_sheep, xy_limit, sheep_step_length, max_round_count):
+        sheep = self.init_sheep(num_of_sheep, xy_limit, sheep_step_length)
+
+        for i in range(max_round_count):
+            for sh in sheep:
+                sh.move()
+            wolf.move(sheep)
+            if wolf.target.is_alive():
+                print("Wolf is chasing the sheep " + str(wolf.target.get_sequence_num()))
+            else:
+                print("Wolf ate the sheep " + str(wolf.target.get_sequence_num()))
+
+
+            self.round_number_info()
+            print(self.count_alive_sheep(sheep))
+            self.wolf_position_info(wolf)
+            self.increment_round_count()
 
 
 
-if __name__ == '__main__':
-    wolf = Wolf(1.0)
-    sheep = [Sheep(1, 0.5)]
-
-    print("x owcy: " + str(sheep[0].get_x_cord()) + ", y owcy: " + str(sheep[0].get_y_cord()))
-
-    for i in range(2):
-        sheep[0].move()
-        wolf.move(sheep)
 
 
 

@@ -7,7 +7,9 @@ class Wolf(Animal):
     def __init__(self, step_length):  # start wilka z pozycji (0,0)
         init_x = 0.0
         init_y = 0.0
+        self.target = None
         super().__init__(init_x, init_y, step_length)
+
 
 
     def sheep_to_wolf_distance(self, sh):
@@ -19,14 +21,15 @@ class Wolf(Animal):
         for sh in sheep:
             if sh.is_alive() and self.sheep_to_wolf_distance(sh) < self.sheep_to_wolf_distance(closest):
                 closest = sh
-        return closest
+        self.target = closest
 
     def calculate_angle(self, sheep):
         return math.atan2(self.get_y_cord() - sheep.get_y_cord(), self.get_x_cord() - sheep.get_x_cord())
 
 
     def move(self, sheep=None):  # dodanie parametru mimo ze nie ma go w metodzie klasy bazowej,
-        closest_sheep = self.find_closest_sheep(sheep)
+        self.find_closest_sheep(sheep)
+        closest_sheep = self.target
 
         if self.sheep_to_wolf_distance(closest_sheep) <= self.step_length:
             closest_sheep.set_alive = False
@@ -39,5 +42,4 @@ class Wolf(Animal):
             self.set_x_cord(new_x)
             self.set_y_cord(new_y)
 
-        print("x wilka (metoda): " + str(self.get_x_cord()) + "y wilka (metoda): " + str(self.get_y_cord()))
 
