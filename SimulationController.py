@@ -15,7 +15,7 @@ class SimulationController: # klasa laczaca wszystko i rozpoczynajaca symulacje 
         self.round_count += 1
 
     def init_sheep(self, number_of_sheep, xy_limit, step_length):
-        return [Sheep(xy_limit, step_length, x + 1) for x in range(number_of_sheep + 1)]
+        return [Sheep(xy_limit, step_length, x + 1) for x in range(number_of_sheep)]
 
     def wolf_position_info(self, wolf):
         print("Wolf's position:  (" + str(round(wolf.get_x_cord(), 3)) + ", " + str(round(wolf.get_y_cord(), 3)) + ")")
@@ -30,23 +30,28 @@ class SimulationController: # klasa laczaca wszystko i rozpoczynajaca symulacje 
                 count += 1
         return count
 
-    def start_simulation(self, wolf, num_of_sheep, xy_limit, sheep_step_length, max_round_count):
+    def start_simulation(self, wolf, num_of_sheep, xy_limit, sheep_step_length):
         sheep = self.init_sheep(num_of_sheep, xy_limit, sheep_step_length)
 
-        for i in range(max_round_count):
+        for i in range(self.max_round_num):
             for sh in sheep:
                 sh.move()
+
             wolf.move(sheep)
+            self.round_number_info()
             if wolf.target.is_alive():
                 print("Wolf is chasing the sheep " + str(wolf.target.get_sequence_num()))
             else:
                 print("Wolf ate the sheep " + str(wolf.target.get_sequence_num()))
 
 
-            self.round_number_info()
-            print(self.count_alive_sheep(sheep))
+
+            print("Number of alive sheep: " + str(self.count_alive_sheep(sheep)))
             self.wolf_position_info(wolf)
+            print("Sheep " + str(wolf.target.sequence_num) + " position:  (" + str(round(wolf.target.get_x_cord(), 3)) + ", " + str(
+                round(wolf.target.get_y_cord(), 3)) + ")")
             self.increment_round_count()
+            print('\n')
 
 
 

@@ -29,14 +29,13 @@ class Wolf(Animal):
 
     def move(self, sheep=None):  # dodanie parametru mimo ze nie ma go w metodzie klasy bazowej,
         self.find_closest_sheep(sheep)
-        closest_sheep = self.target
 
-        if self.sheep_to_wolf_distance(closest_sheep) <= self.step_length:
-            closest_sheep.set_alive = False
-            self.set_x_cord(closest_sheep.get_x_cord())
-            self.set_y_cord(closest_sheep.get_y_cord())
+        if self.sheep_to_wolf_distance(self.target) <= self.step_length:
+            self.target.set_alive = False
+            self.set_x_cord(self.target.get_x_cord())
+            self.set_y_cord(self.target.get_y_cord())
         else:
-            angle = self.calculate_angle(closest_sheep)
+            angle = self.calculate_angle(self.target)
             new_x = self.get_x_cord() - (self.step_length * math.cos(angle))
             new_y = self.get_y_cord() - (self.step_length * math.sin(angle))
             self.set_x_cord(new_x)
