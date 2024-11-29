@@ -1,3 +1,5 @@
+import argparse
+
 from Sheep import Sheep
 from Wolf import Wolf
 from Writer import Writer
@@ -11,6 +13,7 @@ class SimulationController: # klasa laczaca wszystko i rozpoczynajaca symulacje 
         self.sheeps = [Sheep(xy_limit, sheep_step_length, x + 1) for x in range(number_of_sheep)]
         self.wolf = Wolf(wolf_step_length)
         self.writer = Writer(json, csv)
+
 
     def get_round_count(self):
         return self.round_count
@@ -43,7 +46,7 @@ class SimulationController: # klasa laczaca wszystko i rozpoczynajaca symulacje 
                 count += 1
         return count
 
-    def start_simulation(self):
+    def start_simulation(self, with_pause=False):
         
         for i in range(self.max_round_num):
             for sheep in self.sheeps:
@@ -74,10 +77,8 @@ class SimulationController: # klasa laczaca wszystko i rozpoczynajaca symulacje 
             self.writer.write_to_csv(self.get_round_count(), self.count_alive_sheeps())
 
             self.increment_round_count()
-
-
-
-
+            if with_pause:
+                input("Press Enter to continue...")
 
 
 
