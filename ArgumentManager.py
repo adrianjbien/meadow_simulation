@@ -23,16 +23,18 @@ class ArgumentManager:
         self.parser.add_argument('-l', '--log',
                                  help='Choose file with configuration', required=False
                                  )
-        self.config_parser.read(self.parser.parse_args().config)
+
 
     def get_values_from_config(self):
-        try:
-            pos_limit = self.config_parser.get('Sheep', 'InitPosLimit')
-            sheep_move_dis = self.config_parser.get('Sheep', 'MoveDist')
-            wolf_move_dis = self.config_parser.get('Wolf', 'MoveDist')
-        except configparser.NoOptionError:
+        if self.parser.parse_args().config is None:
             pos_limit = 10
             sheep_move_dis = 0.5
             wolf_move_dis = 1
+        else:
+            self.config_parser.read(self.parser.parse_args().config)
+            pos_limit = self.config_parser.get('Sheep', 'InitPosLimit')
+            sheep_move_dis = self.config_parser.get('Sheep', 'MoveDist')
+            wolf_move_dis = self.config_parser.get('Wolf', 'MoveDist')
+
         return pos_limit, sheep_move_dis, wolf_move_dis
 
