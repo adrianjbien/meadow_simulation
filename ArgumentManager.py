@@ -36,5 +36,5 @@ class ArgumentManager:
             sheep_move_dis = self.config_parser.get('Sheep', 'MoveDist')
             wolf_move_dis = self.config_parser.get('Wolf', 'MoveDist')
 
-        return pos_limit, sheep_move_dis, wolf_move_dis
+        return int(pos_limit), float(sheep_move_dis), float(wolf_move_dis)
 
