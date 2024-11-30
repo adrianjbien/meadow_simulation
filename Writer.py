@@ -44,7 +44,7 @@ class Writer:
 
         file_exists = os.path.exists(self.csv_file)
 
-        with open(self.csv_file, 'a', newline='') as file:
+        with open(self.csv_file, 'w', newline='') as file:
             writer = csv.writer(file)
 
             if not file_exists:

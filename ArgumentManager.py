@@ -1,5 +1,6 @@
 import argparse
 import configparser
+import os
 
 
 class ArgumentManager:
@@ -7,10 +8,10 @@ class ArgumentManager:
         self.parser = argparse.ArgumentParser(description="This script runs a meadow simulation")
         self.config_parser = configparser.ConfigParser()
         self.parser.add_argument('-s', '--sheep',
-                                 help='Number of sheep as integer', type=int, default=15, required=False,
+                                 help='Number of sheep as integer', type=self.check_conditions, default=15, required=False,
                                  )
         self.parser.add_argument('-r', '--rounds',
-                                 help='Maximum number of rounds as integer', type=int, default=50, required=False,
+                                 help='Maximum number of rounds as integer', type=self.check_conditions, default=50, required=False,
                                  )
         self.parser.add_argument('-w', '--wait',
                                  help='Pausing program after every round information printed', required=False,
@@ -24,17 +25,37 @@ class ArgumentManager:
                                  help='Choose file with configuration', required=False
                                  )
 
+    def check_conditions(self, value):
+        ivalue = int(value)
+        if ivalue <= 0:
+            raise argparse.ArgumentTypeError("Value must be greater than 0")
+        return ivalue
+
 
     def get_values_from_config(self):
-        if self.parser.parse_args().config is None:
+        temp = self.parser.parse_args().config
+        if temp is None:  # jesli nie podano argumentu --config
             pos_limit = 10
             sheep_move_dis = 0.5
             wolf_move_dis = 1
         else:
-            self.config_parser.read(self.parser.parse_args().config)
-            pos_limit = self.config_parser.get('Sheep', 'InitPosLimit')
-            sheep_move_dis = self.config_parser.get('Sheep', 'MoveDist')
-            wolf_move_dis = self.config_parser.get('Wolf', 'MoveDist')
+            if os.path.exists(temp):  # jesli podany plik konfiguarcyjny istnieje
+                self.config_parser.read(temp)
+                pos_limit = self.config_parser.get('Sheep', 'InitPosLimit')
+                sheep_move_dis = self.config_parser.get('Sheep', 'MoveDist')
+                wolf_move_dis = self.config_parser.get('Wolf', 'MoveDist')
+            else:
+                raise FileNotFoundError("File " + str(temp) + " not found")
+        try:
+            pos_limit = float(pos_limit)
+            sheep_move_dis = float(sheep_move_dis)
+            wolf_move_dis = float(wolf_move_dis)
 
-        return int(pos_limit), float(sheep_move_dis), float(wolf_move_dis)
+            if pos_limit > 0.0 and sheep_move_dis > 0.0 and wolf_move_dis > 0.0:
+                return float(pos_limit), float(sheep_move_dis), float(wolf_move_dis)
+            else:
+                raise ValueError
+        except Exception:
+            raise ValueError("Wrong values in configuration file!")
+
 

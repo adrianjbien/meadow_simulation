@@ -5,7 +5,7 @@ from Wolf import Wolf
 from Writer import Writer
 
 
-class SimulationController: # klasa laczaca wszystko i rozpoczynajaca symulacje # do zmiany
+class SimulationController:
 
     def __init__(self, max_round_num, number_of_sheep, xy_limit, sheep_step_length, wolf_step_length, json, csv):
         self.max_round_num = max_round_num
