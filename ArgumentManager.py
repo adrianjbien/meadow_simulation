@@ -1,6 +1,7 @@
 import argparse
 import configparser
 import os
+import logging
 
 
 class ArgumentManager:
@@ -14,7 +15,7 @@ class ArgumentManager:
                                  help='Maximum number of rounds as integer', type=self.check_conditions, default=50, required=False,
                                  )
         self.parser.add_argument('-w', '--wait',
-                                 help='Pausing program after every round information printed', required=False,
+                                 help='Pausing program after every round', required=False,
                                  action='store_true'
                                  )
 
@@ -31,6 +32,26 @@ class ArgumentManager:
             raise argparse.ArgumentTypeError("Value must be greater than 0")
         return ivalue
 
+    def get_logging_level(self):
+        temp = self.parser.parse_args().log
+        print(type(temp))
+        if temp:
+            match temp.upper():
+                case "INFO":
+                    return logging.INFO
+                case "DEBUG":
+                    return logging.DEBUG
+                case "WARNING":
+                    return logging.WARNING
+                case "ERROR":
+                    return logging.ERROR
+                case "CRITICAL":
+                    return logging.CRITICAL
+                case _:
+                    raise argparse.ArgumentTypeError("Invalid logging argument value")
+        else:
+            return None
+
 
     def get_values_from_config(self):
         temp = self.parser.parse_args().config
@@ -44,6 +65,9 @@ class ArgumentManager:
                 pos_limit = self.config_parser.get('Sheep', 'InitPosLimit')
                 sheep_move_dis = self.config_parser.get('Sheep', 'MoveDist')
                 wolf_move_dis = self.config_parser.get('Wolf', 'MoveDist')
+                logging.debug(f"Values from a configuration file were loaded \n pos_limit: {pos_limit},"
+                              f" sheep_move_dis: {sheep_move_dis}, wolf_move_dis: {wolf_move_dis}")
+
             else:
                 raise FileNotFoundError("File " + str(temp) + " not found")
         try:

@@ -1,8 +1,7 @@
-import argparse
-
 from Sheep import Sheep
 from Wolf import Wolf
 from Writer import Writer
+import logging
 
 
 class SimulationController:
