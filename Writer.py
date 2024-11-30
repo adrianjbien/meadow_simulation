@@ -1,6 +1,7 @@
 import json
 import os
 import csv
+import logging
 
 class Writer:
     def __init__(self, json_file, csv_file):
@@ -30,6 +31,7 @@ class Writer:
 
         with open(self.json_file, 'w') as file:
             json.dump(existing_data, file, indent=4)
+        logging.debug("Information was saved to pos.json file")
 
     def write_to_csv(self, round_number, number_of_alive_sheeps):
         if not isinstance(round_number, int):
@@ -51,3 +53,4 @@ class Writer:
                 writer.writerow(headers)
             
             writer.writerow(row)
+        logging.debug("Information was saved to alive.csv file")

@@ -34,7 +34,7 @@ class ArgumentManager:
 
     def get_logging_level(self):
         temp = self.parser.parse_args().log
-        print(type(temp))
+        print(temp)
         if temp:
             match temp.upper():
                 case "INFO":
@@ -65,8 +65,8 @@ class ArgumentManager:
                 pos_limit = self.config_parser.get('Sheep', 'InitPosLimit')
                 sheep_move_dis = self.config_parser.get('Sheep', 'MoveDist')
                 wolf_move_dis = self.config_parser.get('Wolf', 'MoveDist')
-                logging.debug(f"Values from a configuration file were loaded \n pos_limit: {pos_limit},"
-                              f" sheep_move_dis: {sheep_move_dis}, wolf_move_dis: {wolf_move_dis}")
+                logging.debug(f"Values from a configuration file were loaded; pos_limit: {pos_limit}, "
+                              f"sheep_move_dis: {sheep_move_dis}, wolf_move_dis: {wolf_move_dis}")
 
             else:
                 raise FileNotFoundError("File " + str(temp) + " not found")

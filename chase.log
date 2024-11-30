@@ -1,0 +1,211 @@
+2024-11-30 23:19:28,157 - INFO - Initial positions of all sheep were determined
+2024-11-30 23:19:28,157 - INFO - A 1 round was started 
+2024-11-30 23:19:28,157 - INFO - All alive sheep moved
+2024-11-30 23:19:28,157 - INFO - A 1 sheep was eaten
+2024-11-30 23:19:28,157 - INFO - The wolf moved
+2024-11-30 23:19:28,277 - INFO - The number of alive sheep: 14
+2024-11-30 23:19:28,277 - INFO - A 2 round was started 
+2024-11-30 23:19:28,277 - INFO - All alive sheep moved
+2024-11-30 23:19:28,277 - INFO - A 6 sheep was eaten
+2024-11-30 23:19:28,277 - INFO - The wolf moved
+2024-11-30 23:19:28,402 - INFO - The number of alive sheep: 13
+2024-11-30 23:19:28,402 - INFO - A 3 round was started 
+2024-11-30 23:19:28,402 - INFO - All alive sheep moved
+2024-11-30 23:19:28,402 - INFO - A 3 sheep was eaten
+2024-11-30 23:19:28,403 - INFO - The wolf moved
+2024-11-30 23:19:28,528 - INFO - The number of alive sheep: 12
+2024-11-30 23:19:28,529 - INFO - A 4 round was started 
+2024-11-30 23:19:28,529 - INFO - All alive sheep moved
+2024-11-30 23:19:28,529 - INFO - A 15 sheep was eaten
+2024-11-30 23:19:28,529 - INFO - The wolf moved
+2024-11-30 23:19:28,654 - INFO - The number of alive sheep: 11
+2024-11-30 23:19:28,656 - INFO - A 5 round was started 
+2024-11-30 23:19:28,656 - INFO - All alive sheep moved
+2024-11-30 23:19:28,656 - INFO - The wolf is chasing sheep 13
+2024-11-30 23:19:28,656 - INFO - The wolf moved
+2024-11-30 23:19:28,799 - INFO - The number of alive sheep: 11
+2024-11-30 23:19:28,799 - INFO - A 6 round was started 
+2024-11-30 23:19:28,799 - INFO - All alive sheep moved
+2024-11-30 23:19:28,799 - INFO - A 13 sheep was eaten
+2024-11-30 23:19:28,800 - INFO - The wolf moved
+2024-11-30 23:19:28,928 - INFO - The number of alive sheep: 10
+2024-11-30 23:19:28,928 - INFO - A 7 round was started 
+2024-11-30 23:19:28,928 - INFO - All alive sheep moved
+2024-11-30 23:19:28,928 - INFO - A 10 sheep was eaten
+2024-11-30 23:19:28,928 - INFO - The wolf moved
+2024-11-30 23:19:29,055 - INFO - The number of alive sheep: 9
+2024-11-30 23:19:29,055 - INFO - A 8 round was started 
+2024-11-30 23:19:29,055 - INFO - All alive sheep moved
+2024-11-30 23:19:29,055 - INFO - A 11 sheep was eaten
+2024-11-30 23:19:29,055 - INFO - The wolf moved
+2024-11-30 23:19:29,182 - INFO - The number of alive sheep: 8
+2024-11-30 23:19:29,182 - INFO - A 9 round was started 
+2024-11-30 23:19:29,182 - INFO - All alive sheep moved
+2024-11-30 23:19:29,182 - INFO - The wolf is chasing sheep 12
+2024-11-30 23:19:29,182 - INFO - The wolf moved
+2024-11-30 23:19:29,307 - INFO - The number of alive sheep: 8
+2024-11-30 23:19:29,307 - INFO - A 10 round was started 
+2024-11-30 23:19:29,307 - INFO - All alive sheep moved
+2024-11-30 23:19:29,308 - INFO - A 12 sheep was eaten
+2024-11-30 23:19:29,308 - INFO - The wolf moved
+2024-11-30 23:19:29,435 - INFO - The number of alive sheep: 7
+2024-11-30 23:19:29,435 - INFO - A 11 round was started 
+2024-11-30 23:19:29,435 - INFO - All alive sheep moved
+2024-11-30 23:19:29,435 - INFO - The wolf is chasing sheep 14
+2024-11-30 23:19:29,435 - INFO - The wolf moved
+2024-11-30 23:19:29,562 - INFO - The number of alive sheep: 7
+2024-11-30 23:19:29,562 - INFO - A 12 round was started 
+2024-11-30 23:19:29,562 - INFO - All alive sheep moved
+2024-11-30 23:19:29,562 - INFO - The wolf is chasing sheep 14
+2024-11-30 23:19:29,562 - INFO - The wolf moved
+2024-11-30 23:19:29,690 - INFO - The number of alive sheep: 7
+2024-11-30 23:19:29,690 - INFO - A 13 round was started 
+2024-11-30 23:19:29,690 - INFO - All alive sheep moved
+2024-11-30 23:19:29,691 - INFO - A 14 sheep was eaten
+2024-11-30 23:19:29,691 - INFO - The wolf moved
+2024-11-30 23:19:29,817 - INFO - The number of alive sheep: 6
+2024-11-30 23:19:29,818 - INFO - A 14 round was started 
+2024-11-30 23:19:29,818 - INFO - All alive sheep moved
+2024-11-30 23:19:29,818 - INFO - The wolf is chasing sheep 5
+2024-11-30 23:19:29,818 - INFO - The wolf moved
+2024-11-30 23:19:29,944 - INFO - The number of alive sheep: 6
+2024-11-30 23:19:29,944 - INFO - A 15 round was started 
+2024-11-30 23:19:29,944 - INFO - All alive sheep moved
+2024-11-30 23:19:29,944 - INFO - A 5 sheep was eaten
+2024-11-30 23:19:29,944 - INFO - The wolf moved
+2024-11-30 23:19:30,072 - INFO - The number of alive sheep: 5
+2024-11-30 23:19:30,072 - INFO - A 16 round was started 
+2024-11-30 23:19:30,072 - INFO - All alive sheep moved
+2024-11-30 23:19:30,072 - INFO - The wolf is chasing sheep 2
+2024-11-30 23:19:30,072 - INFO - The wolf moved
+2024-11-30 23:19:30,200 - INFO - The number of alive sheep: 5
+2024-11-30 23:19:30,200 - INFO - A 17 round was started 
+2024-11-30 23:19:30,200 - INFO - All alive sheep moved
+2024-11-30 23:19:30,200 - INFO - The wolf is chasing sheep 2
+2024-11-30 23:19:30,200 - INFO - The wolf moved
+2024-11-30 23:19:30,327 - INFO - The number of alive sheep: 5
+2024-11-30 23:19:30,327 - INFO - A 18 round was started 
+2024-11-30 23:19:30,327 - INFO - All alive sheep moved
+2024-11-30 23:19:30,327 - INFO - The wolf is chasing sheep 2
+2024-11-30 23:19:30,327 - INFO - The wolf moved
+2024-11-30 23:19:30,455 - INFO - The number of alive sheep: 5
+2024-11-30 23:19:30,455 - INFO - A 19 round was started 
+2024-11-30 23:19:30,455 - INFO - All alive sheep moved
+2024-11-30 23:19:30,455 - INFO - A 2 sheep was eaten
+2024-11-30 23:19:30,455 - INFO - The wolf moved
+2024-11-30 23:19:30,581 - INFO - The number of alive sheep: 4
+2024-11-30 23:19:30,581 - INFO - A 20 round was started 
+2024-11-30 23:19:30,582 - INFO - All alive sheep moved
+2024-11-30 23:19:30,582 - INFO - The wolf is chasing sheep 9
+2024-11-30 23:19:30,582 - INFO - The wolf moved
+2024-11-30 23:19:30,708 - INFO - The number of alive sheep: 4
+2024-11-30 23:19:30,708 - INFO - A 21 round was started 
+2024-11-30 23:19:30,708 - INFO - All alive sheep moved
+2024-11-30 23:19:30,708 - INFO - The wolf is chasing sheep 9
+2024-11-30 23:19:30,708 - INFO - The wolf moved
+2024-11-30 23:19:30,835 - INFO - The number of alive sheep: 4
+2024-11-30 23:19:30,835 - INFO - A 22 round was started 
+2024-11-30 23:19:30,835 - INFO - All alive sheep moved
+2024-11-30 23:19:30,835 - INFO - A 9 sheep was eaten
+2024-11-30 23:19:30,835 - INFO - The wolf moved
+2024-11-30 23:19:30,962 - INFO - The number of alive sheep: 3
+2024-11-30 23:19:30,962 - INFO - A 23 round was started 
+2024-11-30 23:19:30,962 - INFO - All alive sheep moved
+2024-11-30 23:19:30,962 - INFO - The wolf is chasing sheep 7
+2024-11-30 23:19:30,962 - INFO - The wolf moved
+2024-11-30 23:19:31,089 - INFO - The number of alive sheep: 3
+2024-11-30 23:19:31,090 - INFO - A 24 round was started 
+2024-11-30 23:19:31,090 - INFO - All alive sheep moved
+2024-11-30 23:19:31,090 - INFO - The wolf is chasing sheep 7
+2024-11-30 23:19:31,090 - INFO - The wolf moved
+2024-11-30 23:19:31,224 - INFO - The number of alive sheep: 3
+2024-11-30 23:19:31,224 - INFO - A 25 round was started 
+2024-11-30 23:19:31,224 - INFO - All alive sheep moved
+2024-11-30 23:19:31,224 - INFO - The wolf is chasing sheep 7
+2024-11-30 23:19:31,224 - INFO - The wolf moved
+2024-11-30 23:19:31,351 - INFO - The number of alive sheep: 3
+2024-11-30 23:19:31,352 - INFO - A 26 round was started 
+2024-11-30 23:19:31,352 - INFO - All alive sheep moved
+2024-11-30 23:19:31,352 - INFO - A 7 sheep was eaten
+2024-11-30 23:19:31,352 - INFO - The wolf moved
+2024-11-30 23:19:31,481 - INFO - The number of alive sheep: 2
+2024-11-30 23:19:31,481 - INFO - A 27 round was started 
+2024-11-30 23:19:31,481 - INFO - All alive sheep moved
+2024-11-30 23:19:31,481 - INFO - The wolf is chasing sheep 8
+2024-11-30 23:19:31,481 - INFO - The wolf moved
+2024-11-30 23:19:31,609 - INFO - The number of alive sheep: 2
+2024-11-30 23:19:31,609 - INFO - A 28 round was started 
+2024-11-30 23:19:31,609 - INFO - All alive sheep moved
+2024-11-30 23:19:31,610 - INFO - The wolf is chasing sheep 8
+2024-11-30 23:19:31,610 - INFO - The wolf moved
+2024-11-30 23:19:31,736 - INFO - The number of alive sheep: 2
+2024-11-30 23:19:31,737 - INFO - A 29 round was started 
+2024-11-30 23:19:31,737 - INFO - All alive sheep moved
+2024-11-30 23:19:31,737 - INFO - The wolf is chasing sheep 8
+2024-11-30 23:19:31,737 - INFO - The wolf moved
+2024-11-30 23:19:31,864 - INFO - The number of alive sheep: 2
+2024-11-30 23:19:31,864 - INFO - A 30 round was started 
+2024-11-30 23:19:31,864 - INFO - All alive sheep moved
+2024-11-30 23:19:31,864 - INFO - The wolf is chasing sheep 8
+2024-11-30 23:19:31,864 - INFO - The wolf moved
+2024-11-30 23:19:31,992 - INFO - The number of alive sheep: 2
+2024-11-30 23:19:31,992 - INFO - A 31 round was started 
+2024-11-30 23:19:31,992 - INFO - All alive sheep moved
+2024-11-30 23:19:31,992 - INFO - The wolf is chasing sheep 8
+2024-11-30 23:19:31,992 - INFO - The wolf moved
+2024-11-30 23:19:32,118 - INFO - The number of alive sheep: 2
+2024-11-30 23:19:32,118 - INFO - A 32 round was started 
+2024-11-30 23:19:32,118 - INFO - All alive sheep moved
+2024-11-30 23:19:32,118 - INFO - A 8 sheep was eaten
+2024-11-30 23:19:32,118 - INFO - The wolf moved
+2024-11-30 23:19:32,245 - INFO - The number of alive sheep: 1
+2024-11-30 23:19:32,245 - INFO - A 33 round was started 
+2024-11-30 23:19:32,245 - INFO - All alive sheep moved
+2024-11-30 23:19:32,245 - INFO - The wolf is chasing sheep 4
+2024-11-30 23:19:32,245 - INFO - The wolf moved
+2024-11-30 23:19:32,371 - INFO - The number of alive sheep: 1
+2024-11-30 23:19:32,371 - INFO - A 34 round was started 
+2024-11-30 23:19:32,371 - INFO - All alive sheep moved
+2024-11-30 23:19:32,371 - INFO - The wolf is chasing sheep 4
+2024-11-30 23:19:32,371 - INFO - The wolf moved
+2024-11-30 23:19:32,497 - INFO - The number of alive sheep: 1
+2024-11-30 23:19:32,497 - INFO - A 35 round was started 
+2024-11-30 23:19:32,497 - INFO - All alive sheep moved
+2024-11-30 23:19:32,497 - INFO - The wolf is chasing sheep 4
+2024-11-30 23:19:32,497 - INFO - The wolf moved
+2024-11-30 23:19:32,628 - INFO - The number of alive sheep: 1
+2024-11-30 23:19:32,628 - INFO - A 36 round was started 
+2024-11-30 23:19:32,628 - INFO - All alive sheep moved
+2024-11-30 23:19:32,628 - INFO - The wolf is chasing sheep 4
+2024-11-30 23:19:32,628 - INFO - The wolf moved
+2024-11-30 23:19:32,754 - INFO - The number of alive sheep: 1
+2024-11-30 23:19:32,755 - INFO - A 37 round was started 
+2024-11-30 23:19:32,755 - INFO - All alive sheep moved
+2024-11-30 23:19:32,755 - INFO - The wolf is chasing sheep 4
+2024-11-30 23:19:32,755 - INFO - The wolf moved
+2024-11-30 23:19:32,879 - INFO - The number of alive sheep: 1
+2024-11-30 23:19:32,880 - INFO - A 38 round was started 
+2024-11-30 23:19:32,880 - INFO - All alive sheep moved
+2024-11-30 23:19:32,880 - INFO - The wolf is chasing sheep 4
+2024-11-30 23:19:32,880 - INFO - The wolf moved
+2024-11-30 23:19:33,006 - INFO - The number of alive sheep: 1
+2024-11-30 23:19:33,006 - INFO - A 39 round was started 
+2024-11-30 23:19:33,006 - INFO - All alive sheep moved
+2024-11-30 23:19:33,006 - INFO - The wolf is chasing sheep 4
+2024-11-30 23:19:33,006 - INFO - The wolf moved
+2024-11-30 23:19:33,133 - INFO - The number of alive sheep: 1
+2024-11-30 23:19:33,133 - INFO - A 40 round was started 
+2024-11-30 23:19:33,133 - INFO - All alive sheep moved
+2024-11-30 23:19:33,134 - INFO - The wolf is chasing sheep 4
+2024-11-30 23:19:33,134 - INFO - The wolf moved
+2024-11-30 23:19:33,262 - INFO - The number of alive sheep: 1
+2024-11-30 23:19:33,262 - INFO - A 41 round was started 
+2024-11-30 23:19:33,262 - INFO - All alive sheep moved
+2024-11-30 23:19:33,262 - INFO - The wolf is chasing sheep 4
+2024-11-30 23:19:33,262 - INFO - The wolf moved
+2024-11-30 23:19:33,388 - INFO - The number of alive sheep: 1
+2024-11-30 23:19:33,388 - INFO - A 42 round was started 
+2024-11-30 23:19:33,389 - INFO - All alive sheep moved
+2024-11-30 23:19:33,389 - INFO - A 4 sheep was eaten
+2024-11-30 23:19:33,389 - INFO - The wolf moved
+2024-11-30 23:19:33,390 - INFO - The simulation has terminated because there is no alive sheep

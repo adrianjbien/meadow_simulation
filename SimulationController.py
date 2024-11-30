@@ -10,6 +10,7 @@ class SimulationController:
         self.max_round_num = max_round_num
         self.round_count = 1
         self.sheeps = [Sheep(xy_limit, sheep_step_length, x + 1) for x in range(number_of_sheep)]
+        logging.info("Initial positions of all sheep were determined")  # czy to tu powinno byc czy dopiero po wywolaniu konstruktora klasy???
         self.wolf = Wolf(wolf_step_length)
         self.writer = Writer(json, csv)
 
@@ -25,12 +26,6 @@ class SimulationController:
                 'wolf_pos': (self.wolf.get_x_cord(), self.wolf.get_y_cord()),
                 'sheep_pos': [(sheep.get_x_cord(), sheep.get_y_cord()) if sheep.is_alive() else None for sheep in self.sheeps]
                 }
-
-    # def init_sheep(self, number_of_sheep, xy_limit, step_length):
-    #     return [Sheep(xy_limit, step_length, x + 1) for x in range(number_of_sheep)]
-
-    # def wolf_position_info(self, wolf):
-    #     print("Wolf's position:  (" + str(round(wolf.get_x_cord(), 3)) + ", " + str(round(wolf.get_y_cord(), 3)) + ")")
     
     def wolf_position_info(self):
          print("Wolf's position:  (" + str(round(self.wolf.get_x_cord(), 3)) + ", " + str(round(self.wolf.get_y_cord(), 3)) + ")")
@@ -46,10 +41,12 @@ class SimulationController:
         return count
 
     def start_simulation(self, with_pause=False):
-        
+
         for i in range(self.max_round_num):
+            logging.info("A " + str(self.round_count) + " round was started ")
             for sheep in self.sheeps:
                 sheep.move()
+            logging.info("All alive sheep moved")
 
             self.wolf.move(self.sheeps)
             self.round_number_info()
@@ -67,6 +64,8 @@ class SimulationController:
             
             if self.count_alive_sheeps() == 0:
                 print("There is no sheep alive left")
+                logging.info("The simulation has terminated because there is no alive sheep")
+
                 exit(0)
 
             print('\n')
@@ -75,9 +74,14 @@ class SimulationController:
             self.writer.write_to_json(log)
             self.writer.write_to_csv(self.get_round_count(), self.count_alive_sheeps())
 
+            logging.info("The number of alive sheep: " + str(self.count_alive_sheeps()))
             self.increment_round_count()
             if with_pause:
                 input("Press Enter to continue...")
+
+        logging.info("The simulation has terminated because of reaching the maximum number of rounds")
+
+
 
 
 
