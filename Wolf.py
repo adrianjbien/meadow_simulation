@@ -29,7 +29,7 @@ class Wolf(Animal):
         return math.atan2(self.get_y_cord() - sheep.get_y_cord(), self.get_x_cord() - sheep.get_x_cord())
 
 
-    def move(self, sheep=None):  # dodanie parametru mimo ze nie ma go w metodzie klasy bazowej,
+    def move(self, sheep=None):
         self.find_closest_sheep(sheep)
         distance = self.sheep_to_wolf_distance(self.target)
 

@@ -41,7 +41,7 @@ class SimulationController:
         return count
 
     def start_simulation(self, with_pause=False):
-
+        self.writer.erase_file_content()
         for i in range(self.max_round_num):
             logging.info("A " + str(self.round_count) + " round was started ")
             for sheep in self.sheeps:
@@ -56,17 +56,13 @@ class SimulationController:
                 print("Wolf ate the sheep " + str(self.wolf.target.get_sequence_num()))
 
 
-            print("Sheep " + str(self.wolf.target.sequence_num) + " position:  (" + str(
-                round(self.wolf.target.get_x_cord(), 3)) + ", " + str(
-                round(self.wolf.target.get_y_cord(), 3)) + ")")
+            # print("Sheep " + str(self.wolf.target.sequence_num) + " position:  (" + str(
+            #     round(self.wolf.target.get_x_cord(), 3)) + ", " + str(
+            #     round(self.wolf.target.get_y_cord(), 3)) + ")")
             print("Number of alive sheep: " + str(self.count_alive_sheeps()))
             self.wolf_position_info()
             
-            if self.count_alive_sheeps() == 0:
-                print("There is no sheep alive left")
-                logging.info("The simulation has terminated because there is no alive sheep")
 
-                exit(0)
 
             print('\n')
 
@@ -78,6 +74,12 @@ class SimulationController:
             self.increment_round_count()
             if with_pause:
                 input("Press Enter to continue...")
+
+            if self.count_alive_sheeps() == 0:
+                print("There is no sheep alive left")
+                logging.info("The simulation has terminated because there is no alive sheep")
+
+                exit(0)
 
         logging.info("The simulation has terminated because of reaching the maximum number of rounds")
 

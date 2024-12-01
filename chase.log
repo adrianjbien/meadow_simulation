@@ -1,211 +1,1514 @@
-2024-11-30 23:19:28,157 - INFO - Initial positions of all sheep were determined
-2024-11-30 23:19:28,157 - INFO - A 1 round was started 
-2024-11-30 23:19:28,157 - INFO - All alive sheep moved
-2024-11-30 23:19:28,157 - INFO - A 1 sheep was eaten
-2024-11-30 23:19:28,157 - INFO - The wolf moved
-2024-11-30 23:19:28,277 - INFO - The number of alive sheep: 14
-2024-11-30 23:19:28,277 - INFO - A 2 round was started 
-2024-11-30 23:19:28,277 - INFO - All alive sheep moved
-2024-11-30 23:19:28,277 - INFO - A 6 sheep was eaten
-2024-11-30 23:19:28,277 - INFO - The wolf moved
-2024-11-30 23:19:28,402 - INFO - The number of alive sheep: 13
-2024-11-30 23:19:28,402 - INFO - A 3 round was started 
-2024-11-30 23:19:28,402 - INFO - All alive sheep moved
-2024-11-30 23:19:28,402 - INFO - A 3 sheep was eaten
-2024-11-30 23:19:28,403 - INFO - The wolf moved
-2024-11-30 23:19:28,528 - INFO - The number of alive sheep: 12
-2024-11-30 23:19:28,529 - INFO - A 4 round was started 
-2024-11-30 23:19:28,529 - INFO - All alive sheep moved
-2024-11-30 23:19:28,529 - INFO - A 15 sheep was eaten
-2024-11-30 23:19:28,529 - INFO - The wolf moved
-2024-11-30 23:19:28,654 - INFO - The number of alive sheep: 11
-2024-11-30 23:19:28,656 - INFO - A 5 round was started 
-2024-11-30 23:19:28,656 - INFO - All alive sheep moved
-2024-11-30 23:19:28,656 - INFO - The wolf is chasing sheep 13
-2024-11-30 23:19:28,656 - INFO - The wolf moved
-2024-11-30 23:19:28,799 - INFO - The number of alive sheep: 11
-2024-11-30 23:19:28,799 - INFO - A 6 round was started 
-2024-11-30 23:19:28,799 - INFO - All alive sheep moved
-2024-11-30 23:19:28,799 - INFO - A 13 sheep was eaten
-2024-11-30 23:19:28,800 - INFO - The wolf moved
-2024-11-30 23:19:28,928 - INFO - The number of alive sheep: 10
-2024-11-30 23:19:28,928 - INFO - A 7 round was started 
-2024-11-30 23:19:28,928 - INFO - All alive sheep moved
-2024-11-30 23:19:28,928 - INFO - A 10 sheep was eaten
-2024-11-30 23:19:28,928 - INFO - The wolf moved
-2024-11-30 23:19:29,055 - INFO - The number of alive sheep: 9
-2024-11-30 23:19:29,055 - INFO - A 8 round was started 
-2024-11-30 23:19:29,055 - INFO - All alive sheep moved
-2024-11-30 23:19:29,055 - INFO - A 11 sheep was eaten
-2024-11-30 23:19:29,055 - INFO - The wolf moved
-2024-11-30 23:19:29,182 - INFO - The number of alive sheep: 8
-2024-11-30 23:19:29,182 - INFO - A 9 round was started 
-2024-11-30 23:19:29,182 - INFO - All alive sheep moved
-2024-11-30 23:19:29,182 - INFO - The wolf is chasing sheep 12
-2024-11-30 23:19:29,182 - INFO - The wolf moved
-2024-11-30 23:19:29,307 - INFO - The number of alive sheep: 8
-2024-11-30 23:19:29,307 - INFO - A 10 round was started 
-2024-11-30 23:19:29,307 - INFO - All alive sheep moved
-2024-11-30 23:19:29,308 - INFO - A 12 sheep was eaten
-2024-11-30 23:19:29,308 - INFO - The wolf moved
-2024-11-30 23:19:29,435 - INFO - The number of alive sheep: 7
-2024-11-30 23:19:29,435 - INFO - A 11 round was started 
-2024-11-30 23:19:29,435 - INFO - All alive sheep moved
-2024-11-30 23:19:29,435 - INFO - The wolf is chasing sheep 14
-2024-11-30 23:19:29,435 - INFO - The wolf moved
-2024-11-30 23:19:29,562 - INFO - The number of alive sheep: 7
-2024-11-30 23:19:29,562 - INFO - A 12 round was started 
-2024-11-30 23:19:29,562 - INFO - All alive sheep moved
-2024-11-30 23:19:29,562 - INFO - The wolf is chasing sheep 14
-2024-11-30 23:19:29,562 - INFO - The wolf moved
-2024-11-30 23:19:29,690 - INFO - The number of alive sheep: 7
-2024-11-30 23:19:29,690 - INFO - A 13 round was started 
-2024-11-30 23:19:29,690 - INFO - All alive sheep moved
-2024-11-30 23:19:29,691 - INFO - A 14 sheep was eaten
-2024-11-30 23:19:29,691 - INFO - The wolf moved
-2024-11-30 23:19:29,817 - INFO - The number of alive sheep: 6
-2024-11-30 23:19:29,818 - INFO - A 14 round was started 
-2024-11-30 23:19:29,818 - INFO - All alive sheep moved
-2024-11-30 23:19:29,818 - INFO - The wolf is chasing sheep 5
-2024-11-30 23:19:29,818 - INFO - The wolf moved
-2024-11-30 23:19:29,944 - INFO - The number of alive sheep: 6
-2024-11-30 23:19:29,944 - INFO - A 15 round was started 
-2024-11-30 23:19:29,944 - INFO - All alive sheep moved
-2024-11-30 23:19:29,944 - INFO - A 5 sheep was eaten
-2024-11-30 23:19:29,944 - INFO - The wolf moved
-2024-11-30 23:19:30,072 - INFO - The number of alive sheep: 5
-2024-11-30 23:19:30,072 - INFO - A 16 round was started 
-2024-11-30 23:19:30,072 - INFO - All alive sheep moved
-2024-11-30 23:19:30,072 - INFO - The wolf is chasing sheep 2
-2024-11-30 23:19:30,072 - INFO - The wolf moved
-2024-11-30 23:19:30,200 - INFO - The number of alive sheep: 5
-2024-11-30 23:19:30,200 - INFO - A 17 round was started 
-2024-11-30 23:19:30,200 - INFO - All alive sheep moved
-2024-11-30 23:19:30,200 - INFO - The wolf is chasing sheep 2
-2024-11-30 23:19:30,200 - INFO - The wolf moved
-2024-11-30 23:19:30,327 - INFO - The number of alive sheep: 5
-2024-11-30 23:19:30,327 - INFO - A 18 round was started 
-2024-11-30 23:19:30,327 - INFO - All alive sheep moved
-2024-11-30 23:19:30,327 - INFO - The wolf is chasing sheep 2
-2024-11-30 23:19:30,327 - INFO - The wolf moved
-2024-11-30 23:19:30,455 - INFO - The number of alive sheep: 5
-2024-11-30 23:19:30,455 - INFO - A 19 round was started 
-2024-11-30 23:19:30,455 - INFO - All alive sheep moved
-2024-11-30 23:19:30,455 - INFO - A 2 sheep was eaten
-2024-11-30 23:19:30,455 - INFO - The wolf moved
-2024-11-30 23:19:30,581 - INFO - The number of alive sheep: 4
-2024-11-30 23:19:30,581 - INFO - A 20 round was started 
-2024-11-30 23:19:30,582 - INFO - All alive sheep moved
-2024-11-30 23:19:30,582 - INFO - The wolf is chasing sheep 9
-2024-11-30 23:19:30,582 - INFO - The wolf moved
-2024-11-30 23:19:30,708 - INFO - The number of alive sheep: 4
-2024-11-30 23:19:30,708 - INFO - A 21 round was started 
-2024-11-30 23:19:30,708 - INFO - All alive sheep moved
-2024-11-30 23:19:30,708 - INFO - The wolf is chasing sheep 9
-2024-11-30 23:19:30,708 - INFO - The wolf moved
-2024-11-30 23:19:30,835 - INFO - The number of alive sheep: 4
-2024-11-30 23:19:30,835 - INFO - A 22 round was started 
-2024-11-30 23:19:30,835 - INFO - All alive sheep moved
-2024-11-30 23:19:30,835 - INFO - A 9 sheep was eaten
-2024-11-30 23:19:30,835 - INFO - The wolf moved
-2024-11-30 23:19:30,962 - INFO - The number of alive sheep: 3
-2024-11-30 23:19:30,962 - INFO - A 23 round was started 
-2024-11-30 23:19:30,962 - INFO - All alive sheep moved
-2024-11-30 23:19:30,962 - INFO - The wolf is chasing sheep 7
-2024-11-30 23:19:30,962 - INFO - The wolf moved
-2024-11-30 23:19:31,089 - INFO - The number of alive sheep: 3
-2024-11-30 23:19:31,090 - INFO - A 24 round was started 
-2024-11-30 23:19:31,090 - INFO - All alive sheep moved
-2024-11-30 23:19:31,090 - INFO - The wolf is chasing sheep 7
-2024-11-30 23:19:31,090 - INFO - The wolf moved
-2024-11-30 23:19:31,224 - INFO - The number of alive sheep: 3
-2024-11-30 23:19:31,224 - INFO - A 25 round was started 
-2024-11-30 23:19:31,224 - INFO - All alive sheep moved
-2024-11-30 23:19:31,224 - INFO - The wolf is chasing sheep 7
-2024-11-30 23:19:31,224 - INFO - The wolf moved
-2024-11-30 23:19:31,351 - INFO - The number of alive sheep: 3
-2024-11-30 23:19:31,352 - INFO - A 26 round was started 
-2024-11-30 23:19:31,352 - INFO - All alive sheep moved
-2024-11-30 23:19:31,352 - INFO - A 7 sheep was eaten
-2024-11-30 23:19:31,352 - INFO - The wolf moved
-2024-11-30 23:19:31,481 - INFO - The number of alive sheep: 2
-2024-11-30 23:19:31,481 - INFO - A 27 round was started 
-2024-11-30 23:19:31,481 - INFO - All alive sheep moved
-2024-11-30 23:19:31,481 - INFO - The wolf is chasing sheep 8
-2024-11-30 23:19:31,481 - INFO - The wolf moved
-2024-11-30 23:19:31,609 - INFO - The number of alive sheep: 2
-2024-11-30 23:19:31,609 - INFO - A 28 round was started 
-2024-11-30 23:19:31,609 - INFO - All alive sheep moved
-2024-11-30 23:19:31,610 - INFO - The wolf is chasing sheep 8
-2024-11-30 23:19:31,610 - INFO - The wolf moved
-2024-11-30 23:19:31,736 - INFO - The number of alive sheep: 2
-2024-11-30 23:19:31,737 - INFO - A 29 round was started 
-2024-11-30 23:19:31,737 - INFO - All alive sheep moved
-2024-11-30 23:19:31,737 - INFO - The wolf is chasing sheep 8
-2024-11-30 23:19:31,737 - INFO - The wolf moved
-2024-11-30 23:19:31,864 - INFO - The number of alive sheep: 2
-2024-11-30 23:19:31,864 - INFO - A 30 round was started 
-2024-11-30 23:19:31,864 - INFO - All alive sheep moved
-2024-11-30 23:19:31,864 - INFO - The wolf is chasing sheep 8
-2024-11-30 23:19:31,864 - INFO - The wolf moved
-2024-11-30 23:19:31,992 - INFO - The number of alive sheep: 2
-2024-11-30 23:19:31,992 - INFO - A 31 round was started 
-2024-11-30 23:19:31,992 - INFO - All alive sheep moved
-2024-11-30 23:19:31,992 - INFO - The wolf is chasing sheep 8
-2024-11-30 23:19:31,992 - INFO - The wolf moved
-2024-11-30 23:19:32,118 - INFO - The number of alive sheep: 2
-2024-11-30 23:19:32,118 - INFO - A 32 round was started 
-2024-11-30 23:19:32,118 - INFO - All alive sheep moved
-2024-11-30 23:19:32,118 - INFO - A 8 sheep was eaten
-2024-11-30 23:19:32,118 - INFO - The wolf moved
-2024-11-30 23:19:32,245 - INFO - The number of alive sheep: 1
-2024-11-30 23:19:32,245 - INFO - A 33 round was started 
-2024-11-30 23:19:32,245 - INFO - All alive sheep moved
-2024-11-30 23:19:32,245 - INFO - The wolf is chasing sheep 4
-2024-11-30 23:19:32,245 - INFO - The wolf moved
-2024-11-30 23:19:32,371 - INFO - The number of alive sheep: 1
-2024-11-30 23:19:32,371 - INFO - A 34 round was started 
-2024-11-30 23:19:32,371 - INFO - All alive sheep moved
-2024-11-30 23:19:32,371 - INFO - The wolf is chasing sheep 4
-2024-11-30 23:19:32,371 - INFO - The wolf moved
-2024-11-30 23:19:32,497 - INFO - The number of alive sheep: 1
-2024-11-30 23:19:32,497 - INFO - A 35 round was started 
-2024-11-30 23:19:32,497 - INFO - All alive sheep moved
-2024-11-30 23:19:32,497 - INFO - The wolf is chasing sheep 4
-2024-11-30 23:19:32,497 - INFO - The wolf moved
-2024-11-30 23:19:32,628 - INFO - The number of alive sheep: 1
-2024-11-30 23:19:32,628 - INFO - A 36 round was started 
-2024-11-30 23:19:32,628 - INFO - All alive sheep moved
-2024-11-30 23:19:32,628 - INFO - The wolf is chasing sheep 4
-2024-11-30 23:19:32,628 - INFO - The wolf moved
-2024-11-30 23:19:32,754 - INFO - The number of alive sheep: 1
-2024-11-30 23:19:32,755 - INFO - A 37 round was started 
-2024-11-30 23:19:32,755 - INFO - All alive sheep moved
-2024-11-30 23:19:32,755 - INFO - The wolf is chasing sheep 4
-2024-11-30 23:19:32,755 - INFO - The wolf moved
-2024-11-30 23:19:32,879 - INFO - The number of alive sheep: 1
-2024-11-30 23:19:32,880 - INFO - A 38 round was started 
-2024-11-30 23:19:32,880 - INFO - All alive sheep moved
-2024-11-30 23:19:32,880 - INFO - The wolf is chasing sheep 4
-2024-11-30 23:19:32,880 - INFO - The wolf moved
-2024-11-30 23:19:33,006 - INFO - The number of alive sheep: 1
-2024-11-30 23:19:33,006 - INFO - A 39 round was started 
-2024-11-30 23:19:33,006 - INFO - All alive sheep moved
-2024-11-30 23:19:33,006 - INFO - The wolf is chasing sheep 4
-2024-11-30 23:19:33,006 - INFO - The wolf moved
-2024-11-30 23:19:33,133 - INFO - The number of alive sheep: 1
-2024-11-30 23:19:33,133 - INFO - A 40 round was started 
-2024-11-30 23:19:33,133 - INFO - All alive sheep moved
-2024-11-30 23:19:33,134 - INFO - The wolf is chasing sheep 4
-2024-11-30 23:19:33,134 - INFO - The wolf moved
-2024-11-30 23:19:33,262 - INFO - The number of alive sheep: 1
-2024-11-30 23:19:33,262 - INFO - A 41 round was started 
-2024-11-30 23:19:33,262 - INFO - All alive sheep moved
-2024-11-30 23:19:33,262 - INFO - The wolf is chasing sheep 4
-2024-11-30 23:19:33,262 - INFO - The wolf moved
-2024-11-30 23:19:33,388 - INFO - The number of alive sheep: 1
-2024-11-30 23:19:33,388 - INFO - A 42 round was started 
-2024-11-30 23:19:33,389 - INFO - All alive sheep moved
-2024-11-30 23:19:33,389 - INFO - A 4 sheep was eaten
-2024-11-30 23:19:33,389 - INFO - The wolf moved
-2024-11-30 23:19:33,390 - INFO - The simulation has terminated because there is no alive sheep
+2024-12-01 19:01:09,678 - DEBUG - Values from a configuration file were loaded; pos_limit: 20.0, sheep_move_dis: 0.5, wolf_move_dis: 1.0
+2024-12-01 19:01:09,678 - DEBUG - Initial position of a sheep 1 was determined: (2.331175343217069, 9.598981250434186)
+2024-12-01 19:01:09,678 - DEBUG - Initial position of a sheep 2 was determined: (8.615996002859973, -15.250904475292275)
+2024-12-01 19:01:09,678 - DEBUG - Initial position of a sheep 3 was determined: (-4.6063464550929965, -18.61146964947871)
+2024-12-01 19:01:09,678 - DEBUG - Initial position of a sheep 4 was determined: (13.408920573089041, 6.448483504526191)
+2024-12-01 19:01:09,678 - DEBUG - Initial position of a sheep 5 was determined: (1.6692510206818696, 12.915143859598672)
+2024-12-01 19:01:09,678 - DEBUG - Initial position of a sheep 6 was determined: (7.212352908974612, -8.211708586736105)
+2024-12-01 19:01:09,678 - DEBUG - Initial position of a sheep 7 was determined: (-4.157012145411002, 19.818042822843033)
+2024-12-01 19:01:09,678 - DEBUG - Initial position of a sheep 8 was determined: (19.41243815170705, -15.828285694971193)
+2024-12-01 19:01:09,678 - DEBUG - Initial position of a sheep 9 was determined: (-17.77202907416151, -3.965635021608115)
+2024-12-01 19:01:09,678 - DEBUG - Initial position of a sheep 10 was determined: (-3.147028946019258, 15.42180384037902)
+2024-12-01 19:01:09,678 - DEBUG - Initial position of a sheep 11 was determined: (-1.9626295104655291, 2.956853710517322)
+2024-12-01 19:01:09,678 - DEBUG - Initial position of a sheep 12 was determined: (-7.496951176088835, 14.455636137932089)
+2024-12-01 19:01:09,678 - DEBUG - Initial position of a sheep 13 was determined: (8.529492192644344, 2.080590195612775)
+2024-12-01 19:01:09,678 - DEBUG - Initial position of a sheep 14 was determined: (1.4848172300983045, 19.47230354908025)
+2024-12-01 19:01:09,678 - DEBUG - Initial position of a sheep 15 was determined: (12.724532797262114, 6.34832554715085)
+2024-12-01 19:01:09,678 - INFO - Initial positions of all sheep were determined
+2024-12-01 19:01:09,679 - INFO - A 1 round was started 
+2024-12-01 19:01:09,679 - DEBUG - Sheep 1 randomly chose a direction of movement: North
+2024-12-01 19:01:09,679 - DEBUG - Sheep 1 moved, new position: (2.331175343217069, 10.098981250434186)
+2024-12-01 19:01:09,679 - DEBUG - Sheep 2 randomly chose a direction of movement: North
+2024-12-01 19:01:09,679 - DEBUG - Sheep 2 moved, new position: (8.615996002859973, -14.750904475292275)
+2024-12-01 19:01:09,679 - DEBUG - Sheep 3 randomly chose a direction of movement: South
+2024-12-01 19:01:09,679 - DEBUG - Sheep 3 moved, new position: (-4.6063464550929965, -19.11146964947871)
+2024-12-01 19:01:09,679 - DEBUG - Sheep 4 randomly chose a direction of movement: East
+2024-12-01 19:01:09,679 - DEBUG - Sheep 4 moved, new position: (13.908920573089041, 6.448483504526191)
+2024-12-01 19:01:09,679 - DEBUG - Sheep 5 randomly chose a direction of movement: North
+2024-12-01 19:01:09,679 - DEBUG - Sheep 5 moved, new position: (1.6692510206818696, 13.415143859598672)
+2024-12-01 19:01:09,679 - DEBUG - Sheep 6 randomly chose a direction of movement: North
+2024-12-01 19:01:09,679 - DEBUG - Sheep 6 moved, new position: (7.212352908974612, -7.711708586736105)
+2024-12-01 19:01:09,679 - DEBUG - Sheep 7 randomly chose a direction of movement: East
+2024-12-01 19:01:09,679 - DEBUG - Sheep 7 moved, new position: (-3.6570121454110023, 19.818042822843033)
+2024-12-01 19:01:09,680 - DEBUG - Sheep 8 randomly chose a direction of movement: East
+2024-12-01 19:01:09,680 - DEBUG - Sheep 8 moved, new position: (19.91243815170705, -15.828285694971193)
+2024-12-01 19:01:09,680 - DEBUG - Sheep 9 randomly chose a direction of movement: West
+2024-12-01 19:01:09,680 - DEBUG - Sheep 9 moved, new position: (-18.27202907416151, -3.965635021608115)
+2024-12-01 19:01:09,680 - DEBUG - Sheep 10 randomly chose a direction of movement: South
+2024-12-01 19:01:09,680 - DEBUG - Sheep 10 moved, new position: (-3.147028946019258, 14.92180384037902)
+2024-12-01 19:01:09,680 - DEBUG - Sheep 11 randomly chose a direction of movement: South
+2024-12-01 19:01:09,680 - DEBUG - Sheep 11 moved, new position: (-1.9626295104655291, 2.456853710517322)
+2024-12-01 19:01:09,680 - DEBUG - Sheep 12 randomly chose a direction of movement: West
+2024-12-01 19:01:09,680 - DEBUG - Sheep 12 moved, new position: (-7.996951176088835, 14.455636137932089)
+2024-12-01 19:01:09,680 - DEBUG - Sheep 13 randomly chose a direction of movement: East
+2024-12-01 19:01:09,680 - DEBUG - Sheep 13 moved, new position: (9.029492192644344, 2.080590195612775)
+2024-12-01 19:01:09,680 - DEBUG - Sheep 14 randomly chose a direction of movement: West
+2024-12-01 19:01:09,680 - DEBUG - Sheep 14 moved, new position: (0.9848172300983045, 19.47230354908025)
+2024-12-01 19:01:09,680 - DEBUG - Sheep 15 randomly chose a direction of movement: West
+2024-12-01 19:01:09,680 - DEBUG - Sheep 15 moved, new position: (12.224532797262114, 6.34832554715085)
+2024-12-01 19:01:09,680 - INFO - All alive sheep moved
+2024-12-01 19:01:09,680 - DEBUG - The closest sheep 11 is in distance of 3.1445261567099254
+2024-12-01 19:01:09,680 - INFO - The wolf is chasing sheep 11
+2024-12-01 19:01:09,680 - DEBUG - The wolf moved to position: (-0.6241415757593829, 0.7813112653792946)
+2024-12-01 19:01:09,680 - INFO - The wolf moved
+2024-12-01 19:01:09,682 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:09,682 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:09,682 - INFO - The number of alive sheep: 15
+2024-12-01 19:01:09,682 - INFO - A 2 round was started 
+2024-12-01 19:01:09,682 - DEBUG - Sheep 1 randomly chose a direction of movement: West
+2024-12-01 19:01:09,682 - DEBUG - Sheep 1 moved, new position: (1.831175343217069, 10.098981250434186)
+2024-12-01 19:01:09,682 - DEBUG - Sheep 2 randomly chose a direction of movement: East
+2024-12-01 19:01:09,682 - DEBUG - Sheep 2 moved, new position: (9.115996002859973, -14.750904475292275)
+2024-12-01 19:01:09,682 - DEBUG - Sheep 3 randomly chose a direction of movement: East
+2024-12-01 19:01:09,682 - DEBUG - Sheep 3 moved, new position: (-4.1063464550929965, -19.11146964947871)
+2024-12-01 19:01:09,682 - DEBUG - Sheep 4 randomly chose a direction of movement: East
+2024-12-01 19:01:09,683 - DEBUG - Sheep 4 moved, new position: (14.408920573089041, 6.448483504526191)
+2024-12-01 19:01:09,683 - DEBUG - Sheep 5 randomly chose a direction of movement: East
+2024-12-01 19:01:09,683 - DEBUG - Sheep 5 moved, new position: (2.1692510206818696, 13.415143859598672)
+2024-12-01 19:01:09,683 - DEBUG - Sheep 6 randomly chose a direction of movement: North
+2024-12-01 19:01:09,683 - DEBUG - Sheep 6 moved, new position: (7.212352908974612, -7.211708586736105)
+2024-12-01 19:01:09,683 - DEBUG - Sheep 7 randomly chose a direction of movement: East
+2024-12-01 19:01:09,683 - DEBUG - Sheep 7 moved, new position: (-3.1570121454110023, 19.818042822843033)
+2024-12-01 19:01:09,683 - DEBUG - Sheep 8 randomly chose a direction of movement: North
+2024-12-01 19:01:09,683 - DEBUG - Sheep 8 moved, new position: (19.91243815170705, -15.328285694971193)
+2024-12-01 19:01:09,683 - DEBUG - Sheep 9 randomly chose a direction of movement: East
+2024-12-01 19:01:09,683 - DEBUG - Sheep 9 moved, new position: (-17.77202907416151, -3.965635021608115)
+2024-12-01 19:01:09,683 - DEBUG - Sheep 10 randomly chose a direction of movement: East
+2024-12-01 19:01:09,683 - DEBUG - Sheep 10 moved, new position: (-2.647028946019258, 14.92180384037902)
+2024-12-01 19:01:09,683 - DEBUG - Sheep 11 randomly chose a direction of movement: West
+2024-12-01 19:01:09,683 - DEBUG - Sheep 11 moved, new position: (-2.462629510465529, 2.456853710517322)
+2024-12-01 19:01:09,683 - DEBUG - Sheep 12 randomly chose a direction of movement: East
+2024-12-01 19:01:09,683 - DEBUG - Sheep 12 moved, new position: (-7.496951176088835, 14.455636137932089)
+2024-12-01 19:01:09,683 - DEBUG - Sheep 13 randomly chose a direction of movement: West
+2024-12-01 19:01:09,683 - DEBUG - Sheep 13 moved, new position: (8.529492192644344, 2.080590195612775)
+2024-12-01 19:01:09,683 - DEBUG - Sheep 14 randomly chose a direction of movement: South
+2024-12-01 19:01:09,683 - DEBUG - Sheep 14 moved, new position: (0.9848172300983045, 18.97230354908025)
+2024-12-01 19:01:09,683 - DEBUG - Sheep 15 randomly chose a direction of movement: West
+2024-12-01 19:01:09,683 - DEBUG - Sheep 15 moved, new position: (11.724532797262114, 6.34832554715085)
+2024-12-01 19:01:09,683 - INFO - All alive sheep moved
+2024-12-01 19:01:09,683 - DEBUG - The closest sheep 11 is in distance of 2.487464647290327
+2024-12-01 19:01:09,684 - INFO - The wolf is chasing sheep 11
+2024-12-01 19:01:09,684 - DEBUG - The wolf moved to position: (-1.3632427069890745, 1.4549057411694322)
+2024-12-01 19:01:09,684 - INFO - The wolf moved
+2024-12-01 19:01:09,692 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:09,692 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:09,692 - INFO - The number of alive sheep: 15
+2024-12-01 19:01:09,692 - INFO - A 3 round was started 
+2024-12-01 19:01:09,693 - DEBUG - Sheep 1 randomly chose a direction of movement: South
+2024-12-01 19:01:09,693 - DEBUG - Sheep 1 moved, new position: (1.831175343217069, 9.598981250434186)
+2024-12-01 19:01:09,693 - DEBUG - Sheep 2 randomly chose a direction of movement: North
+2024-12-01 19:01:09,693 - DEBUG - Sheep 2 moved, new position: (9.115996002859973, -14.250904475292275)
+2024-12-01 19:01:09,693 - DEBUG - Sheep 3 randomly chose a direction of movement: East
+2024-12-01 19:01:09,693 - DEBUG - Sheep 3 moved, new position: (-3.6063464550929965, -19.11146964947871)
+2024-12-01 19:01:09,693 - DEBUG - Sheep 4 randomly chose a direction of movement: East
+2024-12-01 19:01:09,693 - DEBUG - Sheep 4 moved, new position: (14.908920573089041, 6.448483504526191)
+2024-12-01 19:01:09,693 - DEBUG - Sheep 5 randomly chose a direction of movement: West
+2024-12-01 19:01:09,693 - DEBUG - Sheep 5 moved, new position: (1.6692510206818696, 13.415143859598672)
+2024-12-01 19:01:09,693 - DEBUG - Sheep 6 randomly chose a direction of movement: West
+2024-12-01 19:01:09,693 - DEBUG - Sheep 6 moved, new position: (6.712352908974612, -7.211708586736105)
+2024-12-01 19:01:09,693 - DEBUG - Sheep 7 randomly chose a direction of movement: East
+2024-12-01 19:01:09,693 - DEBUG - Sheep 7 moved, new position: (-2.6570121454110023, 19.818042822843033)
+2024-12-01 19:01:09,693 - DEBUG - Sheep 8 randomly chose a direction of movement: East
+2024-12-01 19:01:09,693 - DEBUG - Sheep 8 moved, new position: (20.41243815170705, -15.328285694971193)
+2024-12-01 19:01:09,693 - DEBUG - Sheep 9 randomly chose a direction of movement: North
+2024-12-01 19:01:09,693 - DEBUG - Sheep 9 moved, new position: (-17.77202907416151, -3.465635021608115)
+2024-12-01 19:01:09,693 - DEBUG - Sheep 10 randomly chose a direction of movement: East
+2024-12-01 19:01:09,693 - DEBUG - Sheep 10 moved, new position: (-2.147028946019258, 14.92180384037902)
+2024-12-01 19:01:09,693 - DEBUG - Sheep 11 randomly chose a direction of movement: East
+2024-12-01 19:01:09,693 - DEBUG - Sheep 11 moved, new position: (-1.9626295104655291, 2.456853710517322)
+2024-12-01 19:01:09,694 - DEBUG - Sheep 12 randomly chose a direction of movement: East
+2024-12-01 19:01:09,694 - DEBUG - Sheep 12 moved, new position: (-6.996951176088835, 14.455636137932089)
+2024-12-01 19:01:09,694 - DEBUG - Sheep 13 randomly chose a direction of movement: West
+2024-12-01 19:01:09,694 - DEBUG - Sheep 13 moved, new position: (8.029492192644344, 2.080590195612775)
+2024-12-01 19:01:09,694 - DEBUG - Sheep 14 randomly chose a direction of movement: North
+2024-12-01 19:01:09,694 - DEBUG - Sheep 14 moved, new position: (0.9848172300983045, 19.47230354908025)
+2024-12-01 19:01:09,694 - DEBUG - Sheep 15 randomly chose a direction of movement: West
+2024-12-01 19:01:09,694 - DEBUG - Sheep 15 moved, new position: (11.224532797262114, 6.34832554715085)
+2024-12-01 19:01:09,694 - INFO - All alive sheep moved
+2024-12-01 19:01:09,694 - DEBUG - The closest sheep 11 is in distance of 1.1675462618081058
+2024-12-01 19:01:09,694 - INFO - The wolf is chasing sheep 11
+2024-12-01 19:01:09,694 - DEBUG - The wolf moved to position: (-1.8766157724367953, 2.3130712821187354)
+2024-12-01 19:01:09,694 - INFO - The wolf moved
+2024-12-01 19:01:09,702 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:09,704 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:09,704 - INFO - The number of alive sheep: 15
+2024-12-01 19:01:09,704 - INFO - A 4 round was started 
+2024-12-01 19:01:09,704 - DEBUG - Sheep 1 randomly chose a direction of movement: West
+2024-12-01 19:01:09,704 - DEBUG - Sheep 1 moved, new position: (1.331175343217069, 9.598981250434186)
+2024-12-01 19:01:09,704 - DEBUG - Sheep 2 randomly chose a direction of movement: North
+2024-12-01 19:01:09,704 - DEBUG - Sheep 2 moved, new position: (9.115996002859973, -13.750904475292275)
+2024-12-01 19:01:09,704 - DEBUG - Sheep 3 randomly chose a direction of movement: South
+2024-12-01 19:01:09,704 - DEBUG - Sheep 3 moved, new position: (-3.6063464550929965, -19.61146964947871)
+2024-12-01 19:01:09,704 - DEBUG - Sheep 4 randomly chose a direction of movement: West
+2024-12-01 19:01:09,704 - DEBUG - Sheep 4 moved, new position: (14.408920573089041, 6.448483504526191)
+2024-12-01 19:01:09,704 - DEBUG - Sheep 5 randomly chose a direction of movement: West
+2024-12-01 19:01:09,704 - DEBUG - Sheep 5 moved, new position: (1.1692510206818696, 13.415143859598672)
+2024-12-01 19:01:09,704 - DEBUG - Sheep 6 randomly chose a direction of movement: North
+2024-12-01 19:01:09,704 - DEBUG - Sheep 6 moved, new position: (6.712352908974612, -6.711708586736105)
+2024-12-01 19:01:09,704 - DEBUG - Sheep 7 randomly chose a direction of movement: West
+2024-12-01 19:01:09,704 - DEBUG - Sheep 7 moved, new position: (-3.1570121454110023, 19.818042822843033)
+2024-12-01 19:01:09,704 - DEBUG - Sheep 8 randomly chose a direction of movement: South
+2024-12-01 19:01:09,704 - DEBUG - Sheep 8 moved, new position: (20.41243815170705, -15.828285694971193)
+2024-12-01 19:01:09,704 - DEBUG - Sheep 9 randomly chose a direction of movement: North
+2024-12-01 19:01:09,704 - DEBUG - Sheep 9 moved, new position: (-17.77202907416151, -2.965635021608115)
+2024-12-01 19:01:09,704 - DEBUG - Sheep 10 randomly chose a direction of movement: South
+2024-12-01 19:01:09,705 - DEBUG - Sheep 10 moved, new position: (-2.147028946019258, 14.42180384037902)
+2024-12-01 19:01:09,705 - DEBUG - Sheep 11 randomly chose a direction of movement: North
+2024-12-01 19:01:09,705 - DEBUG - Sheep 11 moved, new position: (-1.9626295104655291, 2.956853710517322)
+2024-12-01 19:01:09,705 - DEBUG - Sheep 12 randomly chose a direction of movement: West
+2024-12-01 19:01:09,705 - DEBUG - Sheep 12 moved, new position: (-7.496951176088835, 14.455636137932089)
+2024-12-01 19:01:09,705 - DEBUG - Sheep 13 randomly chose a direction of movement: East
+2024-12-01 19:01:09,705 - DEBUG - Sheep 13 moved, new position: (8.529492192644344, 2.080590195612775)
+2024-12-01 19:01:09,705 - DEBUG - Sheep 14 randomly chose a direction of movement: West
+2024-12-01 19:01:09,705 - DEBUG - Sheep 14 moved, new position: (0.48481723009830446, 19.47230354908025)
+2024-12-01 19:01:09,705 - DEBUG - Sheep 15 randomly chose a direction of movement: East
+2024-12-01 19:01:09,705 - DEBUG - Sheep 15 moved, new position: (11.724532797262114, 6.34832554715085)
+2024-12-01 19:01:09,705 - INFO - All alive sheep moved
+2024-12-01 19:01:09,705 - DEBUG - The closest sheep 11 is in distance of 0.6495030240456598
+2024-12-01 19:01:09,705 - INFO - A 11 sheep was eaten
+2024-12-01 19:01:09,705 - DEBUG - The wolf moved to position: (-1.9626295104655291, 2.956853710517322)
+2024-12-01 19:01:09,705 - INFO - The wolf moved
+2024-12-01 19:01:09,716 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:09,717 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:09,717 - INFO - The number of alive sheep: 14
+2024-12-01 19:01:09,717 - INFO - A 5 round was started 
+2024-12-01 19:01:09,717 - DEBUG - Sheep 1 randomly chose a direction of movement: North
+2024-12-01 19:01:09,717 - DEBUG - Sheep 1 moved, new position: (1.331175343217069, 10.098981250434186)
+2024-12-01 19:01:09,717 - DEBUG - Sheep 2 randomly chose a direction of movement: South
+2024-12-01 19:01:09,717 - DEBUG - Sheep 2 moved, new position: (9.115996002859973, -14.250904475292275)
+2024-12-01 19:01:09,717 - DEBUG - Sheep 3 randomly chose a direction of movement: West
+2024-12-01 19:01:09,717 - DEBUG - Sheep 3 moved, new position: (-4.1063464550929965, -19.61146964947871)
+2024-12-01 19:01:09,717 - DEBUG - Sheep 4 randomly chose a direction of movement: East
+2024-12-01 19:01:09,717 - DEBUG - Sheep 4 moved, new position: (14.908920573089041, 6.448483504526191)
+2024-12-01 19:01:09,717 - DEBUG - Sheep 5 randomly chose a direction of movement: East
+2024-12-01 19:01:09,717 - DEBUG - Sheep 5 moved, new position: (1.6692510206818696, 13.415143859598672)
+2024-12-01 19:01:09,717 - DEBUG - Sheep 6 randomly chose a direction of movement: West
+2024-12-01 19:01:09,717 - DEBUG - Sheep 6 moved, new position: (6.212352908974612, -6.711708586736105)
+2024-12-01 19:01:09,717 - DEBUG - Sheep 7 randomly chose a direction of movement: North
+2024-12-01 19:01:09,717 - DEBUG - Sheep 7 moved, new position: (-3.1570121454110023, 20.318042822843033)
+2024-12-01 19:01:09,717 - DEBUG - Sheep 8 randomly chose a direction of movement: South
+2024-12-01 19:01:09,717 - DEBUG - Sheep 8 moved, new position: (20.41243815170705, -16.328285694971193)
+2024-12-01 19:01:09,717 - DEBUG - Sheep 9 randomly chose a direction of movement: West
+2024-12-01 19:01:09,717 - DEBUG - Sheep 9 moved, new position: (-18.27202907416151, -2.965635021608115)
+2024-12-01 19:01:09,718 - DEBUG - Sheep 10 randomly chose a direction of movement: South
+2024-12-01 19:01:09,718 - DEBUG - Sheep 10 moved, new position: (-2.147028946019258, 13.92180384037902)
+2024-12-01 19:01:09,718 - DEBUG - Sheep 12 randomly chose a direction of movement: East
+2024-12-01 19:01:09,718 - DEBUG - Sheep 12 moved, new position: (-6.996951176088835, 14.455636137932089)
+2024-12-01 19:01:09,718 - DEBUG - Sheep 13 randomly chose a direction of movement: South
+2024-12-01 19:01:09,718 - DEBUG - Sheep 13 moved, new position: (8.529492192644344, 1.5805901956127748)
+2024-12-01 19:01:09,718 - DEBUG - Sheep 14 randomly chose a direction of movement: West
+2024-12-01 19:01:09,718 - DEBUG - Sheep 14 moved, new position: (-0.015182769901695536, 19.47230354908025)
+2024-12-01 19:01:09,718 - DEBUG - Sheep 15 randomly chose a direction of movement: South
+2024-12-01 19:01:09,718 - DEBUG - Sheep 15 moved, new position: (11.724532797262114, 5.84832554715085)
+2024-12-01 19:01:09,718 - INFO - All alive sheep moved
+2024-12-01 19:01:09,718 - DEBUG - The closest sheep 1 is in distance of 7.865057927986414
+2024-12-01 19:01:09,718 - INFO - The wolf is chasing sheep 1
+2024-12-01 19:01:09,718 - DEBUG - The wolf moved to position: (-1.5438398608734802, 3.8649369827972206)
+2024-12-01 19:01:09,718 - INFO - The wolf moved
+2024-12-01 19:01:09,727 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:09,728 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:09,728 - INFO - The number of alive sheep: 14
+2024-12-01 19:01:09,728 - INFO - A 6 round was started 
+2024-12-01 19:01:09,728 - DEBUG - Sheep 1 randomly chose a direction of movement: North
+2024-12-01 19:01:09,728 - DEBUG - Sheep 1 moved, new position: (1.331175343217069, 10.598981250434186)
+2024-12-01 19:01:09,728 - DEBUG - Sheep 2 randomly chose a direction of movement: East
+2024-12-01 19:01:09,728 - DEBUG - Sheep 2 moved, new position: (9.615996002859973, -14.250904475292275)
+2024-12-01 19:01:09,728 - DEBUG - Sheep 3 randomly chose a direction of movement: East
+2024-12-01 19:01:09,728 - DEBUG - Sheep 3 moved, new position: (-3.6063464550929965, -19.61146964947871)
+2024-12-01 19:01:09,728 - DEBUG - Sheep 4 randomly chose a direction of movement: North
+2024-12-01 19:01:09,728 - DEBUG - Sheep 4 moved, new position: (14.908920573089041, 6.948483504526191)
+2024-12-01 19:01:09,728 - DEBUG - Sheep 5 randomly chose a direction of movement: North
+2024-12-01 19:01:09,728 - DEBUG - Sheep 5 moved, new position: (1.6692510206818696, 13.915143859598672)
+2024-12-01 19:01:09,728 - DEBUG - Sheep 6 randomly chose a direction of movement: North
+2024-12-01 19:01:09,728 - DEBUG - Sheep 6 moved, new position: (6.212352908974612, -6.211708586736105)
+2024-12-01 19:01:09,728 - DEBUG - Sheep 7 randomly chose a direction of movement: West
+2024-12-01 19:01:09,728 - DEBUG - Sheep 7 moved, new position: (-3.6570121454110023, 20.318042822843033)
+2024-12-01 19:01:09,728 - DEBUG - Sheep 8 randomly chose a direction of movement: East
+2024-12-01 19:01:09,729 - DEBUG - Sheep 8 moved, new position: (20.91243815170705, -16.328285694971193)
+2024-12-01 19:01:09,729 - DEBUG - Sheep 9 randomly chose a direction of movement: South
+2024-12-01 19:01:09,729 - DEBUG - Sheep 9 moved, new position: (-18.27202907416151, -3.465635021608115)
+2024-12-01 19:01:09,729 - DEBUG - Sheep 10 randomly chose a direction of movement: South
+2024-12-01 19:01:09,729 - DEBUG - Sheep 10 moved, new position: (-2.147028946019258, 13.42180384037902)
+2024-12-01 19:01:09,729 - DEBUG - Sheep 12 randomly chose a direction of movement: South
+2024-12-01 19:01:09,729 - DEBUG - Sheep 12 moved, new position: (-6.996951176088835, 13.955636137932089)
+2024-12-01 19:01:09,729 - DEBUG - Sheep 13 randomly chose a direction of movement: South
+2024-12-01 19:01:09,729 - DEBUG - Sheep 13 moved, new position: (8.529492192644344, 1.0805901956127748)
+2024-12-01 19:01:09,729 - DEBUG - Sheep 14 randomly chose a direction of movement: North
+2024-12-01 19:01:09,729 - DEBUG - Sheep 14 moved, new position: (-0.015182769901695536, 19.97230354908025)
+2024-12-01 19:01:09,729 - DEBUG - Sheep 15 randomly chose a direction of movement: West
+2024-12-01 19:01:09,729 - DEBUG - Sheep 15 moved, new position: (11.224532797262114, 5.84832554715085)
+2024-12-01 19:01:09,729 - INFO - All alive sheep moved
+2024-12-01 19:01:09,729 - DEBUG - The closest sheep 1 is in distance of 7.322094278431964
+2024-12-01 19:01:09,729 - INFO - The wolf is chasing sheep 1
+2024-12-01 19:01:09,729 - DEBUG - The wolf moved to position: (-1.1511905593533913, 4.784625259343022)
+2024-12-01 19:01:09,729 - INFO - The wolf moved
+2024-12-01 19:01:09,741 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:09,741 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:09,741 - INFO - The number of alive sheep: 14
+2024-12-01 19:01:09,741 - INFO - A 7 round was started 
+2024-12-01 19:01:09,741 - DEBUG - Sheep 1 randomly chose a direction of movement: South
+2024-12-01 19:01:09,741 - DEBUG - Sheep 1 moved, new position: (1.331175343217069, 10.098981250434186)
+2024-12-01 19:01:09,741 - DEBUG - Sheep 2 randomly chose a direction of movement: West
+2024-12-01 19:01:09,741 - DEBUG - Sheep 2 moved, new position: (9.115996002859973, -14.250904475292275)
+2024-12-01 19:01:09,741 - DEBUG - Sheep 3 randomly chose a direction of movement: East
+2024-12-01 19:01:09,741 - DEBUG - Sheep 3 moved, new position: (-3.1063464550929965, -19.61146964947871)
+2024-12-01 19:01:09,742 - DEBUG - Sheep 4 randomly chose a direction of movement: East
+2024-12-01 19:01:09,742 - DEBUG - Sheep 4 moved, new position: (15.408920573089041, 6.948483504526191)
+2024-12-01 19:01:09,742 - DEBUG - Sheep 5 randomly chose a direction of movement: West
+2024-12-01 19:01:09,742 - DEBUG - Sheep 5 moved, new position: (1.1692510206818696, 13.915143859598672)
+2024-12-01 19:01:09,742 - DEBUG - Sheep 6 randomly chose a direction of movement: West
+2024-12-01 19:01:09,742 - DEBUG - Sheep 6 moved, new position: (5.712352908974612, -6.211708586736105)
+2024-12-01 19:01:09,742 - DEBUG - Sheep 7 randomly chose a direction of movement: West
+2024-12-01 19:01:09,742 - DEBUG - Sheep 7 moved, new position: (-4.157012145411002, 20.318042822843033)
+2024-12-01 19:01:09,742 - DEBUG - Sheep 8 randomly chose a direction of movement: North
+2024-12-01 19:01:09,742 - DEBUG - Sheep 8 moved, new position: (20.91243815170705, -15.828285694971193)
+2024-12-01 19:01:09,742 - DEBUG - Sheep 9 randomly chose a direction of movement: West
+2024-12-01 19:01:09,742 - DEBUG - Sheep 9 moved, new position: (-18.77202907416151, -3.465635021608115)
+2024-12-01 19:01:09,742 - DEBUG - Sheep 10 randomly chose a direction of movement: East
+2024-12-01 19:01:09,742 - DEBUG - Sheep 10 moved, new position: (-1.6470289460192582, 13.42180384037902)
+2024-12-01 19:01:09,742 - DEBUG - Sheep 12 randomly chose a direction of movement: East
+2024-12-01 19:01:09,742 - DEBUG - Sheep 12 moved, new position: (-6.496951176088835, 13.955636137932089)
+2024-12-01 19:01:09,742 - DEBUG - Sheep 13 randomly chose a direction of movement: North
+2024-12-01 19:01:09,742 - DEBUG - Sheep 13 moved, new position: (8.529492192644344, 1.5805901956127748)
+2024-12-01 19:01:09,742 - DEBUG - Sheep 14 randomly chose a direction of movement: South
+2024-12-01 19:01:09,742 - DEBUG - Sheep 14 moved, new position: (-0.015182769901695536, 19.47230354908025)
+2024-12-01 19:01:09,742 - DEBUG - Sheep 15 randomly chose a direction of movement: South
+2024-12-01 19:01:09,742 - DEBUG - Sheep 15 moved, new position: (11.224532797262114, 5.34832554715085)
+2024-12-01 19:01:09,742 - INFO - All alive sheep moved
+2024-12-01 19:01:09,743 - DEBUG - The closest sheep 1 is in distance of 5.865536639924006
+2024-12-01 19:01:09,743 - INFO - The wolf is chasing sheep 1
+2024-12-01 19:01:09,743 - DEBUG - The wolf moved to position: (-0.7279784894339677, 5.690655912176863)
+2024-12-01 19:01:09,743 - INFO - The wolf moved
+2024-12-01 19:01:09,754 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:09,754 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:09,754 - INFO - The number of alive sheep: 14
+2024-12-01 19:01:09,754 - INFO - A 8 round was started 
+2024-12-01 19:01:09,754 - DEBUG - Sheep 1 randomly chose a direction of movement: West
+2024-12-01 19:01:09,754 - DEBUG - Sheep 1 moved, new position: (0.831175343217069, 10.098981250434186)
+2024-12-01 19:01:09,754 - DEBUG - Sheep 2 randomly chose a direction of movement: North
+2024-12-01 19:01:09,754 - DEBUG - Sheep 2 moved, new position: (9.115996002859973, -13.750904475292275)
+2024-12-01 19:01:09,754 - DEBUG - Sheep 3 randomly chose a direction of movement: South
+2024-12-01 19:01:09,754 - DEBUG - Sheep 3 moved, new position: (-3.1063464550929965, -20.11146964947871)
+2024-12-01 19:01:09,755 - DEBUG - Sheep 4 randomly chose a direction of movement: South
+2024-12-01 19:01:09,755 - DEBUG - Sheep 4 moved, new position: (15.408920573089041, 6.448483504526191)
+2024-12-01 19:01:09,755 - DEBUG - Sheep 5 randomly chose a direction of movement: West
+2024-12-01 19:01:09,755 - DEBUG - Sheep 5 moved, new position: (0.6692510206818696, 13.915143859598672)
+2024-12-01 19:01:09,755 - DEBUG - Sheep 6 randomly chose a direction of movement: East
+2024-12-01 19:01:09,755 - DEBUG - Sheep 6 moved, new position: (6.212352908974612, -6.211708586736105)
+2024-12-01 19:01:09,755 - DEBUG - Sheep 7 randomly chose a direction of movement: South
+2024-12-01 19:01:09,755 - DEBUG - Sheep 7 moved, new position: (-4.157012145411002, 19.818042822843033)
+2024-12-01 19:01:09,755 - DEBUG - Sheep 8 randomly chose a direction of movement: South
+2024-12-01 19:01:09,755 - DEBUG - Sheep 8 moved, new position: (20.91243815170705, -16.328285694971193)
+2024-12-01 19:01:09,755 - DEBUG - Sheep 9 randomly chose a direction of movement: West
+2024-12-01 19:01:09,755 - DEBUG - Sheep 9 moved, new position: (-19.27202907416151, -3.465635021608115)
+2024-12-01 19:01:09,755 - DEBUG - Sheep 10 randomly chose a direction of movement: North
+2024-12-01 19:01:09,755 - DEBUG - Sheep 10 moved, new position: (-1.6470289460192582, 13.92180384037902)
+2024-12-01 19:01:09,755 - DEBUG - Sheep 12 randomly chose a direction of movement: North
+2024-12-01 19:01:09,755 - DEBUG - Sheep 12 moved, new position: (-6.496951176088835, 14.455636137932089)
+2024-12-01 19:01:09,755 - DEBUG - Sheep 13 randomly chose a direction of movement: East
+2024-12-01 19:01:09,755 - DEBUG - Sheep 13 moved, new position: (9.029492192644344, 1.5805901956127748)
+2024-12-01 19:01:09,755 - DEBUG - Sheep 14 randomly chose a direction of movement: West
+2024-12-01 19:01:09,755 - DEBUG - Sheep 14 moved, new position: (-0.5151827699016955, 19.47230354908025)
+2024-12-01 19:01:09,755 - DEBUG - Sheep 15 randomly chose a direction of movement: North
+2024-12-01 19:01:09,755 - DEBUG - Sheep 15 moved, new position: (11.224532797262114, 5.84832554715085)
+2024-12-01 19:01:09,755 - INFO - All alive sheep moved
+2024-12-01 19:01:09,755 - DEBUG - The closest sheep 1 is in distance of 4.6759269628376305
+2024-12-01 19:01:09,755 - INFO - The wolf is chasing sheep 1
+2024-12-01 19:01:09,756 - DEBUG - The wolf moved to position: (-0.3945357635226012, 6.633426270502154)
+2024-12-01 19:01:09,756 - INFO - The wolf moved
+2024-12-01 19:01:09,768 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:09,768 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:09,768 - INFO - The number of alive sheep: 14
+2024-12-01 19:01:09,769 - INFO - A 9 round was started 
+2024-12-01 19:01:09,769 - DEBUG - Sheep 1 randomly chose a direction of movement: North
+2024-12-01 19:01:09,769 - DEBUG - Sheep 1 moved, new position: (0.831175343217069, 10.598981250434186)
+2024-12-01 19:01:09,769 - DEBUG - Sheep 2 randomly chose a direction of movement: South
+2024-12-01 19:01:09,769 - DEBUG - Sheep 2 moved, new position: (9.115996002859973, -14.250904475292275)
+2024-12-01 19:01:09,769 - DEBUG - Sheep 3 randomly chose a direction of movement: North
+2024-12-01 19:01:09,769 - DEBUG - Sheep 3 moved, new position: (-3.1063464550929965, -19.61146964947871)
+2024-12-01 19:01:09,769 - DEBUG - Sheep 4 randomly chose a direction of movement: South
+2024-12-01 19:01:09,769 - DEBUG - Sheep 4 moved, new position: (15.408920573089041, 5.948483504526191)
+2024-12-01 19:01:09,769 - DEBUG - Sheep 5 randomly chose a direction of movement: West
+2024-12-01 19:01:09,769 - DEBUG - Sheep 5 moved, new position: (0.1692510206818696, 13.915143859598672)
+2024-12-01 19:01:09,769 - DEBUG - Sheep 6 randomly chose a direction of movement: West
+2024-12-01 19:01:09,769 - DEBUG - Sheep 6 moved, new position: (5.712352908974612, -6.211708586736105)
+2024-12-01 19:01:09,769 - DEBUG - Sheep 7 randomly chose a direction of movement: East
+2024-12-01 19:01:09,769 - DEBUG - Sheep 7 moved, new position: (-3.6570121454110023, 19.818042822843033)
+2024-12-01 19:01:09,769 - DEBUG - Sheep 8 randomly chose a direction of movement: South
+2024-12-01 19:01:09,769 - DEBUG - Sheep 8 moved, new position: (20.91243815170705, -16.828285694971193)
+2024-12-01 19:01:09,769 - DEBUG - Sheep 9 randomly chose a direction of movement: North
+2024-12-01 19:01:09,769 - DEBUG - Sheep 9 moved, new position: (-19.27202907416151, -2.965635021608115)
+2024-12-01 19:01:09,769 - DEBUG - Sheep 10 randomly chose a direction of movement: South
+2024-12-01 19:01:09,769 - DEBUG - Sheep 10 moved, new position: (-1.6470289460192582, 13.42180384037902)
+2024-12-01 19:01:09,769 - DEBUG - Sheep 12 randomly chose a direction of movement: North
+2024-12-01 19:01:09,769 - DEBUG - Sheep 12 moved, new position: (-6.496951176088835, 14.955636137932089)
+2024-12-01 19:01:09,769 - DEBUG - Sheep 13 randomly chose a direction of movement: East
+2024-12-01 19:01:09,769 - DEBUG - Sheep 13 moved, new position: (9.529492192644344, 1.5805901956127748)
+2024-12-01 19:01:09,769 - DEBUG - Sheep 14 randomly chose a direction of movement: North
+2024-12-01 19:01:09,769 - DEBUG - Sheep 14 moved, new position: (-0.5151827699016955, 19.97230354908025)
+2024-12-01 19:01:09,770 - DEBUG - Sheep 15 randomly chose a direction of movement: South
+2024-12-01 19:01:09,770 - DEBUG - Sheep 15 moved, new position: (11.224532797262114, 5.34832554715085)
+2024-12-01 19:01:09,770 - INFO - All alive sheep moved
+2024-12-01 19:01:09,770 - DEBUG - The closest sheep 1 is in distance of 4.150661876863583
+2024-12-01 19:01:09,770 - INFO - The wolf is chasing sheep 1
+2024-12-01 19:01:09,770 - DEBUG - The wolf moved to position: (-0.09923078732784796, 7.588829311650033)
+2024-12-01 19:01:09,770 - INFO - The wolf moved
+2024-12-01 19:01:09,781 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:09,781 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:09,781 - INFO - The number of alive sheep: 14
+2024-12-01 19:01:09,781 - INFO - A 10 round was started 
+2024-12-01 19:01:09,781 - DEBUG - Sheep 1 randomly chose a direction of movement: West
+2024-12-01 19:01:09,781 - DEBUG - Sheep 1 moved, new position: (0.331175343217069, 10.598981250434186)
+2024-12-01 19:01:09,781 - DEBUG - Sheep 2 randomly chose a direction of movement: South
+2024-12-01 19:01:09,781 - DEBUG - Sheep 2 moved, new position: (9.115996002859973, -14.750904475292275)
+2024-12-01 19:01:09,781 - DEBUG - Sheep 3 randomly chose a direction of movement: North
+2024-12-01 19:01:09,781 - DEBUG - Sheep 3 moved, new position: (-3.1063464550929965, -19.11146964947871)
+2024-12-01 19:01:09,781 - DEBUG - Sheep 4 randomly chose a direction of movement: East
+2024-12-01 19:01:09,781 - DEBUG - Sheep 4 moved, new position: (15.908920573089041, 5.948483504526191)
+2024-12-01 19:01:09,782 - DEBUG - Sheep 5 randomly chose a direction of movement: South
+2024-12-01 19:01:09,782 - DEBUG - Sheep 5 moved, new position: (0.1692510206818696, 13.415143859598672)
+2024-12-01 19:01:09,782 - DEBUG - Sheep 6 randomly chose a direction of movement: West
+2024-12-01 19:01:09,782 - DEBUG - Sheep 6 moved, new position: (5.212352908974612, -6.211708586736105)
+2024-12-01 19:01:09,782 - DEBUG - Sheep 7 randomly chose a direction of movement: North
+2024-12-01 19:01:09,782 - DEBUG - Sheep 7 moved, new position: (-3.6570121454110023, 20.318042822843033)
+2024-12-01 19:01:09,782 - DEBUG - Sheep 8 randomly chose a direction of movement: East
+2024-12-01 19:01:09,782 - DEBUG - Sheep 8 moved, new position: (21.41243815170705, -16.828285694971193)
+2024-12-01 19:01:09,782 - DEBUG - Sheep 9 randomly chose a direction of movement: East
+2024-12-01 19:01:09,782 - DEBUG - Sheep 9 moved, new position: (-18.77202907416151, -2.965635021608115)
+2024-12-01 19:01:09,782 - DEBUG - Sheep 10 randomly chose a direction of movement: North
+2024-12-01 19:01:09,782 - DEBUG - Sheep 10 moved, new position: (-1.6470289460192582, 13.92180384037902)
+2024-12-01 19:01:09,782 - DEBUG - Sheep 12 randomly chose a direction of movement: South
+2024-12-01 19:01:09,782 - DEBUG - Sheep 12 moved, new position: (-6.496951176088835, 14.455636137932089)
+2024-12-01 19:01:09,782 - DEBUG - Sheep 13 randomly chose a direction of movement: South
+2024-12-01 19:01:09,782 - DEBUG - Sheep 13 moved, new position: (9.529492192644344, 1.0805901956127748)
+2024-12-01 19:01:09,782 - DEBUG - Sheep 14 randomly chose a direction of movement: East
+2024-12-01 19:01:09,782 - DEBUG - Sheep 14 moved, new position: (-0.015182769901695536, 19.97230354908025)
+2024-12-01 19:01:09,782 - DEBUG - Sheep 15 randomly chose a direction of movement: South
+2024-12-01 19:01:09,782 - DEBUG - Sheep 15 moved, new position: (11.224532797262114, 4.84832554715085)
+2024-12-01 19:01:09,782 - INFO - All alive sheep moved
+2024-12-01 19:01:09,782 - DEBUG - The closest sheep 1 is in distance of 3.0407670301712755
+2024-12-01 19:01:09,782 - INFO - The wolf is chasing sheep 1
+2024-12-01 19:01:09,782 - DEBUG - The wolf moved to position: (0.04231446302323655, 8.578761098240932)
+2024-12-01 19:01:09,782 - INFO - The wolf moved
+2024-12-01 19:01:09,793 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:09,794 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:09,794 - INFO - The number of alive sheep: 14
+2024-12-01 19:01:09,794 - INFO - A 11 round was started 
+2024-12-01 19:01:09,794 - DEBUG - Sheep 1 randomly chose a direction of movement: West
+2024-12-01 19:01:09,794 - DEBUG - Sheep 1 moved, new position: (-0.16882465678293102, 10.598981250434186)
+2024-12-01 19:01:09,794 - DEBUG - Sheep 2 randomly chose a direction of movement: North
+2024-12-01 19:01:09,794 - DEBUG - Sheep 2 moved, new position: (9.115996002859973, -14.250904475292275)
+2024-12-01 19:01:09,794 - DEBUG - Sheep 3 randomly chose a direction of movement: West
+2024-12-01 19:01:09,794 - DEBUG - Sheep 3 moved, new position: (-3.6063464550929965, -19.11146964947871)
+2024-12-01 19:01:09,794 - DEBUG - Sheep 4 randomly chose a direction of movement: South
+2024-12-01 19:01:09,794 - DEBUG - Sheep 4 moved, new position: (15.908920573089041, 5.448483504526191)
+2024-12-01 19:01:09,794 - DEBUG - Sheep 5 randomly chose a direction of movement: West
+2024-12-01 19:01:09,794 - DEBUG - Sheep 5 moved, new position: (-0.3307489793181304, 13.415143859598672)
+2024-12-01 19:01:09,794 - DEBUG - Sheep 6 randomly chose a direction of movement: East
+2024-12-01 19:01:09,794 - DEBUG - Sheep 6 moved, new position: (5.712352908974612, -6.211708586736105)
+2024-12-01 19:01:09,794 - DEBUG - Sheep 7 randomly chose a direction of movement: South
+2024-12-01 19:01:09,794 - DEBUG - Sheep 7 moved, new position: (-3.6570121454110023, 19.818042822843033)
+2024-12-01 19:01:09,794 - DEBUG - Sheep 8 randomly chose a direction of movement: South
+2024-12-01 19:01:09,794 - DEBUG - Sheep 8 moved, new position: (21.41243815170705, -17.328285694971193)
+2024-12-01 19:01:09,794 - DEBUG - Sheep 9 randomly chose a direction of movement: West
+2024-12-01 19:01:09,794 - DEBUG - Sheep 9 moved, new position: (-19.27202907416151, -2.965635021608115)
+2024-12-01 19:01:09,794 - DEBUG - Sheep 10 randomly chose a direction of movement: East
+2024-12-01 19:01:09,794 - DEBUG - Sheep 10 moved, new position: (-1.1470289460192582, 13.92180384037902)
+2024-12-01 19:01:09,794 - DEBUG - Sheep 12 randomly chose a direction of movement: East
+2024-12-01 19:01:09,794 - DEBUG - Sheep 12 moved, new position: (-5.996951176088835, 14.455636137932089)
+2024-12-01 19:01:09,794 - DEBUG - Sheep 13 randomly chose a direction of movement: East
+2024-12-01 19:01:09,794 - DEBUG - Sheep 13 moved, new position: (10.029492192644344, 1.0805901956127748)
+2024-12-01 19:01:09,794 - DEBUG - Sheep 14 randomly chose a direction of movement: South
+2024-12-01 19:01:09,795 - DEBUG - Sheep 14 moved, new position: (-0.015182769901695536, 19.47230354908025)
+2024-12-01 19:01:09,795 - DEBUG - Sheep 15 randomly chose a direction of movement: West
+2024-12-01 19:01:09,795 - DEBUG - Sheep 15 moved, new position: (10.724532797262114, 4.84832554715085)
+2024-12-01 19:01:09,795 - INFO - All alive sheep moved
+2024-12-01 19:01:09,795 - DEBUG - The closest sheep 1 is in distance of 2.031223569979498
+2024-12-01 19:01:09,795 - INFO - The wolf is chasing sheep 1
+2024-12-01 19:01:09,795 - DEBUG - The wolf moved to position: (-0.06163230232879148, 9.573343960536905)
+2024-12-01 19:01:09,795 - INFO - The wolf moved
+2024-12-01 19:01:09,807 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:09,807 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:09,807 - INFO - The number of alive sheep: 14
+2024-12-01 19:01:09,807 - INFO - A 12 round was started 
+2024-12-01 19:01:09,807 - DEBUG - Sheep 1 randomly chose a direction of movement: South
+2024-12-01 19:01:09,808 - DEBUG - Sheep 1 moved, new position: (-0.16882465678293102, 10.098981250434186)
+2024-12-01 19:01:09,808 - DEBUG - Sheep 2 randomly chose a direction of movement: West
+2024-12-01 19:01:09,808 - DEBUG - Sheep 2 moved, new position: (8.615996002859973, -14.250904475292275)
+2024-12-01 19:01:09,808 - DEBUG - Sheep 3 randomly chose a direction of movement: West
+2024-12-01 19:01:09,808 - DEBUG - Sheep 3 moved, new position: (-4.1063464550929965, -19.11146964947871)
+2024-12-01 19:01:09,808 - DEBUG - Sheep 4 randomly chose a direction of movement: West
+2024-12-01 19:01:09,808 - DEBUG - Sheep 4 moved, new position: (15.408920573089041, 5.448483504526191)
+2024-12-01 19:01:09,808 - DEBUG - Sheep 5 randomly chose a direction of movement: South
+2024-12-01 19:01:09,808 - DEBUG - Sheep 5 moved, new position: (-0.3307489793181304, 12.915143859598672)
+2024-12-01 19:01:09,808 - DEBUG - Sheep 6 randomly chose a direction of movement: West
+2024-12-01 19:01:09,808 - DEBUG - Sheep 6 moved, new position: (5.212352908974612, -6.211708586736105)
+2024-12-01 19:01:09,808 - DEBUG - Sheep 7 randomly chose a direction of movement: East
+2024-12-01 19:01:09,808 - DEBUG - Sheep 7 moved, new position: (-3.1570121454110023, 19.818042822843033)
+2024-12-01 19:01:09,808 - DEBUG - Sheep 8 randomly chose a direction of movement: North
+2024-12-01 19:01:09,808 - DEBUG - Sheep 8 moved, new position: (21.41243815170705, -16.828285694971193)
+2024-12-01 19:01:09,808 - DEBUG - Sheep 9 randomly chose a direction of movement: South
+2024-12-01 19:01:09,808 - DEBUG - Sheep 9 moved, new position: (-19.27202907416151, -3.465635021608115)
+2024-12-01 19:01:09,808 - DEBUG - Sheep 10 randomly chose a direction of movement: West
+2024-12-01 19:01:09,808 - DEBUG - Sheep 10 moved, new position: (-1.6470289460192582, 13.92180384037902)
+2024-12-01 19:01:09,808 - DEBUG - Sheep 12 randomly chose a direction of movement: East
+2024-12-01 19:01:09,808 - DEBUG - Sheep 12 moved, new position: (-5.496951176088835, 14.455636137932089)
+2024-12-01 19:01:09,808 - DEBUG - Sheep 13 randomly chose a direction of movement: South
+2024-12-01 19:01:09,808 - DEBUG - Sheep 13 moved, new position: (10.029492192644344, 0.5805901956127748)
+2024-12-01 19:01:09,808 - DEBUG - Sheep 14 randomly chose a direction of movement: East
+2024-12-01 19:01:09,809 - DEBUG - Sheep 14 moved, new position: (0.48481723009830446, 19.47230354908025)
+2024-12-01 19:01:09,809 - DEBUG - Sheep 15 randomly chose a direction of movement: West
+2024-12-01 19:01:09,809 - DEBUG - Sheep 15 moved, new position: (10.224532797262114, 4.84832554715085)
+2024-12-01 19:01:09,809 - INFO - All alive sheep moved
+2024-12-01 19:01:09,809 - DEBUG - The closest sheep 1 is in distance of 0.5364557403775079
+2024-12-01 19:01:09,809 - INFO - A 1 sheep was eaten
+2024-12-01 19:01:09,809 - DEBUG - The wolf moved to position: (-0.16882465678293102, 10.098981250434186)
+2024-12-01 19:01:09,809 - INFO - The wolf moved
+2024-12-01 19:01:09,822 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:09,822 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:09,822 - INFO - The number of alive sheep: 13
+2024-12-01 19:01:09,822 - INFO - A 13 round was started 
+2024-12-01 19:01:09,822 - DEBUG - Sheep 2 randomly chose a direction of movement: South
+2024-12-01 19:01:09,822 - DEBUG - Sheep 2 moved, new position: (8.615996002859973, -14.750904475292275)
+2024-12-01 19:01:09,822 - DEBUG - Sheep 3 randomly chose a direction of movement: South
+2024-12-01 19:01:09,822 - DEBUG - Sheep 3 moved, new position: (-4.1063464550929965, -19.61146964947871)
+2024-12-01 19:01:09,823 - DEBUG - Sheep 4 randomly chose a direction of movement: North
+2024-12-01 19:01:09,823 - DEBUG - Sheep 4 moved, new position: (15.408920573089041, 5.948483504526191)
+2024-12-01 19:01:09,823 - DEBUG - Sheep 5 randomly chose a direction of movement: South
+2024-12-01 19:01:09,823 - DEBUG - Sheep 5 moved, new position: (-0.3307489793181304, 12.415143859598672)
+2024-12-01 19:01:09,823 - DEBUG - Sheep 6 randomly chose a direction of movement: West
+2024-12-01 19:01:09,823 - DEBUG - Sheep 6 moved, new position: (4.712352908974612, -6.211708586736105)
+2024-12-01 19:01:09,823 - DEBUG - Sheep 7 randomly chose a direction of movement: North
+2024-12-01 19:01:09,823 - DEBUG - Sheep 7 moved, new position: (-3.1570121454110023, 20.318042822843033)
+2024-12-01 19:01:09,823 - DEBUG - Sheep 8 randomly chose a direction of movement: West
+2024-12-01 19:01:09,823 - DEBUG - Sheep 8 moved, new position: (20.91243815170705, -16.828285694971193)
+2024-12-01 19:01:09,823 - DEBUG - Sheep 9 randomly chose a direction of movement: West
+2024-12-01 19:01:09,823 - DEBUG - Sheep 9 moved, new position: (-19.77202907416151, -3.465635021608115)
+2024-12-01 19:01:09,823 - DEBUG - Sheep 10 randomly chose a direction of movement: East
+2024-12-01 19:01:09,824 - DEBUG - Sheep 10 moved, new position: (-1.1470289460192582, 13.92180384037902)
+2024-12-01 19:01:09,824 - DEBUG - Sheep 12 randomly chose a direction of movement: East
+2024-12-01 19:01:09,824 - DEBUG - Sheep 12 moved, new position: (-4.996951176088835, 14.455636137932089)
+2024-12-01 19:01:09,824 - DEBUG - Sheep 13 randomly chose a direction of movement: North
+2024-12-01 19:01:09,824 - DEBUG - Sheep 13 moved, new position: (10.029492192644344, 1.0805901956127748)
+2024-12-01 19:01:09,824 - DEBUG - Sheep 14 randomly chose a direction of movement: South
+2024-12-01 19:01:09,824 - DEBUG - Sheep 14 moved, new position: (0.48481723009830446, 18.97230354908025)
+2024-12-01 19:01:09,824 - DEBUG - Sheep 15 randomly chose a direction of movement: East
+2024-12-01 19:01:09,824 - DEBUG - Sheep 15 moved, new position: (10.724532797262114, 4.84832554715085)
+2024-12-01 19:01:09,824 - INFO - All alive sheep moved
+2024-12-01 19:01:09,824 - DEBUG - The closest sheep 5 is in distance of 2.321815823514028
+2024-12-01 19:01:09,824 - INFO - The wolf is chasing sheep 5
+2024-12-01 19:01:09,824 - DEBUG - The wolf moved to position: (-0.2385650388129449, 11.096546425805855)
+2024-12-01 19:01:09,824 - INFO - The wolf moved
+2024-12-01 19:01:09,835 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:09,836 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:09,836 - INFO - The number of alive sheep: 13
+2024-12-01 19:01:09,836 - INFO - A 14 round was started 
+2024-12-01 19:01:09,836 - DEBUG - Sheep 2 randomly chose a direction of movement: East
+2024-12-01 19:01:09,836 - DEBUG - Sheep 2 moved, new position: (9.115996002859973, -14.750904475292275)
+2024-12-01 19:01:09,836 - DEBUG - Sheep 3 randomly chose a direction of movement: North
+2024-12-01 19:01:09,836 - DEBUG - Sheep 3 moved, new position: (-4.1063464550929965, -19.11146964947871)
+2024-12-01 19:01:09,836 - DEBUG - Sheep 4 randomly chose a direction of movement: West
+2024-12-01 19:01:09,836 - DEBUG - Sheep 4 moved, new position: (14.908920573089041, 5.948483504526191)
+2024-12-01 19:01:09,836 - DEBUG - Sheep 5 randomly chose a direction of movement: East
+2024-12-01 19:01:09,836 - DEBUG - Sheep 5 moved, new position: (0.1692510206818696, 12.415143859598672)
+2024-12-01 19:01:09,836 - DEBUG - Sheep 6 randomly chose a direction of movement: West
+2024-12-01 19:01:09,836 - DEBUG - Sheep 6 moved, new position: (4.212352908974612, -6.211708586736105)
+2024-12-01 19:01:09,836 - DEBUG - Sheep 7 randomly chose a direction of movement: North
+2024-12-01 19:01:09,836 - DEBUG - Sheep 7 moved, new position: (-3.1570121454110023, 20.818042822843033)
+2024-12-01 19:01:09,837 - DEBUG - Sheep 8 randomly chose a direction of movement: South
+2024-12-01 19:01:09,837 - DEBUG - Sheep 8 moved, new position: (20.91243815170705, -17.328285694971193)
+2024-12-01 19:01:09,837 - DEBUG - Sheep 9 randomly chose a direction of movement: West
+2024-12-01 19:01:09,837 - DEBUG - Sheep 9 moved, new position: (-20.27202907416151, -3.465635021608115)
+2024-12-01 19:01:09,837 - DEBUG - Sheep 10 randomly chose a direction of movement: West
+2024-12-01 19:01:09,837 - DEBUG - Sheep 10 moved, new position: (-1.6470289460192582, 13.92180384037902)
+2024-12-01 19:01:09,837 - DEBUG - Sheep 12 randomly chose a direction of movement: South
+2024-12-01 19:01:09,837 - DEBUG - Sheep 12 moved, new position: (-4.996951176088835, 13.955636137932089)
+2024-12-01 19:01:09,837 - DEBUG - Sheep 13 randomly chose a direction of movement: West
+2024-12-01 19:01:09,837 - DEBUG - Sheep 13 moved, new position: (9.529492192644344, 1.0805901956127748)
+2024-12-01 19:01:09,837 - DEBUG - Sheep 14 randomly chose a direction of movement: North
+2024-12-01 19:01:09,837 - DEBUG - Sheep 14 moved, new position: (0.48481723009830446, 19.47230354908025)
+2024-12-01 19:01:09,837 - DEBUG - Sheep 15 randomly chose a direction of movement: West
+2024-12-01 19:01:09,837 - DEBUG - Sheep 15 moved, new position: (10.224532797262114, 4.84832554715085)
+2024-12-01 19:01:09,837 - INFO - All alive sheep moved
+2024-12-01 19:01:09,837 - DEBUG - The closest sheep 5 is in distance of 1.3802221309582314
+2024-12-01 19:01:09,837 - INFO - The wolf is chasing sheep 5
+2024-12-01 19:01:09,837 - DEBUG - The wolf moved to position: (0.05690628449621307, 12.051898034953991)
+2024-12-01 19:01:09,837 - INFO - The wolf moved
+2024-12-01 19:01:09,848 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:09,849 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:09,849 - INFO - The number of alive sheep: 13
+2024-12-01 19:01:09,849 - INFO - A 15 round was started 
+2024-12-01 19:01:09,849 - DEBUG - Sheep 2 randomly chose a direction of movement: North
+2024-12-01 19:01:09,849 - DEBUG - Sheep 2 moved, new position: (9.115996002859973, -14.250904475292275)
+2024-12-01 19:01:09,849 - DEBUG - Sheep 3 randomly chose a direction of movement: West
+2024-12-01 19:01:09,849 - DEBUG - Sheep 3 moved, new position: (-4.6063464550929965, -19.11146964947871)
+2024-12-01 19:01:09,849 - DEBUG - Sheep 4 randomly chose a direction of movement: East
+2024-12-01 19:01:09,849 - DEBUG - Sheep 4 moved, new position: (15.408920573089041, 5.948483504526191)
+2024-12-01 19:01:09,849 - DEBUG - Sheep 5 randomly chose a direction of movement: East
+2024-12-01 19:01:09,849 - DEBUG - Sheep 5 moved, new position: (0.6692510206818696, 12.415143859598672)
+2024-12-01 19:01:09,849 - DEBUG - Sheep 6 randomly chose a direction of movement: North
+2024-12-01 19:01:09,849 - DEBUG - Sheep 6 moved, new position: (4.212352908974612, -5.711708586736105)
+2024-12-01 19:01:09,849 - DEBUG - Sheep 7 randomly chose a direction of movement: West
+2024-12-01 19:01:09,849 - DEBUG - Sheep 7 moved, new position: (-3.6570121454110023, 20.818042822843033)
+2024-12-01 19:01:09,849 - DEBUG - Sheep 8 randomly chose a direction of movement: South
+2024-12-01 19:01:09,849 - DEBUG - Sheep 8 moved, new position: (20.91243815170705, -17.828285694971193)
+2024-12-01 19:01:09,850 - DEBUG - Sheep 9 randomly chose a direction of movement: East
+2024-12-01 19:01:09,850 - DEBUG - Sheep 9 moved, new position: (-19.77202907416151, -3.465635021608115)
+2024-12-01 19:01:09,850 - DEBUG - Sheep 10 randomly chose a direction of movement: East
+2024-12-01 19:01:09,850 - DEBUG - Sheep 10 moved, new position: (-1.1470289460192582, 13.92180384037902)
+2024-12-01 19:01:09,850 - DEBUG - Sheep 12 randomly chose a direction of movement: North
+2024-12-01 19:01:09,850 - DEBUG - Sheep 12 moved, new position: (-4.996951176088835, 14.455636137932089)
+2024-12-01 19:01:09,850 - DEBUG - Sheep 13 randomly chose a direction of movement: South
+2024-12-01 19:01:09,850 - DEBUG - Sheep 13 moved, new position: (9.529492192644344, 0.5805901956127748)
+2024-12-01 19:01:09,850 - DEBUG - Sheep 14 randomly chose a direction of movement: South
+2024-12-01 19:01:09,850 - DEBUG - Sheep 14 moved, new position: (0.48481723009830446, 18.97230354908025)
+2024-12-01 19:01:09,850 - DEBUG - Sheep 15 randomly chose a direction of movement: East
+2024-12-01 19:01:09,850 - DEBUG - Sheep 15 moved, new position: (10.724532797262114, 4.84832554715085)
+2024-12-01 19:01:09,850 - INFO - All alive sheep moved
+2024-12-01 19:01:09,850 - DEBUG - The closest sheep 5 is in distance of 0.7119786549160554
+2024-12-01 19:01:09,850 - INFO - A 5 sheep was eaten
+2024-12-01 19:01:09,850 - DEBUG - The wolf moved to position: (0.6692510206818696, 12.415143859598672)
+2024-12-01 19:01:09,850 - INFO - The wolf moved
+2024-12-01 19:01:09,863 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:09,863 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:09,863 - INFO - The number of alive sheep: 12
+2024-12-01 19:01:09,863 - INFO - A 16 round was started 
+2024-12-01 19:01:09,863 - DEBUG - Sheep 2 randomly chose a direction of movement: East
+2024-12-01 19:01:09,863 - DEBUG - Sheep 2 moved, new position: (9.615996002859973, -14.250904475292275)
+2024-12-01 19:01:09,863 - DEBUG - Sheep 3 randomly chose a direction of movement: East
+2024-12-01 19:01:09,864 - DEBUG - Sheep 3 moved, new position: (-4.1063464550929965, -19.11146964947871)
+2024-12-01 19:01:09,864 - DEBUG - Sheep 4 randomly chose a direction of movement: North
+2024-12-01 19:01:09,864 - DEBUG - Sheep 4 moved, new position: (15.408920573089041, 6.448483504526191)
+2024-12-01 19:01:09,864 - DEBUG - Sheep 6 randomly chose a direction of movement: North
+2024-12-01 19:01:09,864 - DEBUG - Sheep 6 moved, new position: (4.212352908974612, -5.211708586736105)
+2024-12-01 19:01:09,864 - DEBUG - Sheep 7 randomly chose a direction of movement: East
+2024-12-01 19:01:09,864 - DEBUG - Sheep 7 moved, new position: (-3.1570121454110023, 20.818042822843033)
+2024-12-01 19:01:09,864 - DEBUG - Sheep 8 randomly chose a direction of movement: East
+2024-12-01 19:01:09,864 - DEBUG - Sheep 8 moved, new position: (21.41243815170705, -17.828285694971193)
+2024-12-01 19:01:09,864 - DEBUG - Sheep 9 randomly chose a direction of movement: West
+2024-12-01 19:01:09,864 - DEBUG - Sheep 9 moved, new position: (-20.27202907416151, -3.465635021608115)
+2024-12-01 19:01:09,864 - DEBUG - Sheep 10 randomly chose a direction of movement: South
+2024-12-01 19:01:09,864 - DEBUG - Sheep 10 moved, new position: (-1.1470289460192582, 13.42180384037902)
+2024-12-01 19:01:09,864 - DEBUG - Sheep 12 randomly chose a direction of movement: East
+2024-12-01 19:01:09,864 - DEBUG - Sheep 12 moved, new position: (-4.496951176088835, 14.455636137932089)
+2024-12-01 19:01:09,864 - DEBUG - Sheep 13 randomly chose a direction of movement: East
+2024-12-01 19:01:09,864 - DEBUG - Sheep 13 moved, new position: (10.029492192644344, 0.5805901956127748)
+2024-12-01 19:01:09,864 - DEBUG - Sheep 14 randomly chose a direction of movement: West
+2024-12-01 19:01:09,864 - DEBUG - Sheep 14 moved, new position: (-0.015182769901695536, 18.97230354908025)
+2024-12-01 19:01:09,864 - DEBUG - Sheep 15 randomly chose a direction of movement: North
+2024-12-01 19:01:09,864 - DEBUG - Sheep 15 moved, new position: (10.724532797262114, 5.34832554715085)
+2024-12-01 19:01:09,864 - INFO - All alive sheep moved
+2024-12-01 19:01:09,864 - DEBUG - The closest sheep 10 is in distance of 2.0765926982305754
+2024-12-01 19:01:09,864 - INFO - The wolf is chasing sheep 10
+2024-12-01 19:01:09,864 - DEBUG - The wolf moved to position: (-0.20539327920840011, 12.899909110693942)
+2024-12-01 19:01:09,865 - INFO - The wolf moved
+2024-12-01 19:01:09,877 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:09,878 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:09,878 - INFO - The number of alive sheep: 12
+2024-12-01 19:01:09,878 - INFO - A 17 round was started 
+2024-12-01 19:01:09,878 - DEBUG - Sheep 2 randomly chose a direction of movement: East
+2024-12-01 19:01:09,878 - DEBUG - Sheep 2 moved, new position: (10.115996002859973, -14.250904475292275)
+2024-12-01 19:01:09,878 - DEBUG - Sheep 3 randomly chose a direction of movement: East
+2024-12-01 19:01:09,878 - DEBUG - Sheep 3 moved, new position: (-3.6063464550929965, -19.11146964947871)
+2024-12-01 19:01:09,878 - DEBUG - Sheep 4 randomly chose a direction of movement: South
+2024-12-01 19:01:09,878 - DEBUG - Sheep 4 moved, new position: (15.408920573089041, 5.948483504526191)
+2024-12-01 19:01:09,878 - DEBUG - Sheep 6 randomly chose a direction of movement: South
+2024-12-01 19:01:09,878 - DEBUG - Sheep 6 moved, new position: (4.212352908974612, -5.711708586736105)
+2024-12-01 19:01:09,878 - DEBUG - Sheep 7 randomly chose a direction of movement: North
+2024-12-01 19:01:09,878 - DEBUG - Sheep 7 moved, new position: (-3.1570121454110023, 21.318042822843033)
+2024-12-01 19:01:09,878 - DEBUG - Sheep 8 randomly chose a direction of movement: East
+2024-12-01 19:01:09,878 - DEBUG - Sheep 8 moved, new position: (21.91243815170705, -17.828285694971193)
+2024-12-01 19:01:09,878 - DEBUG - Sheep 9 randomly chose a direction of movement: South
+2024-12-01 19:01:09,878 - DEBUG - Sheep 9 moved, new position: (-20.27202907416151, -3.965635021608115)
+2024-12-01 19:01:09,879 - DEBUG - Sheep 10 randomly chose a direction of movement: South
+2024-12-01 19:01:09,879 - DEBUG - Sheep 10 moved, new position: (-1.1470289460192582, 12.92180384037902)
+2024-12-01 19:01:09,879 - DEBUG - Sheep 12 randomly chose a direction of movement: North
+2024-12-01 19:01:09,879 - DEBUG - Sheep 12 moved, new position: (-4.496951176088835, 14.955636137932089)
+2024-12-01 19:01:09,879 - DEBUG - Sheep 13 randomly chose a direction of movement: West
+2024-12-01 19:01:09,879 - DEBUG - Sheep 13 moved, new position: (9.529492192644344, 0.5805901956127748)
+2024-12-01 19:01:09,879 - DEBUG - Sheep 14 randomly chose a direction of movement: East
+2024-12-01 19:01:09,879 - DEBUG - Sheep 14 moved, new position: (0.48481723009830446, 18.97230354908025)
+2024-12-01 19:01:09,879 - DEBUG - Sheep 15 randomly chose a direction of movement: North
+2024-12-01 19:01:09,879 - DEBUG - Sheep 15 moved, new position: (10.724532797262114, 5.84832554715085)
+2024-12-01 19:01:09,879 - INFO - All alive sheep moved
+2024-12-01 19:01:09,879 - DEBUG - The closest sheep 10 is in distance of 0.941890178416949
+2024-12-01 19:01:09,879 - INFO - A 10 sheep was eaten
+2024-12-01 19:01:09,879 - DEBUG - The wolf moved to position: (-1.1470289460192582, 12.92180384037902)
+2024-12-01 19:01:09,879 - INFO - The wolf moved
+2024-12-01 19:01:09,891 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:09,892 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:09,892 - INFO - The number of alive sheep: 11
+2024-12-01 19:01:09,892 - INFO - A 18 round was started 
+2024-12-01 19:01:09,892 - DEBUG - Sheep 2 randomly chose a direction of movement: West
+2024-12-01 19:01:09,892 - DEBUG - Sheep 2 moved, new position: (9.615996002859973, -14.250904475292275)
+2024-12-01 19:01:09,892 - DEBUG - Sheep 3 randomly chose a direction of movement: North
+2024-12-01 19:01:09,892 - DEBUG - Sheep 3 moved, new position: (-3.6063464550929965, -18.61146964947871)
+2024-12-01 19:01:09,892 - DEBUG - Sheep 4 randomly chose a direction of movement: West
+2024-12-01 19:01:09,892 - DEBUG - Sheep 4 moved, new position: (14.908920573089041, 5.948483504526191)
+2024-12-01 19:01:09,892 - DEBUG - Sheep 6 randomly chose a direction of movement: East
+2024-12-01 19:01:09,892 - DEBUG - Sheep 6 moved, new position: (4.712352908974612, -5.711708586736105)
+2024-12-01 19:01:09,892 - DEBUG - Sheep 7 randomly chose a direction of movement: South
+2024-12-01 19:01:09,892 - DEBUG - Sheep 7 moved, new position: (-3.1570121454110023, 20.818042822843033)
+2024-12-01 19:01:09,892 - DEBUG - Sheep 8 randomly chose a direction of movement: West
+2024-12-01 19:01:09,892 - DEBUG - Sheep 8 moved, new position: (21.41243815170705, -17.828285694971193)
+2024-12-01 19:01:09,892 - DEBUG - Sheep 9 randomly chose a direction of movement: South
+2024-12-01 19:01:09,892 - DEBUG - Sheep 9 moved, new position: (-20.27202907416151, -4.465635021608115)
+2024-12-01 19:01:09,892 - DEBUG - Sheep 12 randomly chose a direction of movement: North
+2024-12-01 19:01:09,892 - DEBUG - Sheep 12 moved, new position: (-4.496951176088835, 15.455636137932089)
+2024-12-01 19:01:09,892 - DEBUG - Sheep 13 randomly chose a direction of movement: West
+2024-12-01 19:01:09,892 - DEBUG - Sheep 13 moved, new position: (9.029492192644344, 0.5805901956127748)
+2024-12-01 19:01:09,892 - DEBUG - Sheep 14 randomly chose a direction of movement: East
+2024-12-01 19:01:09,892 - DEBUG - Sheep 14 moved, new position: (0.9848172300983045, 18.97230354908025)
+2024-12-01 19:01:09,893 - DEBUG - Sheep 15 randomly chose a direction of movement: West
+2024-12-01 19:01:09,893 - DEBUG - Sheep 15 moved, new position: (10.224532797262114, 5.84832554715085)
+2024-12-01 19:01:09,893 - INFO - All alive sheep moved
+2024-12-01 19:01:09,893 - DEBUG - The closest sheep 12 is in distance of 4.200272022100163
+2024-12-01 19:01:09,893 - INFO - The wolf is chasing sheep 12
+2024-12-01 19:01:09,893 - DEBUG - The wolf moved to position: (-1.944577822007198, 13.525058173484364)
+2024-12-01 19:01:09,893 - INFO - The wolf moved
+2024-12-01 19:01:09,905 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:09,905 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:09,905 - INFO - The number of alive sheep: 11
+2024-12-01 19:01:09,905 - INFO - A 19 round was started 
+2024-12-01 19:01:09,905 - DEBUG - Sheep 2 randomly chose a direction of movement: South
+2024-12-01 19:01:09,905 - DEBUG - Sheep 2 moved, new position: (9.615996002859973, -14.750904475292275)
+2024-12-01 19:01:09,905 - DEBUG - Sheep 3 randomly chose a direction of movement: West
+2024-12-01 19:01:09,905 - DEBUG - Sheep 3 moved, new position: (-4.1063464550929965, -18.61146964947871)
+2024-12-01 19:01:09,905 - DEBUG - Sheep 4 randomly chose a direction of movement: West
+2024-12-01 19:01:09,905 - DEBUG - Sheep 4 moved, new position: (14.408920573089041, 5.948483504526191)
+2024-12-01 19:01:09,905 - DEBUG - Sheep 6 randomly chose a direction of movement: North
+2024-12-01 19:01:09,905 - DEBUG - Sheep 6 moved, new position: (4.712352908974612, -5.211708586736105)
+2024-12-01 19:01:09,906 - DEBUG - Sheep 7 randomly chose a direction of movement: South
+2024-12-01 19:01:09,906 - DEBUG - Sheep 7 moved, new position: (-3.1570121454110023, 20.318042822843033)
+2024-12-01 19:01:09,906 - DEBUG - Sheep 8 randomly chose a direction of movement: North
+2024-12-01 19:01:09,906 - DEBUG - Sheep 8 moved, new position: (21.41243815170705, -17.328285694971193)
+2024-12-01 19:01:09,906 - DEBUG - Sheep 9 randomly chose a direction of movement: North
+2024-12-01 19:01:09,906 - DEBUG - Sheep 9 moved, new position: (-20.27202907416151, -3.965635021608115)
+2024-12-01 19:01:09,906 - DEBUG - Sheep 12 randomly chose a direction of movement: West
+2024-12-01 19:01:09,906 - DEBUG - Sheep 12 moved, new position: (-4.996951176088835, 15.455636137932089)
+2024-12-01 19:01:09,906 - DEBUG - Sheep 13 randomly chose a direction of movement: East
+2024-12-01 19:01:09,906 - DEBUG - Sheep 13 moved, new position: (9.529492192644344, 0.5805901956127748)
+2024-12-01 19:01:09,906 - DEBUG - Sheep 14 randomly chose a direction of movement: West
+2024-12-01 19:01:09,906 - DEBUG - Sheep 14 moved, new position: (0.48481723009830446, 18.97230354908025)
+2024-12-01 19:01:09,906 - DEBUG - Sheep 15 randomly chose a direction of movement: East
+2024-12-01 19:01:09,906 - DEBUG - Sheep 15 moved, new position: (10.724532797262114, 5.84832554715085)
+2024-12-01 19:01:09,906 - INFO - All alive sheep moved
+2024-12-01 19:01:09,906 - DEBUG - The closest sheep 12 is in distance of 3.6116636567541422
+2024-12-01 19:01:09,906 - INFO - The wolf is chasing sheep 12
+2024-12-01 19:01:09,906 - DEBUG - The wolf moved to position: (-2.789721125529778, 14.059597972293528)
+2024-12-01 19:01:09,906 - INFO - The wolf moved
+2024-12-01 19:01:09,919 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:09,919 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:09,919 - INFO - The number of alive sheep: 11
+2024-12-01 19:01:09,919 - INFO - A 20 round was started 
+2024-12-01 19:01:09,919 - DEBUG - Sheep 2 randomly chose a direction of movement: North
+2024-12-01 19:01:09,920 - DEBUG - Sheep 2 moved, new position: (9.615996002859973, -14.250904475292275)
+2024-12-01 19:01:09,920 - DEBUG - Sheep 3 randomly chose a direction of movement: North
+2024-12-01 19:01:09,920 - DEBUG - Sheep 3 moved, new position: (-4.1063464550929965, -18.11146964947871)
+2024-12-01 19:01:09,920 - DEBUG - Sheep 4 randomly chose a direction of movement: West
+2024-12-01 19:01:09,920 - DEBUG - Sheep 4 moved, new position: (13.908920573089041, 5.948483504526191)
+2024-12-01 19:01:09,920 - DEBUG - Sheep 6 randomly chose a direction of movement: East
+2024-12-01 19:01:09,920 - DEBUG - Sheep 6 moved, new position: (5.212352908974612, -5.211708586736105)
+2024-12-01 19:01:09,920 - DEBUG - Sheep 7 randomly chose a direction of movement: East
+2024-12-01 19:01:09,920 - DEBUG - Sheep 7 moved, new position: (-2.6570121454110023, 20.318042822843033)
+2024-12-01 19:01:09,920 - DEBUG - Sheep 8 randomly chose a direction of movement: West
+2024-12-01 19:01:09,920 - DEBUG - Sheep 8 moved, new position: (20.91243815170705, -17.328285694971193)
+2024-12-01 19:01:09,920 - DEBUG - Sheep 9 randomly chose a direction of movement: East
+2024-12-01 19:01:09,920 - DEBUG - Sheep 9 moved, new position: (-19.77202907416151, -3.965635021608115)
+2024-12-01 19:01:09,920 - DEBUG - Sheep 12 randomly chose a direction of movement: East
+2024-12-01 19:01:09,920 - DEBUG - Sheep 12 moved, new position: (-4.496951176088835, 15.455636137932089)
+2024-12-01 19:01:09,920 - DEBUG - Sheep 13 randomly chose a direction of movement: South
+2024-12-01 19:01:09,920 - DEBUG - Sheep 13 moved, new position: (9.529492192644344, 0.0805901956127748)
+2024-12-01 19:01:09,920 - DEBUG - Sheep 14 randomly chose a direction of movement: West
+2024-12-01 19:01:09,920 - DEBUG - Sheep 14 moved, new position: (-0.015182769901695536, 18.97230354908025)
+2024-12-01 19:01:09,920 - DEBUG - Sheep 15 randomly chose a direction of movement: South
+2024-12-01 19:01:09,920 - DEBUG - Sheep 15 moved, new position: (10.724532797262114, 5.34832554715085)
+2024-12-01 19:01:09,920 - INFO - All alive sheep moved
+2024-12-01 19:01:09,920 - DEBUG - The closest sheep 12 is in distance of 2.205347366165104
+2024-12-01 19:01:09,920 - INFO - The wolf is chasing sheep 12
+2024-12-01 19:01:09,920 - DEBUG - The wolf moved to position: (-3.5638531632993073, 14.692622133047914)
+2024-12-01 19:01:09,921 - INFO - The wolf moved
+2024-12-01 19:01:09,932 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:09,932 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:09,932 - INFO - The number of alive sheep: 11
+2024-12-01 19:01:09,932 - INFO - A 21 round was started 
+2024-12-01 19:01:09,932 - DEBUG - Sheep 2 randomly chose a direction of movement: East
+2024-12-01 19:01:09,932 - DEBUG - Sheep 2 moved, new position: (10.115996002859973, -14.250904475292275)
+2024-12-01 19:01:09,932 - DEBUG - Sheep 3 randomly chose a direction of movement: West
+2024-12-01 19:01:09,932 - DEBUG - Sheep 3 moved, new position: (-4.6063464550929965, -18.11146964947871)
+2024-12-01 19:01:09,932 - DEBUG - Sheep 4 randomly chose a direction of movement: North
+2024-12-01 19:01:09,932 - DEBUG - Sheep 4 moved, new position: (13.908920573089041, 6.448483504526191)
+2024-12-01 19:01:09,932 - DEBUG - Sheep 6 randomly chose a direction of movement: East
+2024-12-01 19:01:09,932 - DEBUG - Sheep 6 moved, new position: (5.712352908974612, -5.211708586736105)
+2024-12-01 19:01:09,932 - DEBUG - Sheep 7 randomly chose a direction of movement: West
+2024-12-01 19:01:09,932 - DEBUG - Sheep 7 moved, new position: (-3.1570121454110023, 20.318042822843033)
+2024-12-01 19:01:09,932 - DEBUG - Sheep 8 randomly chose a direction of movement: North
+2024-12-01 19:01:09,933 - DEBUG - Sheep 8 moved, new position: (20.91243815170705, -16.828285694971193)
+2024-12-01 19:01:09,933 - DEBUG - Sheep 9 randomly chose a direction of movement: West
+2024-12-01 19:01:09,933 - DEBUG - Sheep 9 moved, new position: (-20.27202907416151, -3.965635021608115)
+2024-12-01 19:01:09,933 - DEBUG - Sheep 12 randomly chose a direction of movement: East
+2024-12-01 19:01:09,933 - DEBUG - Sheep 12 moved, new position: (-3.996951176088835, 15.455636137932089)
+2024-12-01 19:01:09,933 - DEBUG - Sheep 13 randomly chose a direction of movement: South
+2024-12-01 19:01:09,933 - DEBUG - Sheep 13 moved, new position: (9.529492192644344, -0.4194098043872252)
+2024-12-01 19:01:09,933 - DEBUG - Sheep 14 randomly chose a direction of movement: North
+2024-12-01 19:01:09,933 - DEBUG - Sheep 14 moved, new position: (-0.015182769901695536, 19.47230354908025)
+2024-12-01 19:01:09,933 - DEBUG - Sheep 15 randomly chose a direction of movement: East
+2024-12-01 19:01:09,933 - DEBUG - Sheep 15 moved, new position: (11.224532797262114, 5.34832554715085)
+2024-12-01 19:01:09,933 - INFO - All alive sheep moved
+2024-12-01 19:01:09,933 - DEBUG - The closest sheep 12 is in distance of 0.877362103314034
+2024-12-01 19:01:09,933 - INFO - A 12 sheep was eaten
+2024-12-01 19:01:09,933 - DEBUG - The wolf moved to position: (-3.996951176088835, 15.455636137932089)
+2024-12-01 19:01:09,933 - INFO - The wolf moved
+2024-12-01 19:01:09,946 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:09,947 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:09,947 - INFO - The number of alive sheep: 10
+2024-12-01 19:01:09,947 - INFO - A 22 round was started 
+2024-12-01 19:01:09,947 - DEBUG - Sheep 2 randomly chose a direction of movement: North
+2024-12-01 19:01:09,947 - DEBUG - Sheep 2 moved, new position: (10.115996002859973, -13.750904475292275)
+2024-12-01 19:01:09,947 - DEBUG - Sheep 3 randomly chose a direction of movement: East
+2024-12-01 19:01:09,947 - DEBUG - Sheep 3 moved, new position: (-4.1063464550929965, -18.11146964947871)
+2024-12-01 19:01:09,947 - DEBUG - Sheep 4 randomly chose a direction of movement: North
+2024-12-01 19:01:09,947 - DEBUG - Sheep 4 moved, new position: (13.908920573089041, 6.948483504526191)
+2024-12-01 19:01:09,947 - DEBUG - Sheep 6 randomly chose a direction of movement: South
+2024-12-01 19:01:09,947 - DEBUG - Sheep 6 moved, new position: (5.712352908974612, -5.711708586736105)
+2024-12-01 19:01:09,947 - DEBUG - Sheep 7 randomly chose a direction of movement: West
+2024-12-01 19:01:09,947 - DEBUG - Sheep 7 moved, new position: (-3.6570121454110023, 20.318042822843033)
+2024-12-01 19:01:09,947 - DEBUG - Sheep 8 randomly chose a direction of movement: East
+2024-12-01 19:01:09,947 - DEBUG - Sheep 8 moved, new position: (21.41243815170705, -16.828285694971193)
+2024-12-01 19:01:09,947 - DEBUG - Sheep 9 randomly chose a direction of movement: West
+2024-12-01 19:01:09,947 - DEBUG - Sheep 9 moved, new position: (-20.77202907416151, -3.965635021608115)
+2024-12-01 19:01:09,947 - DEBUG - Sheep 13 randomly chose a direction of movement: South
+2024-12-01 19:01:09,947 - DEBUG - Sheep 13 moved, new position: (9.529492192644344, -0.9194098043872252)
+2024-12-01 19:01:09,947 - DEBUG - Sheep 14 randomly chose a direction of movement: North
+2024-12-01 19:01:09,947 - DEBUG - Sheep 14 moved, new position: (-0.015182769901695536, 19.97230354908025)
+2024-12-01 19:01:09,947 - DEBUG - Sheep 15 randomly chose a direction of movement: South
+2024-12-01 19:01:09,948 - DEBUG - Sheep 15 moved, new position: (11.224532797262114, 4.84832554715085)
+2024-12-01 19:01:09,948 - INFO - All alive sheep moved
+2024-12-01 19:01:09,948 - DEBUG - The closest sheep 7 is in distance of 4.874275055230759
+2024-12-01 19:01:09,948 - INFO - The wolf is chasing sheep 7
+2024-12-01 19:01:09,948 - DEBUG - The wolf moved to position: (-3.9272097218569835, 16.453201238344903)
+2024-12-01 19:01:09,948 - INFO - The wolf moved
+2024-12-01 19:01:09,961 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:09,961 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:09,961 - INFO - The number of alive sheep: 10
+2024-12-01 19:01:09,961 - INFO - A 23 round was started 
+2024-12-01 19:01:09,961 - DEBUG - Sheep 2 randomly chose a direction of movement: South
+2024-12-01 19:01:09,961 - DEBUG - Sheep 2 moved, new position: (10.115996002859973, -14.250904475292275)
+2024-12-01 19:01:09,961 - DEBUG - Sheep 3 randomly chose a direction of movement: West
+2024-12-01 19:01:09,961 - DEBUG - Sheep 3 moved, new position: (-4.6063464550929965, -18.11146964947871)
+2024-12-01 19:01:09,962 - DEBUG - Sheep 4 randomly chose a direction of movement: West
+2024-12-01 19:01:09,962 - DEBUG - Sheep 4 moved, new position: (13.408920573089041, 6.948483504526191)
+2024-12-01 19:01:09,962 - DEBUG - Sheep 6 randomly chose a direction of movement: North
+2024-12-01 19:01:09,962 - DEBUG - Sheep 6 moved, new position: (5.712352908974612, -5.211708586736105)
+2024-12-01 19:01:09,962 - DEBUG - Sheep 7 randomly chose a direction of movement: East
+2024-12-01 19:01:09,962 - DEBUG - Sheep 7 moved, new position: (-3.1570121454110023, 20.318042822843033)
+2024-12-01 19:01:09,962 - DEBUG - Sheep 8 randomly chose a direction of movement: East
+2024-12-01 19:01:09,962 - DEBUG - Sheep 8 moved, new position: (21.91243815170705, -16.828285694971193)
+2024-12-01 19:01:09,962 - DEBUG - Sheep 9 randomly chose a direction of movement: North
+2024-12-01 19:01:09,962 - DEBUG - Sheep 9 moved, new position: (-20.77202907416151, -3.465635021608115)
+2024-12-01 19:01:09,962 - DEBUG - Sheep 13 randomly chose a direction of movement: South
+2024-12-01 19:01:09,962 - DEBUG - Sheep 13 moved, new position: (9.529492192644344, -1.4194098043872252)
+2024-12-01 19:01:09,962 - DEBUG - Sheep 14 randomly chose a direction of movement: South
+2024-12-01 19:01:09,962 - DEBUG - Sheep 14 moved, new position: (-0.015182769901695536, 19.47230354908025)
+2024-12-01 19:01:09,962 - DEBUG - Sheep 15 randomly chose a direction of movement: East
+2024-12-01 19:01:09,962 - DEBUG - Sheep 15 moved, new position: (11.724532797262114, 4.84832554715085)
+2024-12-01 19:01:09,962 - INFO - All alive sheep moved
+2024-12-01 19:01:09,962 - DEBUG - The closest sheep 7 is in distance of 3.9408380809200065
+2024-12-01 19:01:09,962 - INFO - The wolf is chasing sheep 7
+2024-12-01 19:01:09,962 - DEBUG - The wolf moved to position: (-3.731769675696504, 17.433916889467486)
+2024-12-01 19:01:09,962 - INFO - The wolf moved
+2024-12-01 19:01:09,975 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:09,976 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:09,976 - INFO - The number of alive sheep: 10
+2024-12-01 19:01:09,976 - INFO - A 24 round was started 
+2024-12-01 19:01:09,976 - DEBUG - Sheep 2 randomly chose a direction of movement: East
+2024-12-01 19:01:09,976 - DEBUG - Sheep 2 moved, new position: (10.615996002859973, -14.250904475292275)
+2024-12-01 19:01:09,976 - DEBUG - Sheep 3 randomly chose a direction of movement: South
+2024-12-01 19:01:09,976 - DEBUG - Sheep 3 moved, new position: (-4.6063464550929965, -18.61146964947871)
+2024-12-01 19:01:09,976 - DEBUG - Sheep 4 randomly chose a direction of movement: East
+2024-12-01 19:01:09,976 - DEBUG - Sheep 4 moved, new position: (13.908920573089041, 6.948483504526191)
+2024-12-01 19:01:09,976 - DEBUG - Sheep 6 randomly chose a direction of movement: North
+2024-12-01 19:01:09,976 - DEBUG - Sheep 6 moved, new position: (5.712352908974612, -4.711708586736105)
+2024-12-01 19:01:09,976 - DEBUG - Sheep 7 randomly chose a direction of movement: East
+2024-12-01 19:01:09,976 - DEBUG - Sheep 7 moved, new position: (-2.6570121454110023, 20.318042822843033)
+2024-12-01 19:01:09,976 - DEBUG - Sheep 8 randomly chose a direction of movement: East
+2024-12-01 19:01:09,976 - DEBUG - Sheep 8 moved, new position: (22.41243815170705, -16.828285694971193)
+2024-12-01 19:01:09,977 - DEBUG - Sheep 9 randomly chose a direction of movement: North
+2024-12-01 19:01:09,977 - DEBUG - Sheep 9 moved, new position: (-20.77202907416151, -2.965635021608115)
+2024-12-01 19:01:09,977 - DEBUG - Sheep 13 randomly chose a direction of movement: West
+2024-12-01 19:01:09,977 - DEBUG - Sheep 13 moved, new position: (9.029492192644344, -1.4194098043872252)
+2024-12-01 19:01:09,977 - DEBUG - Sheep 14 randomly chose a direction of movement: East
+2024-12-01 19:01:09,977 - DEBUG - Sheep 14 moved, new position: (0.48481723009830446, 19.47230354908025)
+2024-12-01 19:01:09,977 - DEBUG - Sheep 15 randomly chose a direction of movement: South
+2024-12-01 19:01:09,977 - DEBUG - Sheep 15 moved, new position: (11.724532797262114, 4.34832554715085)
+2024-12-01 19:01:09,977 - INFO - All alive sheep moved
+2024-12-01 19:01:09,977 - DEBUG - The closest sheep 7 is in distance of 3.0778703917603094
+2024-12-01 19:01:09,977 - INFO - The wolf is chasing sheep 7
+2024-12-01 19:01:09,977 - DEBUG - The wolf moved to position: (-3.3825809856325204, 18.370969320621366)
+2024-12-01 19:01:09,977 - INFO - The wolf moved
+2024-12-01 19:01:09,989 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:09,990 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:09,990 - INFO - The number of alive sheep: 10
+2024-12-01 19:01:09,990 - INFO - A 25 round was started 
+2024-12-01 19:01:09,990 - DEBUG - Sheep 2 randomly chose a direction of movement: South
+2024-12-01 19:01:09,990 - DEBUG - Sheep 2 moved, new position: (10.615996002859973, -14.750904475292275)
+2024-12-01 19:01:09,990 - DEBUG - Sheep 3 randomly chose a direction of movement: West
+2024-12-01 19:01:09,990 - DEBUG - Sheep 3 moved, new position: (-5.1063464550929965, -18.61146964947871)
+2024-12-01 19:01:09,990 - DEBUG - Sheep 4 randomly chose a direction of movement: West
+2024-12-01 19:01:09,990 - DEBUG - Sheep 4 moved, new position: (13.408920573089041, 6.948483504526191)
+2024-12-01 19:01:09,990 - DEBUG - Sheep 6 randomly chose a direction of movement: East
+2024-12-01 19:01:09,990 - DEBUG - Sheep 6 moved, new position: (6.212352908974612, -4.711708586736105)
+2024-12-01 19:01:09,990 - DEBUG - Sheep 7 randomly chose a direction of movement: West
+2024-12-01 19:01:09,990 - DEBUG - Sheep 7 moved, new position: (-3.1570121454110023, 20.318042822843033)
+2024-12-01 19:01:09,990 - DEBUG - Sheep 8 randomly chose a direction of movement: West
+2024-12-01 19:01:09,990 - DEBUG - Sheep 8 moved, new position: (21.91243815170705, -16.828285694971193)
+2024-12-01 19:01:09,990 - DEBUG - Sheep 9 randomly chose a direction of movement: West
+2024-12-01 19:01:09,990 - DEBUG - Sheep 9 moved, new position: (-21.27202907416151, -2.965635021608115)
+2024-12-01 19:01:09,991 - DEBUG - Sheep 13 randomly chose a direction of movement: East
+2024-12-01 19:01:09,991 - DEBUG - Sheep 13 moved, new position: (9.529492192644344, -1.4194098043872252)
+2024-12-01 19:01:09,991 - DEBUG - Sheep 14 randomly chose a direction of movement: West
+2024-12-01 19:01:09,991 - DEBUG - Sheep 14 moved, new position: (-0.015182769901695536, 19.47230354908025)
+2024-12-01 19:01:09,991 - DEBUG - Sheep 15 randomly chose a direction of movement: East
+2024-12-01 19:01:09,991 - DEBUG - Sheep 15 moved, new position: (12.224532797262114, 4.34832554715085)
+2024-12-01 19:01:09,991 - INFO - All alive sheep moved
+2024-12-01 19:01:09,991 - DEBUG - The closest sheep 7 is in distance of 1.960096049874247
+2024-12-01 19:01:09,991 - INFO - The wolf is chasing sheep 7
+2024-12-01 19:01:09,991 - DEBUG - The wolf moved to position: (-3.267500482186789, 19.364325489236972)
+2024-12-01 19:01:09,991 - INFO - The wolf moved
+2024-12-01 19:01:10,004 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,004 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,004 - INFO - The number of alive sheep: 10
+2024-12-01 19:01:10,004 - INFO - A 26 round was started 
+2024-12-01 19:01:10,004 - DEBUG - Sheep 2 randomly chose a direction of movement: West
+2024-12-01 19:01:10,004 - DEBUG - Sheep 2 moved, new position: (10.115996002859973, -14.750904475292275)
+2024-12-01 19:01:10,004 - DEBUG - Sheep 3 randomly chose a direction of movement: South
+2024-12-01 19:01:10,004 - DEBUG - Sheep 3 moved, new position: (-5.1063464550929965, -19.11146964947871)
+2024-12-01 19:01:10,004 - DEBUG - Sheep 4 randomly chose a direction of movement: West
+2024-12-01 19:01:10,004 - DEBUG - Sheep 4 moved, new position: (12.908920573089041, 6.948483504526191)
+2024-12-01 19:01:10,004 - DEBUG - Sheep 6 randomly chose a direction of movement: East
+2024-12-01 19:01:10,004 - DEBUG - Sheep 6 moved, new position: (6.712352908974612, -4.711708586736105)
+2024-12-01 19:01:10,004 - DEBUG - Sheep 7 randomly chose a direction of movement: West
+2024-12-01 19:01:10,005 - DEBUG - Sheep 7 moved, new position: (-3.6570121454110023, 20.318042822843033)
+2024-12-01 19:01:10,005 - DEBUG - Sheep 8 randomly chose a direction of movement: South
+2024-12-01 19:01:10,005 - DEBUG - Sheep 8 moved, new position: (21.91243815170705, -17.328285694971193)
+2024-12-01 19:01:10,005 - DEBUG - Sheep 9 randomly chose a direction of movement: West
+2024-12-01 19:01:10,005 - DEBUG - Sheep 9 moved, new position: (-21.77202907416151, -2.965635021608115)
+2024-12-01 19:01:10,005 - DEBUG - Sheep 13 randomly chose a direction of movement: West
+2024-12-01 19:01:10,005 - DEBUG - Sheep 13 moved, new position: (9.029492192644344, -1.4194098043872252)
+2024-12-01 19:01:10,005 - DEBUG - Sheep 14 randomly chose a direction of movement: South
+2024-12-01 19:01:10,005 - DEBUG - Sheep 14 moved, new position: (-0.015182769901695536, 18.97230354908025)
+2024-12-01 19:01:10,005 - DEBUG - Sheep 15 randomly chose a direction of movement: North
+2024-12-01 19:01:10,005 - DEBUG - Sheep 15 moved, new position: (12.224532797262114, 4.84832554715085)
+2024-12-01 19:01:10,005 - INFO - All alive sheep moved
+2024-12-01 19:01:10,005 - DEBUG - The closest sheep 7 is in distance of 1.0301922578860452
+2024-12-01 19:01:10,005 - INFO - The wolf is chasing sheep 7
+2024-12-01 19:01:10,005 - DEBUG - The wolf moved to position: (-3.645596570797949, 20.290091846249876)
+2024-12-01 19:01:10,005 - INFO - The wolf moved
+2024-12-01 19:01:10,018 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,019 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,019 - INFO - The number of alive sheep: 10
+2024-12-01 19:01:10,019 - INFO - A 27 round was started 
+2024-12-01 19:01:10,019 - DEBUG - Sheep 2 randomly chose a direction of movement: East
+2024-12-01 19:01:10,019 - DEBUG - Sheep 2 moved, new position: (10.615996002859973, -14.750904475292275)
+2024-12-01 19:01:10,019 - DEBUG - Sheep 3 randomly chose a direction of movement: West
+2024-12-01 19:01:10,019 - DEBUG - Sheep 3 moved, new position: (-5.6063464550929965, -19.11146964947871)
+2024-12-01 19:01:10,019 - DEBUG - Sheep 4 randomly chose a direction of movement: North
+2024-12-01 19:01:10,019 - DEBUG - Sheep 4 moved, new position: (12.908920573089041, 7.448483504526191)
+2024-12-01 19:01:10,019 - DEBUG - Sheep 6 randomly chose a direction of movement: West
+2024-12-01 19:01:10,019 - DEBUG - Sheep 6 moved, new position: (6.212352908974612, -4.711708586736105)
+2024-12-01 19:01:10,019 - DEBUG - Sheep 7 randomly chose a direction of movement: East
+2024-12-01 19:01:10,019 - DEBUG - Sheep 7 moved, new position: (-3.1570121454110023, 20.318042822843033)
+2024-12-01 19:01:10,019 - DEBUG - Sheep 8 randomly chose a direction of movement: North
+2024-12-01 19:01:10,019 - DEBUG - Sheep 8 moved, new position: (21.91243815170705, -16.828285694971193)
+2024-12-01 19:01:10,019 - DEBUG - Sheep 9 randomly chose a direction of movement: North
+2024-12-01 19:01:10,019 - DEBUG - Sheep 9 moved, new position: (-21.77202907416151, -2.465635021608115)
+2024-12-01 19:01:10,019 - DEBUG - Sheep 13 randomly chose a direction of movement: North
+2024-12-01 19:01:10,019 - DEBUG - Sheep 13 moved, new position: (9.029492192644344, -0.9194098043872252)
+2024-12-01 19:01:10,019 - DEBUG - Sheep 14 randomly chose a direction of movement: South
+2024-12-01 19:01:10,019 - DEBUG - Sheep 14 moved, new position: (-0.015182769901695536, 18.47230354908025)
+2024-12-01 19:01:10,019 - DEBUG - Sheep 15 randomly chose a direction of movement: North
+2024-12-01 19:01:10,019 - DEBUG - Sheep 15 moved, new position: (12.224532797262114, 5.34832554715085)
+2024-12-01 19:01:10,019 - INFO - All alive sheep moved
+2024-12-01 19:01:10,020 - DEBUG - The closest sheep 7 is in distance of 0.489383283146456
+2024-12-01 19:01:10,020 - INFO - A 7 sheep was eaten
+2024-12-01 19:01:10,020 - DEBUG - The wolf moved to position: (-3.1570121454110023, 20.318042822843033)
+2024-12-01 19:01:10,020 - INFO - The wolf moved
+2024-12-01 19:01:10,033 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,033 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,033 - INFO - The number of alive sheep: 9
+2024-12-01 19:01:10,033 - INFO - A 28 round was started 
+2024-12-01 19:01:10,033 - DEBUG - Sheep 2 randomly chose a direction of movement: East
+2024-12-01 19:01:10,033 - DEBUG - Sheep 2 moved, new position: (11.115996002859973, -14.750904475292275)
+2024-12-01 19:01:10,033 - DEBUG - Sheep 3 randomly chose a direction of movement: West
+2024-12-01 19:01:10,033 - DEBUG - Sheep 3 moved, new position: (-6.1063464550929965, -19.11146964947871)
+2024-12-01 19:01:10,033 - DEBUG - Sheep 4 randomly chose a direction of movement: West
+2024-12-01 19:01:10,033 - DEBUG - Sheep 4 moved, new position: (12.408920573089041, 7.448483504526191)
+2024-12-01 19:01:10,033 - DEBUG - Sheep 6 randomly chose a direction of movement: East
+2024-12-01 19:01:10,033 - DEBUG - Sheep 6 moved, new position: (6.712352908974612, -4.711708586736105)
+2024-12-01 19:01:10,033 - DEBUG - Sheep 8 randomly chose a direction of movement: East
+2024-12-01 19:01:10,033 - DEBUG - Sheep 8 moved, new position: (22.41243815170705, -16.828285694971193)
+2024-12-01 19:01:10,033 - DEBUG - Sheep 9 randomly chose a direction of movement: West
+2024-12-01 19:01:10,033 - DEBUG - Sheep 9 moved, new position: (-22.27202907416151, -2.465635021608115)
+2024-12-01 19:01:10,033 - DEBUG - Sheep 13 randomly chose a direction of movement: North
+2024-12-01 19:01:10,033 - DEBUG - Sheep 13 moved, new position: (9.029492192644344, -0.4194098043872252)
+2024-12-01 19:01:10,033 - DEBUG - Sheep 14 randomly chose a direction of movement: North
+2024-12-01 19:01:10,033 - DEBUG - Sheep 14 moved, new position: (-0.015182769901695536, 18.97230354908025)
+2024-12-01 19:01:10,033 - DEBUG - Sheep 15 randomly chose a direction of movement: North
+2024-12-01 19:01:10,033 - DEBUG - Sheep 15 moved, new position: (12.224532797262114, 5.84832554715085)
+2024-12-01 19:01:10,035 - INFO - All alive sheep moved
+2024-12-01 19:01:10,035 - DEBUG - The closest sheep 14 is in distance of 3.417909597657723
+2024-12-01 19:01:10,035 - INFO - The wolf is chasing sheep 14
+2024-12-01 19:01:10,035 - DEBUG - The wolf moved to position: (-2.237786728313257, 19.92431114700087)
+2024-12-01 19:01:10,035 - INFO - The wolf moved
+2024-12-01 19:01:10,048 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,048 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,049 - INFO - The number of alive sheep: 9
+2024-12-01 19:01:10,049 - INFO - A 29 round was started 
+2024-12-01 19:01:10,049 - DEBUG - Sheep 2 randomly chose a direction of movement: West
+2024-12-01 19:01:10,049 - DEBUG - Sheep 2 moved, new position: (10.615996002859973, -14.750904475292275)
+2024-12-01 19:01:10,049 - DEBUG - Sheep 3 randomly chose a direction of movement: North
+2024-12-01 19:01:10,049 - DEBUG - Sheep 3 moved, new position: (-6.1063464550929965, -18.61146964947871)
+2024-12-01 19:01:10,049 - DEBUG - Sheep 4 randomly chose a direction of movement: East
+2024-12-01 19:01:10,049 - DEBUG - Sheep 4 moved, new position: (12.908920573089041, 7.448483504526191)
+2024-12-01 19:01:10,049 - DEBUG - Sheep 6 randomly chose a direction of movement: East
+2024-12-01 19:01:10,049 - DEBUG - Sheep 6 moved, new position: (7.212352908974612, -4.711708586736105)
+2024-12-01 19:01:10,049 - DEBUG - Sheep 8 randomly chose a direction of movement: East
+2024-12-01 19:01:10,049 - DEBUG - Sheep 8 moved, new position: (22.91243815170705, -16.828285694971193)
+2024-12-01 19:01:10,049 - DEBUG - Sheep 9 randomly chose a direction of movement: East
+2024-12-01 19:01:10,049 - DEBUG - Sheep 9 moved, new position: (-21.77202907416151, -2.465635021608115)
+2024-12-01 19:01:10,049 - DEBUG - Sheep 13 randomly chose a direction of movement: South
+2024-12-01 19:01:10,049 - DEBUG - Sheep 13 moved, new position: (9.029492192644344, -0.9194098043872252)
+2024-12-01 19:01:10,049 - DEBUG - Sheep 14 randomly chose a direction of movement: South
+2024-12-01 19:01:10,049 - DEBUG - Sheep 14 moved, new position: (-0.015182769901695536, 18.47230354908025)
+2024-12-01 19:01:10,049 - DEBUG - Sheep 15 randomly chose a direction of movement: North
+2024-12-01 19:01:10,049 - DEBUG - Sheep 15 moved, new position: (12.224532797262114, 6.34832554715085)
+2024-12-01 19:01:10,049 - INFO - All alive sheep moved
+2024-12-01 19:01:10,049 - DEBUG - The closest sheep 14 is in distance of 2.6548624108164156
+2024-12-01 19:01:10,049 - INFO - The wolf is chasing sheep 14
+2024-12-01 19:01:10,049 - DEBUG - The wolf moved to position: (-1.4006043759034865, 19.377387286839657)
+2024-12-01 19:01:10,050 - INFO - The wolf moved
+2024-12-01 19:01:10,063 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,063 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,063 - INFO - The number of alive sheep: 9
+2024-12-01 19:01:10,063 - INFO - A 30 round was started 
+2024-12-01 19:01:10,063 - DEBUG - Sheep 2 randomly chose a direction of movement: West
+2024-12-01 19:01:10,063 - DEBUG - Sheep 2 moved, new position: (10.115996002859973, -14.750904475292275)
+2024-12-01 19:01:10,063 - DEBUG - Sheep 3 randomly chose a direction of movement: East
+2024-12-01 19:01:10,063 - DEBUG - Sheep 3 moved, new position: (-5.6063464550929965, -18.61146964947871)
+2024-12-01 19:01:10,063 - DEBUG - Sheep 4 randomly chose a direction of movement: West
+2024-12-01 19:01:10,063 - DEBUG - Sheep 4 moved, new position: (12.408920573089041, 7.448483504526191)
+2024-12-01 19:01:10,063 - DEBUG - Sheep 6 randomly chose a direction of movement: West
+2024-12-01 19:01:10,063 - DEBUG - Sheep 6 moved, new position: (6.712352908974612, -4.711708586736105)
+2024-12-01 19:01:10,065 - DEBUG - Sheep 8 randomly chose a direction of movement: West
+2024-12-01 19:01:10,065 - DEBUG - Sheep 8 moved, new position: (22.41243815170705, -16.828285694971193)
+2024-12-01 19:01:10,065 - DEBUG - Sheep 9 randomly chose a direction of movement: North
+2024-12-01 19:01:10,065 - DEBUG - Sheep 9 moved, new position: (-21.77202907416151, -1.965635021608115)
+2024-12-01 19:01:10,065 - DEBUG - Sheep 13 randomly chose a direction of movement: East
+2024-12-01 19:01:10,065 - DEBUG - Sheep 13 moved, new position: (9.529492192644344, -0.9194098043872252)
+2024-12-01 19:01:10,065 - DEBUG - Sheep 14 randomly chose a direction of movement: West
+2024-12-01 19:01:10,065 - DEBUG - Sheep 14 moved, new position: (-0.5151827699016955, 18.47230354908025)
+2024-12-01 19:01:10,065 - DEBUG - Sheep 15 randomly chose a direction of movement: East
+2024-12-01 19:01:10,065 - DEBUG - Sheep 15 moved, new position: (12.724532797262114, 6.34832554715085)
+2024-12-01 19:01:10,065 - INFO - All alive sheep moved
+2024-12-01 19:01:10,065 - DEBUG - The closest sheep 14 is in distance of 1.266154805989902
+2024-12-01 19:01:10,065 - INFO - The wolf is chasing sheep 14
+2024-12-01 19:01:10,065 - DEBUG - The wolf moved to position: (-0.7013047311735887, 18.66255863123005)
+2024-12-01 19:01:10,065 - INFO - The wolf moved
+2024-12-01 19:01:10,079 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,079 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,080 - INFO - The number of alive sheep: 9
+2024-12-01 19:01:10,080 - INFO - A 31 round was started 
+2024-12-01 19:01:10,080 - DEBUG - Sheep 2 randomly chose a direction of movement: South
+2024-12-01 19:01:10,080 - DEBUG - Sheep 2 moved, new position: (10.115996002859973, -15.250904475292275)
+2024-12-01 19:01:10,080 - DEBUG - Sheep 3 randomly chose a direction of movement: North
+2024-12-01 19:01:10,080 - DEBUG - Sheep 3 moved, new position: (-5.6063464550929965, -18.11146964947871)
+2024-12-01 19:01:10,080 - DEBUG - Sheep 4 randomly chose a direction of movement: West
+2024-12-01 19:01:10,080 - DEBUG - Sheep 4 moved, new position: (11.908920573089041, 7.448483504526191)
+2024-12-01 19:01:10,080 - DEBUG - Sheep 6 randomly chose a direction of movement: East
+2024-12-01 19:01:10,080 - DEBUG - Sheep 6 moved, new position: (7.212352908974612, -4.711708586736105)
+2024-12-01 19:01:10,080 - DEBUG - Sheep 8 randomly chose a direction of movement: East
+2024-12-01 19:01:10,080 - DEBUG - Sheep 8 moved, new position: (22.91243815170705, -16.828285694971193)
+2024-12-01 19:01:10,080 - DEBUG - Sheep 9 randomly chose a direction of movement: East
+2024-12-01 19:01:10,080 - DEBUG - Sheep 9 moved, new position: (-21.27202907416151, -1.965635021608115)
+2024-12-01 19:01:10,080 - DEBUG - Sheep 13 randomly chose a direction of movement: West
+2024-12-01 19:01:10,080 - DEBUG - Sheep 13 moved, new position: (9.029492192644344, -0.9194098043872252)
+2024-12-01 19:01:10,080 - DEBUG - Sheep 14 randomly chose a direction of movement: West
+2024-12-01 19:01:10,080 - DEBUG - Sheep 14 moved, new position: (-1.0151827699016955, 18.47230354908025)
+2024-12-01 19:01:10,080 - DEBUG - Sheep 15 randomly chose a direction of movement: North
+2024-12-01 19:01:10,080 - DEBUG - Sheep 15 moved, new position: (12.724532797262114, 6.84832554715085)
+2024-12-01 19:01:10,080 - INFO - All alive sheep moved
+2024-12-01 19:01:10,080 - DEBUG - The closest sheep 14 is in distance of 0.36703735433825924
+2024-12-01 19:01:10,080 - INFO - A 14 sheep was eaten
+2024-12-01 19:01:10,080 - DEBUG - The wolf moved to position: (-1.0151827699016955, 18.47230354908025)
+2024-12-01 19:01:10,080 - INFO - The wolf moved
+2024-12-01 19:01:10,094 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,095 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,095 - INFO - The number of alive sheep: 8
+2024-12-01 19:01:10,095 - INFO - A 32 round was started 
+2024-12-01 19:01:10,095 - DEBUG - Sheep 2 randomly chose a direction of movement: North
+2024-12-01 19:01:10,095 - DEBUG - Sheep 2 moved, new position: (10.115996002859973, -14.750904475292275)
+2024-12-01 19:01:10,095 - DEBUG - Sheep 3 randomly chose a direction of movement: West
+2024-12-01 19:01:10,095 - DEBUG - Sheep 3 moved, new position: (-6.1063464550929965, -18.11146964947871)
+2024-12-01 19:01:10,095 - DEBUG - Sheep 4 randomly chose a direction of movement: East
+2024-12-01 19:01:10,095 - DEBUG - Sheep 4 moved, new position: (12.408920573089041, 7.448483504526191)
+2024-12-01 19:01:10,095 - DEBUG - Sheep 6 randomly chose a direction of movement: West
+2024-12-01 19:01:10,095 - DEBUG - Sheep 6 moved, new position: (6.712352908974612, -4.711708586736105)
+2024-12-01 19:01:10,095 - DEBUG - Sheep 8 randomly chose a direction of movement: North
+2024-12-01 19:01:10,095 - DEBUG - Sheep 8 moved, new position: (22.91243815170705, -16.328285694971193)
+2024-12-01 19:01:10,095 - DEBUG - Sheep 9 randomly chose a direction of movement: South
+2024-12-01 19:01:10,096 - DEBUG - Sheep 9 moved, new position: (-21.27202907416151, -2.465635021608115)
+2024-12-01 19:01:10,096 - DEBUG - Sheep 13 randomly chose a direction of movement: West
+2024-12-01 19:01:10,096 - DEBUG - Sheep 13 moved, new position: (8.529492192644344, -0.9194098043872252)
+2024-12-01 19:01:10,096 - DEBUG - Sheep 15 randomly chose a direction of movement: South
+2024-12-01 19:01:10,096 - DEBUG - Sheep 15 moved, new position: (12.724532797262114, 6.34832554715085)
+2024-12-01 19:01:10,096 - INFO - All alive sheep moved
+2024-12-01 19:01:10,096 - DEBUG - The closest sheep 4 is in distance of 17.37041044241635
+2024-12-01 19:01:10,096 - INFO - The wolf is chasing sheep 4
+2024-12-01 19:01:10,096 - DEBUG - The wolf moved to position: (-0.24236836879746093, 17.837671449792875)
+2024-12-01 19:01:10,096 - INFO - The wolf moved
+2024-12-01 19:01:10,110 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,111 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,111 - INFO - The number of alive sheep: 8
+2024-12-01 19:01:10,111 - INFO - A 33 round was started 
+2024-12-01 19:01:10,111 - DEBUG - Sheep 2 randomly chose a direction of movement: West
+2024-12-01 19:01:10,111 - DEBUG - Sheep 2 moved, new position: (9.615996002859973, -14.750904475292275)
+2024-12-01 19:01:10,111 - DEBUG - Sheep 3 randomly chose a direction of movement: West
+2024-12-01 19:01:10,111 - DEBUG - Sheep 3 moved, new position: (-6.6063464550929965, -18.11146964947871)
+2024-12-01 19:01:10,111 - DEBUG - Sheep 4 randomly chose a direction of movement: West
+2024-12-01 19:01:10,111 - DEBUG - Sheep 4 moved, new position: (11.908920573089041, 7.448483504526191)
+2024-12-01 19:01:10,111 - DEBUG - Sheep 6 randomly chose a direction of movement: South
+2024-12-01 19:01:10,111 - DEBUG - Sheep 6 moved, new position: (6.712352908974612, -5.211708586736105)
+2024-12-01 19:01:10,111 - DEBUG - Sheep 8 randomly chose a direction of movement: South
+2024-12-01 19:01:10,111 - DEBUG - Sheep 8 moved, new position: (22.91243815170705, -16.828285694971193)
+2024-12-01 19:01:10,111 - DEBUG - Sheep 9 randomly chose a direction of movement: West
+2024-12-01 19:01:10,111 - DEBUG - Sheep 9 moved, new position: (-21.77202907416151, -2.465635021608115)
+2024-12-01 19:01:10,111 - DEBUG - Sheep 13 randomly chose a direction of movement: West
+2024-12-01 19:01:10,111 - DEBUG - Sheep 13 moved, new position: (8.029492192644344, -0.9194098043872252)
+2024-12-01 19:01:10,111 - DEBUG - Sheep 15 randomly chose a direction of movement: West
+2024-12-01 19:01:10,111 - DEBUG - Sheep 15 moved, new position: (12.224532797262114, 6.34832554715085)
+2024-12-01 19:01:10,111 - INFO - All alive sheep moved
+2024-12-01 19:01:10,111 - DEBUG - The closest sheep 4 is in distance of 15.987152626759018
+2024-12-01 19:01:10,112 - INFO - The wolf is chasing sheep 4
+2024-12-01 19:01:10,112 - DEBUG - The wolf moved to position: (0.5176974931839833, 17.18782540229362)
+2024-12-01 19:01:10,112 - INFO - The wolf moved
+2024-12-01 19:01:10,125 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,126 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,126 - INFO - The number of alive sheep: 8
+2024-12-01 19:01:10,126 - INFO - A 34 round was started 
+2024-12-01 19:01:10,126 - DEBUG - Sheep 2 randomly chose a direction of movement: East
+2024-12-01 19:01:10,126 - DEBUG - Sheep 2 moved, new position: (10.115996002859973, -14.750904475292275)
+2024-12-01 19:01:10,126 - DEBUG - Sheep 3 randomly chose a direction of movement: West
+2024-12-01 19:01:10,126 - DEBUG - Sheep 3 moved, new position: (-7.1063464550929965, -18.11146964947871)
+2024-12-01 19:01:10,126 - DEBUG - Sheep 4 randomly chose a direction of movement: North
+2024-12-01 19:01:10,126 - DEBUG - Sheep 4 moved, new position: (11.908920573089041, 7.948483504526191)
+2024-12-01 19:01:10,126 - DEBUG - Sheep 6 randomly chose a direction of movement: East
+2024-12-01 19:01:10,126 - DEBUG - Sheep 6 moved, new position: (7.212352908974612, -5.211708586736105)
+2024-12-01 19:01:10,127 - DEBUG - Sheep 8 randomly chose a direction of movement: West
+2024-12-01 19:01:10,127 - DEBUG - Sheep 8 moved, new position: (22.41243815170705, -16.828285694971193)
+2024-12-01 19:01:10,127 - DEBUG - Sheep 9 randomly chose a direction of movement: South
+2024-12-01 19:01:10,127 - DEBUG - Sheep 9 moved, new position: (-21.77202907416151, -2.965635021608115)
+2024-12-01 19:01:10,127 - DEBUG - Sheep 13 randomly chose a direction of movement: East
+2024-12-01 19:01:10,127 - DEBUG - Sheep 13 moved, new position: (8.529492192644344, -0.9194098043872252)
+2024-12-01 19:01:10,127 - DEBUG - Sheep 15 randomly chose a direction of movement: West
+2024-12-01 19:01:10,127 - DEBUG - Sheep 15 moved, new position: (11.724532797262114, 6.34832554715085)
+2024-12-01 19:01:10,127 - INFO - All alive sheep moved
+2024-12-01 19:01:10,127 - DEBUG - The closest sheep 4 is in distance of 14.667153846605766
+2024-12-01 19:01:10,127 - INFO - The wolf is chasing sheep 4
+2024-12-01 19:01:10,127 - DEBUG - The wolf moved to position: (1.2943459962977069, 16.557891197307722)
+2024-12-01 19:01:10,127 - INFO - The wolf moved
+2024-12-01 19:01:10,140 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,141 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,141 - INFO - The number of alive sheep: 8
+2024-12-01 19:01:10,141 - INFO - A 35 round was started 
+2024-12-01 19:01:10,141 - DEBUG - Sheep 2 randomly chose a direction of movement: South
+2024-12-01 19:01:10,141 - DEBUG - Sheep 2 moved, new position: (10.115996002859973, -15.250904475292275)
+2024-12-01 19:01:10,142 - DEBUG - Sheep 3 randomly chose a direction of movement: North
+2024-12-01 19:01:10,142 - DEBUG - Sheep 3 moved, new position: (-7.1063464550929965, -17.61146964947871)
+2024-12-01 19:01:10,142 - DEBUG - Sheep 4 randomly chose a direction of movement: West
+2024-12-01 19:01:10,142 - DEBUG - Sheep 4 moved, new position: (11.408920573089041, 7.948483504526191)
+2024-12-01 19:01:10,142 - DEBUG - Sheep 6 randomly chose a direction of movement: North
+2024-12-01 19:01:10,142 - DEBUG - Sheep 6 moved, new position: (7.212352908974612, -4.711708586736105)
+2024-12-01 19:01:10,142 - DEBUG - Sheep 8 randomly chose a direction of movement: South
+2024-12-01 19:01:10,142 - DEBUG - Sheep 8 moved, new position: (22.41243815170705, -17.328285694971193)
+2024-12-01 19:01:10,142 - DEBUG - Sheep 9 randomly chose a direction of movement: West
+2024-12-01 19:01:10,142 - DEBUG - Sheep 9 moved, new position: (-22.27202907416151, -2.965635021608115)
+2024-12-01 19:01:10,142 - DEBUG - Sheep 13 randomly chose a direction of movement: West
+2024-12-01 19:01:10,142 - DEBUG - Sheep 13 moved, new position: (8.029492192644344, -0.9194098043872252)
+2024-12-01 19:01:10,142 - DEBUG - Sheep 15 randomly chose a direction of movement: East
+2024-12-01 19:01:10,142 - DEBUG - Sheep 15 moved, new position: (12.224532797262114, 6.34832554715085)
+2024-12-01 19:01:10,142 - INFO - All alive sheep moved
+2024-12-01 19:01:10,142 - DEBUG - The closest sheep 4 is in distance of 13.282564499749263
+2024-12-01 19:01:10,142 - INFO - The wolf is chasing sheep 4
+2024-12-01 19:01:10,142 - DEBUG - The wolf moved to position: (2.0558385963887713, 15.909717594014168)
+2024-12-01 19:01:10,143 - INFO - The wolf moved
+2024-12-01 19:01:10,156 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,157 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,157 - INFO - The number of alive sheep: 8
+2024-12-01 19:01:10,157 - INFO - A 36 round was started 
+2024-12-01 19:01:10,157 - DEBUG - Sheep 2 randomly chose a direction of movement: South
+2024-12-01 19:01:10,157 - DEBUG - Sheep 2 moved, new position: (10.115996002859973, -15.750904475292275)
+2024-12-01 19:01:10,157 - DEBUG - Sheep 3 randomly chose a direction of movement: South
+2024-12-01 19:01:10,157 - DEBUG - Sheep 3 moved, new position: (-7.1063464550929965, -18.11146964947871)
+2024-12-01 19:01:10,157 - DEBUG - Sheep 4 randomly chose a direction of movement: North
+2024-12-01 19:01:10,157 - DEBUG - Sheep 4 moved, new position: (11.408920573089041, 8.448483504526191)
+2024-12-01 19:01:10,157 - DEBUG - Sheep 6 randomly chose a direction of movement: South
+2024-12-01 19:01:10,157 - DEBUG - Sheep 6 moved, new position: (7.212352908974612, -5.211708586736105)
+2024-12-01 19:01:10,157 - DEBUG - Sheep 8 randomly chose a direction of movement: North
+2024-12-01 19:01:10,157 - DEBUG - Sheep 8 moved, new position: (22.41243815170705, -16.828285694971193)
+2024-12-01 19:01:10,157 - DEBUG - Sheep 9 randomly chose a direction of movement: South
+2024-12-01 19:01:10,157 - DEBUG - Sheep 9 moved, new position: (-22.27202907416151, -3.465635021608115)
+2024-12-01 19:01:10,157 - DEBUG - Sheep 13 randomly chose a direction of movement: North
+2024-12-01 19:01:10,157 - DEBUG - Sheep 13 moved, new position: (8.029492192644344, -0.4194098043872252)
+2024-12-01 19:01:10,157 - DEBUG - Sheep 15 randomly chose a direction of movement: South
+2024-12-01 19:01:10,157 - DEBUG - Sheep 15 moved, new position: (12.224532797262114, 5.84832554715085)
+2024-12-01 19:01:10,157 - INFO - All alive sheep moved
+2024-12-01 19:01:10,157 - DEBUG - The closest sheep 4 is in distance of 11.964537458715775
+2024-12-01 19:01:10,157 - INFO - The wolf is chasing sheep 4
+2024-12-01 19:01:10,157 - DEBUG - The wolf moved to position: (2.837572283041811, 15.286105179808159)
+2024-12-01 19:01:10,158 - INFO - The wolf moved
+2024-12-01 19:01:10,171 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,172 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,172 - INFO - The number of alive sheep: 8
+2024-12-01 19:01:10,172 - INFO - A 37 round was started 
+2024-12-01 19:01:10,172 - DEBUG - Sheep 2 randomly chose a direction of movement: West
+2024-12-01 19:01:10,172 - DEBUG - Sheep 2 moved, new position: (9.615996002859973, -15.750904475292275)
+2024-12-01 19:01:10,172 - DEBUG - Sheep 3 randomly chose a direction of movement: South
+2024-12-01 19:01:10,172 - DEBUG - Sheep 3 moved, new position: (-7.1063464550929965, -18.61146964947871)
+2024-12-01 19:01:10,172 - DEBUG - Sheep 4 randomly chose a direction of movement: West
+2024-12-01 19:01:10,172 - DEBUG - Sheep 4 moved, new position: (10.908920573089041, 8.448483504526191)
+2024-12-01 19:01:10,172 - DEBUG - Sheep 6 randomly chose a direction of movement: North
+2024-12-01 19:01:10,173 - DEBUG - Sheep 6 moved, new position: (7.212352908974612, -4.711708586736105)
+2024-12-01 19:01:10,173 - DEBUG - Sheep 8 randomly chose a direction of movement: East
+2024-12-01 19:01:10,173 - DEBUG - Sheep 8 moved, new position: (22.91243815170705, -16.828285694971193)
+2024-12-01 19:01:10,173 - DEBUG - Sheep 9 randomly chose a direction of movement: East
+2024-12-01 19:01:10,173 - DEBUG - Sheep 9 moved, new position: (-21.77202907416151, -3.465635021608115)
+2024-12-01 19:01:10,173 - DEBUG - Sheep 13 randomly chose a direction of movement: North
+2024-12-01 19:01:10,173 - DEBUG - Sheep 13 moved, new position: (8.029492192644344, 0.0805901956127748)
+2024-12-01 19:01:10,173 - DEBUG - Sheep 15 randomly chose a direction of movement: South
+2024-12-01 19:01:10,173 - DEBUG - Sheep 15 moved, new position: (12.224532797262114, 5.34832554715085)
+2024-12-01 19:01:10,173 - INFO - All alive sheep moved
+2024-12-01 19:01:10,173 - DEBUG - The closest sheep 4 is in distance of 10.578267031680289
+2024-12-01 19:01:10,174 - INFO - The wolf is chasing sheep 4
+2024-12-01 19:01:10,174 - DEBUG - The wolf moved to position: (3.6005846238982837, 14.639721263160531)
+2024-12-01 19:01:10,174 - INFO - The wolf moved
+2024-12-01 19:01:10,190 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,190 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,190 - INFO - The number of alive sheep: 8
+2024-12-01 19:01:10,190 - INFO - A 38 round was started 
+2024-12-01 19:01:10,190 - DEBUG - Sheep 2 randomly chose a direction of movement: South
+2024-12-01 19:01:10,191 - DEBUG - Sheep 2 moved, new position: (9.615996002859973, -16.250904475292273)
+2024-12-01 19:01:10,191 - DEBUG - Sheep 3 randomly chose a direction of movement: West
+2024-12-01 19:01:10,191 - DEBUG - Sheep 3 moved, new position: (-7.6063464550929965, -18.61146964947871)
+2024-12-01 19:01:10,191 - DEBUG - Sheep 4 randomly chose a direction of movement: South
+2024-12-01 19:01:10,191 - DEBUG - Sheep 4 moved, new position: (10.908920573089041, 7.948483504526191)
+2024-12-01 19:01:10,191 - DEBUG - Sheep 6 randomly chose a direction of movement: West
+2024-12-01 19:01:10,191 - DEBUG - Sheep 6 moved, new position: (6.712352908974612, -4.711708586736105)
+2024-12-01 19:01:10,191 - DEBUG - Sheep 8 randomly chose a direction of movement: West
+2024-12-01 19:01:10,191 - DEBUG - Sheep 8 moved, new position: (22.41243815170705, -16.828285694971193)
+2024-12-01 19:01:10,191 - DEBUG - Sheep 9 randomly chose a direction of movement: South
+2024-12-01 19:01:10,191 - DEBUG - Sheep 9 moved, new position: (-21.77202907416151, -3.965635021608115)
+2024-12-01 19:01:10,191 - DEBUG - Sheep 13 randomly chose a direction of movement: South
+2024-12-01 19:01:10,191 - DEBUG - Sheep 13 moved, new position: (8.029492192644344, -0.4194098043872252)
+2024-12-01 19:01:10,191 - DEBUG - Sheep 15 randomly chose a direction of movement: North
+2024-12-01 19:01:10,191 - DEBUG - Sheep 15 moved, new position: (12.224532797262114, 5.84832554715085)
+2024-12-01 19:01:10,191 - INFO - All alive sheep moved
+2024-12-01 19:01:10,191 - DEBUG - The closest sheep 4 is in distance of 9.908806037500577
+2024-12-01 19:01:10,191 - INFO - The wolf is chasing sheep 4
+2024-12-01 19:01:10,191 - DEBUG - The wolf moved to position: (4.3381443179251775, 13.964439323710826)
+2024-12-01 19:01:10,191 - INFO - The wolf moved
+2024-12-01 19:01:10,208 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,208 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,209 - INFO - The number of alive sheep: 8
+2024-12-01 19:01:10,209 - INFO - A 39 round was started 
+2024-12-01 19:01:10,209 - DEBUG - Sheep 2 randomly chose a direction of movement: South
+2024-12-01 19:01:10,209 - DEBUG - Sheep 2 moved, new position: (9.615996002859973, -16.750904475292273)
+2024-12-01 19:01:10,209 - DEBUG - Sheep 3 randomly chose a direction of movement: North
+2024-12-01 19:01:10,209 - DEBUG - Sheep 3 moved, new position: (-7.6063464550929965, -18.11146964947871)
+2024-12-01 19:01:10,209 - DEBUG - Sheep 4 randomly chose a direction of movement: West
+2024-12-01 19:01:10,209 - DEBUG - Sheep 4 moved, new position: (10.408920573089041, 7.948483504526191)
+2024-12-01 19:01:10,209 - DEBUG - Sheep 6 randomly chose a direction of movement: West
+2024-12-01 19:01:10,209 - DEBUG - Sheep 6 moved, new position: (6.212352908974612, -4.711708586736105)
+2024-12-01 19:01:10,209 - DEBUG - Sheep 8 randomly chose a direction of movement: West
+2024-12-01 19:01:10,209 - DEBUG - Sheep 8 moved, new position: (21.91243815170705, -16.828285694971193)
+2024-12-01 19:01:10,209 - DEBUG - Sheep 9 randomly chose a direction of movement: West
+2024-12-01 19:01:10,209 - DEBUG - Sheep 9 moved, new position: (-22.27202907416151, -3.965635021608115)
+2024-12-01 19:01:10,209 - DEBUG - Sheep 13 randomly chose a direction of movement: North
+2024-12-01 19:01:10,209 - DEBUG - Sheep 13 moved, new position: (8.029492192644344, 0.0805901956127748)
+2024-12-01 19:01:10,209 - DEBUG - Sheep 15 randomly chose a direction of movement: West
+2024-12-01 19:01:10,209 - DEBUG - Sheep 15 moved, new position: (11.724532797262114, 5.84832554715085)
+2024-12-01 19:01:10,210 - INFO - All alive sheep moved
+2024-12-01 19:01:10,210 - DEBUG - The closest sheep 4 is in distance of 8.546698120247541
+2024-12-01 19:01:10,210 - INFO - The wolf is chasing sheep 4
+2024-12-01 19:01:10,210 - DEBUG - The wolf moved to position: (5.048450938066809, 13.260546927542936)
+2024-12-01 19:01:10,210 - INFO - The wolf moved
+2024-12-01 19:01:10,224 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,224 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,225 - INFO - The number of alive sheep: 8
+2024-12-01 19:01:10,225 - INFO - A 40 round was started 
+2024-12-01 19:01:10,225 - DEBUG - Sheep 2 randomly chose a direction of movement: East
+2024-12-01 19:01:10,225 - DEBUG - Sheep 2 moved, new position: (10.115996002859973, -16.750904475292273)
+2024-12-01 19:01:10,225 - DEBUG - Sheep 3 randomly chose a direction of movement: South
+2024-12-01 19:01:10,225 - DEBUG - Sheep 3 moved, new position: (-7.6063464550929965, -18.61146964947871)
+2024-12-01 19:01:10,225 - DEBUG - Sheep 4 randomly chose a direction of movement: East
+2024-12-01 19:01:10,225 - DEBUG - Sheep 4 moved, new position: (10.908920573089041, 7.948483504526191)
+2024-12-01 19:01:10,225 - DEBUG - Sheep 6 randomly chose a direction of movement: West
+2024-12-01 19:01:10,225 - DEBUG - Sheep 6 moved, new position: (5.712352908974612, -4.711708586736105)
+2024-12-01 19:01:10,225 - DEBUG - Sheep 8 randomly chose a direction of movement: North
+2024-12-01 19:01:10,225 - DEBUG - Sheep 8 moved, new position: (21.91243815170705, -16.328285694971193)
+2024-12-01 19:01:10,225 - DEBUG - Sheep 9 randomly chose a direction of movement: North
+2024-12-01 19:01:10,225 - DEBUG - Sheep 9 moved, new position: (-22.27202907416151, -3.465635021608115)
+2024-12-01 19:01:10,225 - DEBUG - Sheep 13 randomly chose a direction of movement: South
+2024-12-01 19:01:10,225 - DEBUG - Sheep 13 moved, new position: (8.029492192644344, -0.4194098043872252)
+2024-12-01 19:01:10,225 - DEBUG - Sheep 15 randomly chose a direction of movement: West
+2024-12-01 19:01:10,225 - DEBUG - Sheep 15 moved, new position: (11.224532797262114, 5.84832554715085)
+2024-12-01 19:01:10,225 - INFO - All alive sheep moved
+2024-12-01 19:01:10,225 - DEBUG - The closest sheep 4 is in distance of 7.909685338442358
+2024-12-01 19:01:10,225 - INFO - The wolf is chasing sheep 4
+2024-12-01 19:01:10,226 - DEBUG - The wolf moved to position: (5.789374171326089, 12.58895719979495)
+2024-12-01 19:01:10,226 - INFO - The wolf moved
+2024-12-01 19:01:10,241 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,241 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,241 - INFO - The number of alive sheep: 8
+2024-12-01 19:01:10,241 - INFO - A 41 round was started 
+2024-12-01 19:01:10,242 - DEBUG - Sheep 2 randomly chose a direction of movement: East
+2024-12-01 19:01:10,242 - DEBUG - Sheep 2 moved, new position: (10.615996002859973, -16.750904475292273)
+2024-12-01 19:01:10,242 - DEBUG - Sheep 3 randomly chose a direction of movement: North
+2024-12-01 19:01:10,242 - DEBUG - Sheep 3 moved, new position: (-7.6063464550929965, -18.11146964947871)
+2024-12-01 19:01:10,242 - DEBUG - Sheep 4 randomly chose a direction of movement: North
+2024-12-01 19:01:10,242 - DEBUG - Sheep 4 moved, new position: (10.908920573089041, 8.448483504526191)
+2024-12-01 19:01:10,242 - DEBUG - Sheep 6 randomly chose a direction of movement: East
+2024-12-01 19:01:10,242 - DEBUG - Sheep 6 moved, new position: (6.212352908974612, -4.711708586736105)
+2024-12-01 19:01:10,242 - DEBUG - Sheep 8 randomly chose a direction of movement: East
+2024-12-01 19:01:10,242 - DEBUG - Sheep 8 moved, new position: (22.41243815170705, -16.328285694971193)
+2024-12-01 19:01:10,242 - DEBUG - Sheep 9 randomly chose a direction of movement: West
+2024-12-01 19:01:10,242 - DEBUG - Sheep 9 moved, new position: (-22.77202907416151, -3.465635021608115)
+2024-12-01 19:01:10,242 - DEBUG - Sheep 13 randomly chose a direction of movement: West
+2024-12-01 19:01:10,242 - DEBUG - Sheep 13 moved, new position: (7.529492192644344, -0.4194098043872252)
+2024-12-01 19:01:10,242 - DEBUG - Sheep 15 randomly chose a direction of movement: South
+2024-12-01 19:01:10,242 - DEBUG - Sheep 15 moved, new position: (11.224532797262114, 5.34832554715085)
+2024-12-01 19:01:10,242 - INFO - All alive sheep moved
+2024-12-01 19:01:10,242 - DEBUG - The closest sheep 4 is in distance of 6.584320601323762
+2024-12-01 19:01:10,242 - INFO - The wolf is chasing sheep 4
+2024-12-01 19:01:10,242 - DEBUG - The wolf moved to position: (6.566910186315043, 11.960118790189512)
+2024-12-01 19:01:10,242 - INFO - The wolf moved
+2024-12-01 19:01:10,257 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,258 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,258 - INFO - The number of alive sheep: 8
+2024-12-01 19:01:10,258 - INFO - A 42 round was started 
+2024-12-01 19:01:10,258 - DEBUG - Sheep 2 randomly chose a direction of movement: East
+2024-12-01 19:01:10,258 - DEBUG - Sheep 2 moved, new position: (11.115996002859973, -16.750904475292273)
+2024-12-01 19:01:10,258 - DEBUG - Sheep 3 randomly chose a direction of movement: West
+2024-12-01 19:01:10,258 - DEBUG - Sheep 3 moved, new position: (-8.106346455092996, -18.11146964947871)
+2024-12-01 19:01:10,258 - DEBUG - Sheep 4 randomly chose a direction of movement: West
+2024-12-01 19:01:10,258 - DEBUG - Sheep 4 moved, new position: (10.408920573089041, 8.448483504526191)
+2024-12-01 19:01:10,258 - DEBUG - Sheep 6 randomly chose a direction of movement: West
+2024-12-01 19:01:10,258 - DEBUG - Sheep 6 moved, new position: (5.712352908974612, -4.711708586736105)
+2024-12-01 19:01:10,258 - DEBUG - Sheep 8 randomly chose a direction of movement: East
+2024-12-01 19:01:10,258 - DEBUG - Sheep 8 moved, new position: (22.91243815170705, -16.328285694971193)
+2024-12-01 19:01:10,258 - DEBUG - Sheep 9 randomly chose a direction of movement: North
+2024-12-01 19:01:10,258 - DEBUG - Sheep 9 moved, new position: (-22.77202907416151, -2.965635021608115)
+2024-12-01 19:01:10,258 - DEBUG - Sheep 13 randomly chose a direction of movement: North
+2024-12-01 19:01:10,259 - DEBUG - Sheep 13 moved, new position: (7.529492192644344, 0.0805901956127748)
+2024-12-01 19:01:10,259 - DEBUG - Sheep 15 randomly chose a direction of movement: North
+2024-12-01 19:01:10,259 - DEBUG - Sheep 15 moved, new position: (11.224532797262114, 5.84832554715085)
+2024-12-01 19:01:10,259 - INFO - All alive sheep moved
+2024-12-01 19:01:10,259 - DEBUG - The closest sheep 4 is in distance of 5.205057751033603
+2024-12-01 19:01:10,259 - INFO - The wolf is chasing sheep 4
+2024-12-01 19:01:10,259 - DEBUG - The wolf moved to position: (7.3050403993777255, 11.285460514790744)
+2024-12-01 19:01:10,259 - INFO - The wolf moved
+2024-12-01 19:01:10,280 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,280 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,280 - INFO - The number of alive sheep: 8
+2024-12-01 19:01:10,280 - INFO - A 43 round was started 
+2024-12-01 19:01:10,280 - DEBUG - Sheep 2 randomly chose a direction of movement: East
+2024-12-01 19:01:10,280 - DEBUG - Sheep 2 moved, new position: (11.615996002859973, -16.750904475292273)
+2024-12-01 19:01:10,280 - DEBUG - Sheep 3 randomly chose a direction of movement: West
+2024-12-01 19:01:10,280 - DEBUG - Sheep 3 moved, new position: (-8.606346455092996, -18.11146964947871)
+2024-12-01 19:01:10,280 - DEBUG - Sheep 4 randomly chose a direction of movement: North
+2024-12-01 19:01:10,280 - DEBUG - Sheep 4 moved, new position: (10.408920573089041, 8.948483504526191)
+2024-12-01 19:01:10,280 - DEBUG - Sheep 6 randomly chose a direction of movement: North
+2024-12-01 19:01:10,280 - DEBUG - Sheep 6 moved, new position: (5.712352908974612, -4.211708586736105)
+2024-12-01 19:01:10,280 - DEBUG - Sheep 8 randomly chose a direction of movement: South
+2024-12-01 19:01:10,280 - DEBUG - Sheep 8 moved, new position: (22.91243815170705, -16.828285694971193)
+2024-12-01 19:01:10,280 - DEBUG - Sheep 9 randomly chose a direction of movement: South
+2024-12-01 19:01:10,280 - DEBUG - Sheep 9 moved, new position: (-22.77202907416151, -3.465635021608115)
+2024-12-01 19:01:10,280 - DEBUG - Sheep 13 randomly chose a direction of movement: East
+2024-12-01 19:01:10,280 - DEBUG - Sheep 13 moved, new position: (8.029492192644344, 0.0805901956127748)
+2024-12-01 19:01:10,280 - DEBUG - Sheep 15 randomly chose a direction of movement: North
+2024-12-01 19:01:10,280 - DEBUG - Sheep 15 moved, new position: (11.224532797262114, 6.34832554715085)
+2024-12-01 19:01:10,280 - INFO - All alive sheep moved
+2024-12-01 19:01:10,280 - DEBUG - The closest sheep 4 is in distance of 3.88529711595693
+2024-12-01 19:01:10,280 - INFO - The wolf is chasing sheep 4
+2024-12-01 19:01:10,280 - DEBUG - The wolf moved to position: (8.103918858624425, 10.683968031586158)
+2024-12-01 19:01:10,280 - INFO - The wolf moved
+2024-12-01 19:01:10,296 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,297 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,297 - INFO - The number of alive sheep: 8
+2024-12-01 19:01:10,297 - INFO - A 44 round was started 
+2024-12-01 19:01:10,297 - DEBUG - Sheep 2 randomly chose a direction of movement: East
+2024-12-01 19:01:10,297 - DEBUG - Sheep 2 moved, new position: (12.115996002859973, -16.750904475292273)
+2024-12-01 19:01:10,297 - DEBUG - Sheep 3 randomly chose a direction of movement: North
+2024-12-01 19:01:10,297 - DEBUG - Sheep 3 moved, new position: (-8.606346455092996, -17.61146964947871)
+2024-12-01 19:01:10,297 - DEBUG - Sheep 4 randomly chose a direction of movement: West
+2024-12-01 19:01:10,297 - DEBUG - Sheep 4 moved, new position: (9.908920573089041, 8.948483504526191)
+2024-12-01 19:01:10,297 - DEBUG - Sheep 6 randomly chose a direction of movement: West
+2024-12-01 19:01:10,297 - DEBUG - Sheep 6 moved, new position: (5.212352908974612, -4.211708586736105)
+2024-12-01 19:01:10,297 - DEBUG - Sheep 8 randomly chose a direction of movement: South
+2024-12-01 19:01:10,298 - DEBUG - Sheep 8 moved, new position: (22.91243815170705, -17.328285694971193)
+2024-12-01 19:01:10,298 - DEBUG - Sheep 9 randomly chose a direction of movement: North
+2024-12-01 19:01:10,298 - DEBUG - Sheep 9 moved, new position: (-22.77202907416151, -2.965635021608115)
+2024-12-01 19:01:10,298 - DEBUG - Sheep 13 randomly chose a direction of movement: North
+2024-12-01 19:01:10,298 - DEBUG - Sheep 13 moved, new position: (8.029492192644344, 0.5805901956127748)
+2024-12-01 19:01:10,298 - DEBUG - Sheep 15 randomly chose a direction of movement: East
+2024-12-01 19:01:10,298 - DEBUG - Sheep 15 moved, new position: (11.724532797262114, 6.34832554715085)
+2024-12-01 19:01:10,298 - INFO - All alive sheep moved
+2024-12-01 19:01:10,298 - DEBUG - The closest sheep 4 is in distance of 2.5039843715336483
+2024-12-01 19:01:10,298 - INFO - The wolf is chasing sheep 4
+2024-12-01 19:01:10,298 - DEBUG - The wolf moved to position: (8.824770687807002, 9.990878830715063)
+2024-12-01 19:01:10,298 - INFO - The wolf moved
+2024-12-01 19:01:10,315 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,316 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,316 - INFO - The number of alive sheep: 8
+2024-12-01 19:01:10,316 - INFO - A 45 round was started 
+2024-12-01 19:01:10,316 - DEBUG - Sheep 2 randomly chose a direction of movement: South
+2024-12-01 19:01:10,316 - DEBUG - Sheep 2 moved, new position: (12.115996002859973, -17.250904475292273)
+2024-12-01 19:01:10,316 - DEBUG - Sheep 3 randomly chose a direction of movement: North
+2024-12-01 19:01:10,316 - DEBUG - Sheep 3 moved, new position: (-8.606346455092996, -17.11146964947871)
+2024-12-01 19:01:10,316 - DEBUG - Sheep 4 randomly chose a direction of movement: East
+2024-12-01 19:01:10,316 - DEBUG - Sheep 4 moved, new position: (10.408920573089041, 8.948483504526191)
+2024-12-01 19:01:10,316 - DEBUG - Sheep 6 randomly chose a direction of movement: West
+2024-12-01 19:01:10,316 - DEBUG - Sheep 6 moved, new position: (4.712352908974612, -4.211708586736105)
+2024-12-01 19:01:10,316 - DEBUG - Sheep 8 randomly chose a direction of movement: North
+2024-12-01 19:01:10,316 - DEBUG - Sheep 8 moved, new position: (22.91243815170705, -16.828285694971193)
+2024-12-01 19:01:10,316 - DEBUG - Sheep 9 randomly chose a direction of movement: West
+2024-12-01 19:01:10,316 - DEBUG - Sheep 9 moved, new position: (-23.27202907416151, -2.965635021608115)
+2024-12-01 19:01:10,316 - DEBUG - Sheep 13 randomly chose a direction of movement: South
+2024-12-01 19:01:10,316 - DEBUG - Sheep 13 moved, new position: (8.029492192644344, 0.0805901956127748)
+2024-12-01 19:01:10,316 - DEBUG - Sheep 15 randomly chose a direction of movement: East
+2024-12-01 19:01:10,316 - DEBUG - Sheep 15 moved, new position: (12.224532797262114, 6.34832554715085)
+2024-12-01 19:01:10,317 - INFO - All alive sheep moved
+2024-12-01 19:01:10,317 - DEBUG - The closest sheep 4 is in distance of 1.8963435540796676
+2024-12-01 19:01:10,317 - INFO - The wolf is chasing sheep 4
+2024-12-01 19:01:10,317 - DEBUG - The wolf moved to position: (9.660141410519142, 9.441191869222072)
+2024-12-01 19:01:10,317 - INFO - The wolf moved
+2024-12-01 19:01:10,332 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,332 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,332 - INFO - The number of alive sheep: 8
+2024-12-01 19:01:10,332 - INFO - A 46 round was started 
+2024-12-01 19:01:10,332 - DEBUG - Sheep 2 randomly chose a direction of movement: West
+2024-12-01 19:01:10,332 - DEBUG - Sheep 2 moved, new position: (11.615996002859973, -17.250904475292273)
+2024-12-01 19:01:10,332 - DEBUG - Sheep 3 randomly chose a direction of movement: North
+2024-12-01 19:01:10,332 - DEBUG - Sheep 3 moved, new position: (-8.606346455092996, -16.61146964947871)
+2024-12-01 19:01:10,332 - DEBUG - Sheep 4 randomly chose a direction of movement: East
+2024-12-01 19:01:10,332 - DEBUG - Sheep 4 moved, new position: (10.908920573089041, 8.948483504526191)
+2024-12-01 19:01:10,332 - DEBUG - Sheep 6 randomly chose a direction of movement: North
+2024-12-01 19:01:10,332 - DEBUG - Sheep 6 moved, new position: (4.712352908974612, -3.711708586736105)
+2024-12-01 19:01:10,332 - DEBUG - Sheep 8 randomly chose a direction of movement: West
+2024-12-01 19:01:10,332 - DEBUG - Sheep 8 moved, new position: (22.41243815170705, -16.828285694971193)
+2024-12-01 19:01:10,332 - DEBUG - Sheep 9 randomly chose a direction of movement: East
+2024-12-01 19:01:10,332 - DEBUG - Sheep 9 moved, new position: (-22.77202907416151, -2.965635021608115)
+2024-12-01 19:01:10,332 - DEBUG - Sheep 13 randomly chose a direction of movement: South
+2024-12-01 19:01:10,334 - DEBUG - Sheep 13 moved, new position: (8.029492192644344, -0.4194098043872252)
+2024-12-01 19:01:10,334 - DEBUG - Sheep 15 randomly chose a direction of movement: North
+2024-12-01 19:01:10,334 - DEBUG - Sheep 15 moved, new position: (12.224532797262114, 6.84832554715085)
+2024-12-01 19:01:10,334 - INFO - All alive sheep moved
+2024-12-01 19:01:10,334 - DEBUG - The closest sheep 4 is in distance of 1.3424644984170229
+2024-12-01 19:01:10,334 - INFO - The wolf is chasing sheep 4
+2024-12-01 19:01:10,334 - DEBUG - The wolf moved to position: (10.590355329801481, 9.074174070779833)
+2024-12-01 19:01:10,334 - INFO - The wolf moved
+2024-12-01 19:01:10,349 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,350 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,350 - INFO - The number of alive sheep: 8
+2024-12-01 19:01:10,350 - INFO - A 47 round was started 
+2024-12-01 19:01:10,350 - DEBUG - Sheep 2 randomly chose a direction of movement: South
+2024-12-01 19:01:10,350 - DEBUG - Sheep 2 moved, new position: (11.615996002859973, -17.750904475292273)
+2024-12-01 19:01:10,350 - DEBUG - Sheep 3 randomly chose a direction of movement: East
+2024-12-01 19:01:10,350 - DEBUG - Sheep 3 moved, new position: (-8.106346455092996, -16.61146964947871)
+2024-12-01 19:01:10,351 - DEBUG - Sheep 4 randomly chose a direction of movement: East
+2024-12-01 19:01:10,351 - DEBUG - Sheep 4 moved, new position: (11.408920573089041, 8.948483504526191)
+2024-12-01 19:01:10,351 - DEBUG - Sheep 6 randomly chose a direction of movement: North
+2024-12-01 19:01:10,351 - DEBUG - Sheep 6 moved, new position: (4.712352908974612, -3.211708586736105)
+2024-12-01 19:01:10,351 - DEBUG - Sheep 8 randomly chose a direction of movement: South
+2024-12-01 19:01:10,351 - DEBUG - Sheep 8 moved, new position: (22.41243815170705, -17.328285694971193)
+2024-12-01 19:01:10,351 - DEBUG - Sheep 9 randomly chose a direction of movement: East
+2024-12-01 19:01:10,351 - DEBUG - Sheep 9 moved, new position: (-22.27202907416151, -2.965635021608115)
+2024-12-01 19:01:10,351 - DEBUG - Sheep 13 randomly chose a direction of movement: West
+2024-12-01 19:01:10,351 - DEBUG - Sheep 13 moved, new position: (7.529492192644344, -0.4194098043872252)
+2024-12-01 19:01:10,351 - DEBUG - Sheep 15 randomly chose a direction of movement: North
+2024-12-01 19:01:10,351 - DEBUG - Sheep 15 moved, new position: (12.224532797262114, 7.34832554715085)
+2024-12-01 19:01:10,351 - INFO - All alive sheep moved
+2024-12-01 19:01:10,351 - DEBUG - The closest sheep 4 is in distance of 0.8281589074347893
+2024-12-01 19:01:10,351 - INFO - A 4 sheep was eaten
+2024-12-01 19:01:10,351 - DEBUG - The wolf moved to position: (11.408920573089041, 8.948483504526191)
+2024-12-01 19:01:10,351 - INFO - The wolf moved
+2024-12-01 19:01:10,367 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,367 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,368 - INFO - The number of alive sheep: 7
+2024-12-01 19:01:10,368 - INFO - A 48 round was started 
+2024-12-01 19:01:10,368 - DEBUG - Sheep 2 randomly chose a direction of movement: West
+2024-12-01 19:01:10,368 - DEBUG - Sheep 2 moved, new position: (11.115996002859973, -17.750904475292273)
+2024-12-01 19:01:10,368 - DEBUG - Sheep 3 randomly chose a direction of movement: West
+2024-12-01 19:01:10,368 - DEBUG - Sheep 3 moved, new position: (-8.606346455092996, -16.61146964947871)
+2024-12-01 19:01:10,368 - DEBUG - Sheep 6 randomly chose a direction of movement: West
+2024-12-01 19:01:10,368 - DEBUG - Sheep 6 moved, new position: (4.212352908974612, -3.211708586736105)
+2024-12-01 19:01:10,368 - DEBUG - Sheep 8 randomly chose a direction of movement: West
+2024-12-01 19:01:10,368 - DEBUG - Sheep 8 moved, new position: (21.91243815170705, -17.328285694971193)
+2024-12-01 19:01:10,368 - DEBUG - Sheep 9 randomly chose a direction of movement: North
+2024-12-01 19:01:10,368 - DEBUG - Sheep 9 moved, new position: (-22.27202907416151, -2.465635021608115)
+2024-12-01 19:01:10,368 - DEBUG - Sheep 13 randomly chose a direction of movement: South
+2024-12-01 19:01:10,368 - DEBUG - Sheep 13 moved, new position: (7.529492192644344, -0.9194098043872252)
+2024-12-01 19:01:10,368 - DEBUG - Sheep 15 randomly chose a direction of movement: West
+2024-12-01 19:01:10,368 - DEBUG - Sheep 15 moved, new position: (11.724532797262114, 7.34832554715085)
+2024-12-01 19:01:10,368 - INFO - All alive sheep moved
+2024-12-01 19:01:10,368 - DEBUG - The closest sheep 15 is in distance of 1.6309863778091764
+2024-12-01 19:01:10,368 - INFO - The wolf is chasing sheep 15
+2024-12-01 19:01:10,368 - DEBUG - The wolf moved to position: (11.602430603869935, 7.967385207724501)
+2024-12-01 19:01:10,368 - INFO - The wolf moved
+2024-12-01 19:01:10,386 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,386 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,387 - INFO - The number of alive sheep: 7
+2024-12-01 19:01:10,387 - INFO - A 49 round was started 
+2024-12-01 19:01:10,387 - DEBUG - Sheep 2 randomly chose a direction of movement: North
+2024-12-01 19:01:10,387 - DEBUG - Sheep 2 moved, new position: (11.115996002859973, -17.250904475292273)
+2024-12-01 19:01:10,387 - DEBUG - Sheep 3 randomly chose a direction of movement: East
+2024-12-01 19:01:10,387 - DEBUG - Sheep 3 moved, new position: (-8.106346455092996, -16.61146964947871)
+2024-12-01 19:01:10,387 - DEBUG - Sheep 6 randomly chose a direction of movement: East
+2024-12-01 19:01:10,387 - DEBUG - Sheep 6 moved, new position: (4.712352908974612, -3.211708586736105)
+2024-12-01 19:01:10,387 - DEBUG - Sheep 8 randomly chose a direction of movement: East
+2024-12-01 19:01:10,387 - DEBUG - Sheep 8 moved, new position: (22.41243815170705, -17.328285694971193)
+2024-12-01 19:01:10,387 - DEBUG - Sheep 9 randomly chose a direction of movement: South
+2024-12-01 19:01:10,387 - DEBUG - Sheep 9 moved, new position: (-22.27202907416151, -2.965635021608115)
+2024-12-01 19:01:10,387 - DEBUG - Sheep 13 randomly chose a direction of movement: East
+2024-12-01 19:01:10,387 - DEBUG - Sheep 13 moved, new position: (8.029492192644344, -0.9194098043872252)
+2024-12-01 19:01:10,387 - DEBUG - Sheep 15 randomly chose a direction of movement: North
+2024-12-01 19:01:10,387 - DEBUG - Sheep 15 moved, new position: (11.724532797262114, 7.84832554715085)
+2024-12-01 19:01:10,387 - INFO - All alive sheep moved
+2024-12-01 19:01:10,387 - DEBUG - The closest sheep 15 is in distance of 0.17054075292168133
+2024-12-01 19:01:10,387 - INFO - A 15 sheep was eaten
+2024-12-01 19:01:10,387 - DEBUG - The wolf moved to position: (11.724532797262114, 7.84832554715085)
+2024-12-01 19:01:10,388 - INFO - The wolf moved
+2024-12-01 19:01:10,404 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,404 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,404 - INFO - The number of alive sheep: 6
+2024-12-01 19:01:10,404 - INFO - A 50 round was started 
+2024-12-01 19:01:10,404 - DEBUG - Sheep 2 randomly chose a direction of movement: North
+2024-12-01 19:01:10,405 - DEBUG - Sheep 2 moved, new position: (11.115996002859973, -16.750904475292273)
+2024-12-01 19:01:10,405 - DEBUG - Sheep 3 randomly chose a direction of movement: East
+2024-12-01 19:01:10,405 - DEBUG - Sheep 3 moved, new position: (-7.6063464550929965, -16.61146964947871)
+2024-12-01 19:01:10,405 - DEBUG - Sheep 6 randomly chose a direction of movement: West
+2024-12-01 19:01:10,405 - DEBUG - Sheep 6 moved, new position: (4.212352908974612, -3.211708586736105)
+2024-12-01 19:01:10,405 - DEBUG - Sheep 8 randomly chose a direction of movement: West
+2024-12-01 19:01:10,405 - DEBUG - Sheep 8 moved, new position: (21.91243815170705, -17.328285694971193)
+2024-12-01 19:01:10,405 - DEBUG - Sheep 9 randomly chose a direction of movement: South
+2024-12-01 19:01:10,405 - DEBUG - Sheep 9 moved, new position: (-22.27202907416151, -3.465635021608115)
+2024-12-01 19:01:10,405 - DEBUG - Sheep 13 randomly chose a direction of movement: North
+2024-12-01 19:01:10,405 - DEBUG - Sheep 13 moved, new position: (8.029492192644344, -0.4194098043872252)
+2024-12-01 19:01:10,405 - INFO - All alive sheep moved
+2024-12-01 19:01:10,405 - DEBUG - The closest sheep 13 is in distance of 9.055869528258812
+2024-12-01 19:01:10,405 - INFO - The wolf is chasing sheep 13
+2024-12-01 19:01:10,405 - DEBUG - The wolf moved to position: (11.31650565054943, 6.93535575162336)
+2024-12-01 19:01:10,405 - INFO - The wolf moved
+2024-12-01 19:01:10,422 - DEBUG - Information was saved to pos.json file
+2024-12-01 19:01:10,422 - DEBUG - Information was saved to alive.csv file
+2024-12-01 19:01:10,422 - INFO - The number of alive sheep: 6
+2024-12-01 19:01:10,422 - INFO - The simulation has terminated because of reaching the maximum number of rounds

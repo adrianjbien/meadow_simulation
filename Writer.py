@@ -11,7 +11,7 @@ class Writer:
     def write_to_json(self, data):
         if not isinstance(data, dict):
             raise ValueError('Data must be a dictionary.')
-        
+
         required_keys = {'round_no', 'wolf_pos', 'sheep_pos'}
         if not required_keys.issubset(data.keys()):
             raise ValueError(f"Data must contain keys: {required_keys}")
@@ -23,7 +23,7 @@ class Writer:
                     if not isinstance(existing_data, list):
                         raise ValueError("Existing file content is not a list.")
                 except json.JSONDecodeError:
-                    existing_data = []  
+                    existing_data = []
         else:
             existing_data = []
 
@@ -46,7 +46,8 @@ class Writer:
 
         file_exists = os.path.exists(self.csv_file)
 
-        with open(self.csv_file, 'w', newline='') as file:
+
+        with open(self.csv_file, 'a', newline='') as file:
             writer = csv.writer(file)
 
             if not file_exists:
@@ -54,3 +55,9 @@ class Writer:
             
             writer.writerow(row)
         logging.debug("Information was saved to alive.csv file")
+
+    def erase_file_content(self):
+        with open(self.csv_file, 'w'):
+            pass
+        with open(self.json_file, 'w'):
+            pass

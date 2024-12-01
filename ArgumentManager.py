@@ -34,7 +34,6 @@ class ArgumentManager:
 
     def get_logging_level(self):
         temp = self.parser.parse_args().log
-        print(temp)
         if temp:
             match temp.upper():
                 case "INFO":
@@ -58,7 +57,7 @@ class ArgumentManager:
         if temp is None:  # jesli nie podano argumentu --config
             pos_limit = 10
             sheep_move_dis = 0.5
-            wolf_move_dis = 1
+            wolf_move_dis = 1.0
         else:
             if os.path.exists(temp):  # jesli podany plik konfiguarcyjny istnieje
                 self.config_parser.read(temp)
