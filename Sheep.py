@@ -14,8 +14,14 @@ class Sheep(Animal):
         self.direction = 0
         self.alive = True
         self.sequence_num = sequence_num
-        logging.debug("Initial position of a sheep " + str(self.sequence_num) +
-                      " was determined: (" + str(init_x) + ", " + str(init_y) + ")")
+        logging.debug("Initial position of a sheep "
+                      + str(self.sequence_num)
+                      + " was determined: ("
+                      + str(init_x)
+                      + ", "
+                      + str(init_y)
+                      + ")"
+                      )
         self.direction_map = {
             0: "North",
             1: "East",
@@ -41,9 +47,14 @@ class Sheep(Animal):
     def move(self):
         if self.alive:
             self.set_random_direction()
-            logging.debug("Sheep " + str(self.sequence_num) + " randomly chose a direction of movement: "
-                          + self.direction_map[self.direction])
-            if self.direction == 0: # jesli kierunek 0 (north) idzie do gory o dlugosc kroku itd.
+
+            logging.debug("Sheep "
+                          + str(self.sequence_num)
+                          + " randomly chose a direction of movement: "
+                          + self.direction_map[self.direction]
+                          )
+
+            if self.direction == 0:
                 self.set_y_cord(self.get_y_cord() + self.step_length)
             elif self.direction == 2:
                 self.set_y_cord(self.get_y_cord() - self.step_length)
@@ -51,7 +62,12 @@ class Sheep(Animal):
                 self.set_x_cord(self.get_x_cord() + self.step_length)
             elif self.direction == 3:
                 self.set_x_cord(self.get_x_cord() - self.step_length)
-            logging.debug("Sheep " + str(self.sequence_num) +
-                          " moved, new position: (" + str(self.get_x_cord()) + ", " + str(self.get_y_cord()) + ")")
 
-
+            logging.debug("Sheep "
+                          + str(self.sequence_num)
+                          + " moved, new position: ("
+                          + str(self.get_x_cord())
+                          + ", "
+                          + str(self.get_y_cord())
+                          + ")"
+                          )
